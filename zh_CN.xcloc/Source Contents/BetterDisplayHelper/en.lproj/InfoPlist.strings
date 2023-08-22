@@ -1,0 +1,6 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "";
+/* Bundle name */
+"CFBundleName" = "BetterDisplayHelper";
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "MIT Licensed, 2021.";

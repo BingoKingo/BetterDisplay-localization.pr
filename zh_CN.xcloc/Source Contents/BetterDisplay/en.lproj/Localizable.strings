@@ -1,0 +1,2745 @@
+/* No comment provided by engineer. */
+"" = "";
+
+/* No comment provided by engineer. */
+"-" = "-";
+
+/* No comment provided by engineer. */
+"(%@)" = "(%@)";
+
+/* No comment provided by engineer. */
+"[betterdisplay.pro](https://betterdisplay.pro)" = "[betterdisplay.pro](https://betterdisplay.pro)";
+
+/* No comment provided by engineer. */
+"[betterdisplay.pro/buy](https://betterdisplay.pro/buy)" = "[betterdisplay.pro/buy](https://betterdisplay.pro/buy)";
+
+/* No comment provided by engineer. */
+"[License Terms](https://betterdisplay.pro/license)" = "[License Terms](https://betterdisplay.pro/license)";
+
+/* No comment provided by engineer. */
+"[More information about Accessibility Permissions…](https://support.apple.com/guide/mac-help/allow-accessibility-apps-to-access-your-mac-mh43185)" = "[More information about Accessibility Permissions…](https://support.apple.com/guide/mac-help/allow-accessibility-apps-to-access-your-mac-mh43185)";
+
+/* No comment provided by engineer. */
+"[Privacy Policy](https://betterdisplay.pro/privacy)" = "[Privacy Policy](https://betterdisplay.pro/privacy)";
+
+/* No comment provided by engineer. */
+"@" = "@";
+
+/* No comment provided by engineer. */
+"%" = "%";
+
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* No comment provided by engineer. */
+"%@ - Swap Position" = "%@ - Swap Position";
+
+/* No comment provided by engineer. */
+"%@ (%@)" = "%@ (%@)";
+
+/* No comment provided by engineer. */
+"%@ %@" = "%@ %@";
+
+/* No comment provided by engineer. */
+"%@, %@" = "%@, %@";
+
+/* No comment provided by engineer. */
+"%@%@" = "%@%@";
+
+/* No comment provided by engineer. */
+"%@%@%@" = "%@%@%@";
+
+/* No comment provided by engineer. */
+"%@x%@" = "%@x%@";
+
+/* No comment provided by engineer. */
+"%@x%@%@ %@ %lld%@" = "%@x%@%@ %@ %lld%@";
+
+/* No comment provided by engineer. */
+"%lld" = "%lld";
+
+/* No comment provided by engineer. */
+"%lld Trial Days Left" = "%lld Trial Days Left";
+
+/* No comment provided by engineer. */
+"%lld x %lld" = "%lld x %lld";
+
+/* No comment provided by engineer. */
+"%lld x %lld %@ @ %lldHz" = "%lld x %lld %@ @ %lldHz";
+
+/* No comment provided by engineer. */
+"%lld, %@" = "%lld, %@";
+
+/* No comment provided by engineer. */
+"%lld%@" = "%lld%@";
+
+/* No comment provided by engineer. */
+"%u" = "%u";
+
+/* No comment provided by engineer. */
+"%u bits per sample" = "%u bits per sample";
+
+/* No comment provided by engineer. */
+"⚠ Associated display mirroring is enforced!" = "⚠ Associated display mirroring is enforced!";
+
+/* No comment provided by engineer. */
+"⚠️ EDID data cannot be interpreted (might be invalid)." = "⚠️ EDID data cannot be interpreted (might be invalid).";
+
+/* No comment provided by engineer. */
+"⚠️ EDID data retrieval failed." = "⚠️ EDID data retrieval failed.";
+
+/* No comment provided by engineer. */
+"⚠️ For best results stick close to the display aspect ratio!" = "⚠️ For best results stick close to the display aspect ratio!";
+
+/* No comment provided by engineer. */
+"⚠️ Full-screen streaming is unavailable as it requires Screen Recording permissions. You can grant this under System Settings > Privacy & Security > Screen Recording!" = "⚠️ Full-screen streaming is unavailable as it requires Screen Recording permissions. You can grant this under System Settings > Privacy & Security > Screen Recording!";
+
+/* No comment provided by engineer. */
+"⚠️ If you want to mirror/stream the virtual screen to a natively connected display only to get flexible HiDPI resolutions, it is recommended to use the smooth scaling feature instead if possible! If you want to use mirroring instead of streaming, this can be enabled in the app menu once the virtual screen was connected." = "⚠️ If you want to mirror/stream the virtual screen to a natively connected display only to get flexible HiDPI resolutions, it is recommended to use the smooth scaling feature instead if possible! If you want to use mirroring instead of streaming, this can be enabled in the app menu once the virtual screen was connected.";
+
+/* No comment provided by engineer. */
+"⚠️ It is recommended to have some more leeway in the range!" = "⚠️ It is recommended to have some more leeway in the range!";
+
+/* No comment provided by engineer. */
+"⚠️ Minimum width/height value should be lower than the maximum!" = "⚠️ Minimum width/height value should be lower than the maximum!";
+
+/* No comment provided by engineer. */
+"⚠ Stream auto-starts to associated display!" = "⚠ Stream auto-starts to associated display!";
+
+/* No comment provided by engineer. */
+"⚠️ Unable to enable DDC due to display or connection issues." = "⚠️ Unable to enable DDC due to display or connection issues.";
+
+/* No comment provided by engineer. */
+"⚠️ Unable to present EDID data." = "⚠️ Unable to present EDID data.";
+
+/* No comment provided by engineer. */
+"⚠ Virtual Screen as Mirror Target?" = "⚠ Virtual Screen as Mirror Target?";
+
+/* No comment provided by engineer. */
+"⚠ Virtual Screen as Stream Target?" = "⚠ Virtual Screen as Stream Target?";
+
+/* No comment provided by engineer. */
+"100" = "100";
+
+/* No comment provided by engineer. */
+"a Display" = "a Display";
+
+/* No comment provided by engineer. */
+"A less than 720p desktop resolution is not ideal for macOS usability as GUI elements might not fit. This affects virtual screens as well as the resolution slider for displays." = "A less than 720p desktop resolution is not ideal for macOS usability as GUI elements might not fit. This affects virtual screens as well as the resolution slider for displays.";
+
+/* No comment provided by engineer. */
+"a Screen" = "a Screen";
+
+/* No comment provided by engineer. */
+"A virtual screen is similar to a real display but exists only in the virtual space (in the computer's memory). You can use it to show it in a PIP window, stream or mirror its content to a real display or use it as a source for screen recording or screencast via an appropriate app." = "A virtual screen is similar to a real display but exists only in the virtual space (in the computer's memory). You can use it to show it in a PIP window, stream or mirror its content to a real display or use it as a source for screen recording or screencast via an appropriate app.";
+
+/* No comment provided by engineer. */
+"A virtual screen which is associated with a display will automatically connect or disconnect when the associated display is disconnected. You can disable auto-disconnect for associated virtual screens." = "A virtual screen which is associated with a display will automatically connect or disconnect when the associated display is disconnected. You can disable auto-disconnect for associated virtual screens.";
+
+/* No comment provided by engineer. */
+"A virtual screen which is associated with a display will automatically connect when the associated display is connected. All other virtual screens were connected. You can disable auto-connect for associated virtual screens." = "A virtual screen which is associated with a display will automatically connect when the associated display is connected. All other virtual screens were connected. You can disable auto-connect for associated virtual screens.";
+
+/* No comment provided by engineer. */
+"A virtual screen which is associated with a display will automatically disconnect when the associated display is disconnected. All other virtual screens were disconnected. You can disable auto-disconnect for associated virtual screens." = "A virtual screen which is associated with a display will automatically disconnect when the associated display is disconnected. All other virtual screens were disconnected. You can disable auto-disconnect for associated virtual screens.";
+
+/* No comment provided by engineer. */
+"A virtual screen which is associated with a display will connect automatically when the associated display is connected." = "A virtual screen which is associated with a display will connect automatically when the associated display is connected.";
+
+/* No comment provided by engineer. */
+"A virtual screen which is associated with a display will disconnect automatically when the associated display is disconnected." = "A virtual screen which is associated with a display will disconnect automatically when the associated display is disconnected.";
+
+/* No comment provided by engineer. */
+"Above Menu, Dock, Spaces" = "Above Menu, Dock, Spaces";
+
+/* No comment provided by engineer. */
+"Accessibility Configuration Required!" = "Accessibility Configuration Required!";
+
+/* No comment provided by engineer. */
+"Accessibility Configured - App Restart Needed" = "Accessibility Configured - App Restart Needed";
+
+/* No comment provided by engineer. */
+"Accessibility is Configured Properly" = "Accessibility is Configured Properly";
+
+/* No comment provided by engineer. */
+"Accessibility Permissions are configured but the **app still needs to be restarted** for the changes to take effect! Please close and restart the app when it is convenient or press the \"Restart BetterDisplay\" button below to restart the app immediately!" = "Accessibility Permissions are configured but the **app still needs to be restarted** for the changes to take effect! Please close and restart the app when it is convenient or press the \"Restart BetterDisplay\" button below to restart the app immediately!";
+
+/* No comment provided by engineer. */
+"Accessibility Permissions are properly configured. Native (Apple) keyboard brightness and volume keys should work if features otherwise set up. If not, please try restarting the app!" = "Accessibility Permissions are properly configured. Native (Apple) keyboard brightness and volume keys should work if features otherwise set up. If not, please try restarting the app!";
+
+/* No comment provided by engineer. */
+"Activate" = "Activate";
+
+/* No comment provided by engineer. */
+"Activate Configuration Without Reboot?" = "Activate Configuration Without Reboot?";
+
+/* No comment provided by engineer. */
+"Activated only when the display is not set as main so it does not interfere with the lock screen. Most displays do not support turning the backlight off or back on via DDC." = "Activated only when the display is not set as main so it does not interfere with the lock screen. Most displays do not support turning the backlight off or back on via DDC.";
+
+/* No comment provided by engineer. */
+"Add and remove favorite resolutions via long press" = "Add and remove favorite resolutions via long press";
+
+/* No comment provided by engineer. */
+"Add Custom Resolution" = "Add Custom Resolution";
+
+/* No comment provided by engineer. */
+"Add near-native HiDPI resolution with smooth scaling" = "Add near-native HiDPI resolution with smooth scaling";
+
+/* No comment provided by engineer. */
+"Add Refresh Rate" = "Add Refresh Rate";
+
+/* No comment provided by engineer. */
+"Additional licenses:" = "Additional licenses:";
+
+/* No comment provided by engineer. */
+"Additional menu bar icon options" = "Additional menu bar icon options";
+
+/* No comment provided by engineer. */
+"Additional menu options" = "Additional menu options";
+
+/* No comment provided by engineer. */
+"Additional options" = "Additional options";
+
+/* No comment provided by engineer. */
+"Additional options are available under the display's \"Hardware Control\" section for this feature." = "Additional options are available under the display's \"Hardware Control\" section for this feature.";
+
+/* No comment provided by engineer. */
+"Additional payment methods & licenses:" = "Additional payment methods & licenses:";
+
+/* No comment provided by engineer. */
+"Additional resolution settings" = "Additional resolution settings";
+
+/* No comment provided by engineer. */
+"Additional resolution slider settings" = "Additional resolution slider settings";
+
+/* No comment provided by engineer. */
+"Additional rotation shortcut settings" = "Additional rotation shortcut settings";
+
+/* No comment provided by engineer. */
+"Additional settings" = "Additional settings";
+
+/* No comment provided by engineer. */
+"Adds additional resolutions on some configurations but usually just breaks the slider. Affects resolution keyboard shortcuts as well." = "Adds additional resolutions on some configurations but usually just breaks the slider. Affects resolution keyboard shortcuts as well.";
+
+/* No comment provided by engineer. */
+"Adjustments may clip HDR content!" = "Adjustments may clip HDR content!";
+
+/* No comment provided by engineer. */
+"Advanced color table and upscaling settings" = "Advanced color table and upscaling settings";
+
+/* No comment provided by engineer. */
+"Advanced control settings" = "Advanced control settings";
+
+/* No comment provided by engineer. */
+"Advanced display settings" = "Advanced display settings";
+
+/* No comment provided by engineer. */
+"Advanced settings & privacy" = "Advanced settings & privacy";
+
+/* No comment provided by engineer. */
+"Advanced virtual screen settings" = "Advanced virtual screen settings";
+
+/* No comment provided by engineer. */
+"All previously dismissed warnings will now be back." = "All previously dismissed warnings will now be back.";
+
+/* No comment provided by engineer. */
+"All suitable screens" = "All suitable screens";
+
+/* No comment provided by engineer. */
+"Allow auto brightness when combined XDR brightness upscaling is used" = "Allow auto brightness when combined XDR brightness upscaling is used";
+
+/* No comment provided by engineer. */
+"Allow color adjustments (note: turn this off for compatibility mode)" = "Allow color adjustments (note: turn this off for compatibility mode)";
+
+/* No comment provided by engineer. */
+"Allow DDC hardware brightness control in HDR mode" = "Allow DDC hardware brightness control in HDR mode";
+
+/* No comment provided by engineer. */
+"Allow disconnecting all connected displays" = "Allow disconnecting all connected displays";
+
+/* No comment provided by engineer. */
+"Allow disconnecting external non-natively connected displays" = "Allow disconnecting external non-natively connected displays";
+
+/* No comment provided by engineer. */
+"Allow disconnecting the built-in display of the iMac" = "Allow disconnecting the built-in display of the iMac";
+
+/* No comment provided by engineer. */
+"Allow resolution change for mirror target displays" = "Allow resolution change for mirror target displays";
+
+/* No comment provided by engineer. */
+"Allow resolutions marked as invalid" = "Allow resolutions marked as invalid";
+
+/* No comment provided by engineer. */
+"Allow restore to full dimming" = "Allow restore to full dimming";
+
+/* No comment provided by engineer. */
+"Allow sending crash logs to the developer automatically. Crash logs do not contain any personal data but may contain hardware specific data. Crash logs are handled by Sentry ([sentry.io/privacy](https://sentry.io/privacy))." = "Allow sending crash logs to the developer automatically. Crash logs do not contain any personal data but may contain hardware specific data. Crash logs are handled by Sentry ([sentry.io/privacy](https://sentry.io/privacy)).";
+
+/* No comment provided by engineer. */
+"Allow using F14/F15 as alternative brightness keys" = "Allow using F14/F15 as alternative brightness keys";
+
+/* No comment provided by engineer. */
+"Allows only one device to show more options via the more options chevron. This helps with menu bloating when several displays are present." = "Allows only one device to show more options via the more options chevron. This helps with menu bloating when several displays are present.";
+
+/* No comment provided by engineer. */
+"Alpha" = "Alpha";
+
+/* No comment provided by engineer. */
+"Alphanumeric serial" = "Alphanumeric serial";
+
+/* No comment provided by engineer. */
+"Alphanumeric serial number" = "Alphanumeric serial number";
+
+/* No comment provided by engineer. */
+"Always show both low (non-HiDPI) and high (HiDPI) resolutions" = "Always show both low (non-HiDPI) and high (HiDPI) resolutions";
+
+/* No comment provided by engineer. */
+"An error occurred while calculating virtual screen dimensions. Try creating the virtual screen manually!" = "An error occurred while calculating virtual screen dimensions. Try creating the virtual screen manually!";
+
+/* No comment provided by engineer. */
+"An error occurred while configuring the connected virtual display." = "An error occurred while configuring the connected virtual display.";
+
+/* No comment provided by engineer. */
+"An error occurred while connecting the virtual screen." = "An error occurred while connecting the virtual screen.";
+
+/* No comment provided by engineer. */
+"An error occurred while creating the virtual screen" = "An error occurred while creating the virtual screen";
+
+/* No comment provided by engineer. */
+"An older pre-release version of BetterDisplay was installed on this system. Upgrading to the current version requires all app settings to reset.\n\nIf you do not wish to proceed, please downgrade to the older pre-release!" = "An older pre-release version of BetterDisplay was installed on this system. Upgrading to the current version requires all app settings to reset.\n\nIf you do not wish to proceed, please downgrade to the older pre-release!";
+
+/* No comment provided by engineer. */
+"Another app repeatedly altered screen colors or brightness - this clashes with what BetterDisplay is doing.\n\nYou should exit the other app or disable `Allow color adjustments` under Settings/Displays to fix this!" = "Another app repeatedly altered screen colors or brightness - this clashes with what BetterDisplay is doing.\n\nYou should exit the other app or disable `Allow color adjustments` under Settings/Displays to fix this!";
+
+/* No comment provided by engineer. */
+"App settings" = "App settings";
+
+/* No comment provided by engineer. */
+"App should assume control over native audio keys when" = "App should assume control over native audio keys when";
+
+/* No comment provided by engineer. */
+"Apple Pay requires Safari, Google Pay requires Chrome.\nAliPay available in China." = "Apple Pay requires Safari, Google Pay requires Chrome.\nAliPay available in China.";
+
+/* No comment provided by engineer. */
+"Apple Silicon" = "Apple Silicon";
+
+/* No comment provided by engineer. */
+"Apple Silicon Macs tend freeze the display instead of letting it go to standby upon sleep when a virtual screen is being mirrored. This workaround that tries to fix this issue." = "Apple Silicon Macs tend freeze the display instead of letting it go to standby upon sleep when a virtual screen is being mirrored. This workaround that tries to fix this issue.";
+
+/* No comment provided by engineer. */
+"Application" = "Application";
+
+/* No comment provided by engineer. */
+"Applies to both to physically connecting an external display or using the app to reconnect one. The app will not reconnect the built-in display if you allow all displays to be disconnected!" = "Applies to both to physically connecting an external display or using the app to reconnect one. The app will not reconnect the built-in display if you allow all displays to be disconnected!";
+
+/* No comment provided by engineer. */
+"Apply" = "Apply";
+
+/* No comment provided by engineer. */
+"Apply Custom EDID" = "Apply Custom EDID";
+
+/* No comment provided by engineer. */
+"Apply Custom EDID Now" = "Apply Custom EDID Now";
+
+/* No comment provided by engineer. */
+"Apply EDID" = "Apply EDID";
+
+/* No comment provided by engineer. */
+"Apply EDID Data" = "Apply EDID Data";
+
+/* No comment provided by engineer. */
+"Apply EDID override on startup or when the display is next connected. A modified EDID allows you to alter display capabilities perceived by your Mac." = "Apply EDID override on startup or when the display is next connected. A modified EDID allows you to alter display capabilities perceived by your Mac.";
+
+/* No comment provided by engineer. */
+"Apply Filter" = "Apply Filter";
+
+/* No comment provided by engineer. */
+"Are sure you want to reset (forget) all settings related to this display? Reset does not affect system configuration settings like smooth scaling, custom resolutions." = "Are sure you want to reset (forget) all settings related to this display? Reset does not affect system configuration settings like smooth scaling, custom resolutions.";
+
+/* No comment provided by engineer. */
+"Are sure you want to reset app settings?" = "Are sure you want to reset app settings?";
+
+/* No comment provided by engineer. */
+"Are sure you want to restart the app?" = "Are sure you want to restart the app?";
+
+/* No comment provided by engineer. */
+"Aspect ratio" = "Aspect ratio";
+
+/* No comment provided by engineer. */
+"Assign current resolution to favorite:" = "Assign current resolution to favorite:";
+
+/* No comment provided by engineer. */
+"Associate the virtual screen with this display" = "Associate the virtual screen with this display";
+
+/* No comment provided by engineer. */
+"Associate this virtual screen with real display(s)" = "Associate this virtual screen with real display(s)";
+
+/* No comment provided by engineer. */
+"Associated displays" = "Associated displays";
+
+/* No comment provided by engineer. */
+"Associated to" = "Associated to";
+
+/* No comment provided by engineer. */
+"Association settings" = "Association settings";
+
+/* No comment provided by engineer. */
+"Assume last used or default values are valid" = "Assume last used or default values are valid";
+
+/* No comment provided by engineer. */
+"Attempts to directly read the EDID data from the display.%@" = "Attempts to directly read the EDID data from the display.%@";
+
+/* No comment provided by engineer. */
+"Audio Control" = "Audio Control";
+
+/* No comment provided by engineer. */
+"Auto Brightness" = "Auto Brightness";
+
+/* No comment provided by engineer. */
+"Auto brightness (ambient light sensor) might turn off XDR upscaling depending on lighting conditions when combined brightness is used." = "Auto brightness (ambient light sensor) might turn off XDR upscaling depending on lighting conditions when combined brightness is used.";
+
+/* No comment provided by engineer. */
+"Auto-connect all displays on quit" = "Auto-connect all displays on quit";
+
+/* No comment provided by engineer. */
+"Auto-connect all displays on startup" = "Auto-connect all displays on startup";
+
+/* No comment provided by engineer. */
+"Auto-connect all displays when no connected displays left" = "Auto-connect all displays when no connected displays left";
+
+/* No comment provided by engineer. */
+"Auto-connect virtual screen" = "Auto-connect virtual screen";
+
+/* No comment provided by engineer. */
+"Auto-start full-screen streaming" = "Auto-start full-screen streaming";
+
+/* No comment provided by engineer. */
+"Automatically apply custom EDID upon detection of this display" = "Automatically apply custom EDID upon detection of this display";
+
+/* No comment provided by engineer. */
+"Automatically check for updates" = "Automatically check for updates";
+
+/* No comment provided by engineer. */
+"Automatically close expanded menu item" = "Automatically close expanded menu item";
+
+/* No comment provided by engineer. */
+"Automatically configure mirroring to show the virtual screen's content to the associated display. If multiple associated displays are connected, only one will be mirror target." = "Automatically configure mirroring to show the virtual screen's content to the associated display. If multiple associated displays are connected, only one will be mirror target.";
+
+/* No comment provided by engineer. */
+"Automatically connect the virtual screen when the associated display is online and disconnect when it is not." = "Automatically connect the virtual screen when the associated display is online and disconnect when it is not.";
+
+/* No comment provided by engineer. */
+"Automatically disable off both Night Shift and True Tone when an external third party display is set to HDR mode and enable them when switching back to SDR mode. Useful for more accurate colors when watching HDR content." = "Automatically disable off both Night Shift and True Tone when an external third party display is set to HDR mode and enable them when switching back to SDR mode. Useful for more accurate colors when watching HDR content.";
+
+/* No comment provided by engineer. */
+"Automatically launch on login" = "Automatically launch on login";
+
+/* No comment provided by engineer. */
+"Automatically stream the virtual screen's content to the associated display. If multiple associated displays are connected, only one will be stream target." = "Automatically stream the virtual screen's content to the associated display. If multiple associated displays are connected, only one will be stream target.";
+
+/* No comment provided by engineer. */
+"Automatically tidy up app menu" = "Automatically tidy up app menu";
+
+/* No comment provided by engineer. */
+"Base64 encoded string" = "Base64 encoded string";
+
+/* No comment provided by engineer. */
+"Basic + extended + location" = "Basic + extended + location";
+
+/* No comment provided by engineer. */
+"Basic Display Information" = "Basic Display Information";
+
+/* No comment provided by engineer. */
+"Be careful with this setting as it will grab control even if another audio output is selected!" = "Be careful with this setting as it will grab control even if another audio output is selected!";
+
+/* No comment provided by engineer. */
+"BetterDisplay" = "BetterDisplay";
+
+/* No comment provided by engineer. */
+"BetterDisplay is unable to detect any display. This might indicate an application or system error." = "BetterDisplay is unable to detect any display. This might indicate an application or system error.";
+
+/* No comment provided by engineer. */
+"bit" = "bit";
+
+/* No comment provided by engineer. */
+"Blue Black Level (DDC)" = "Blue Black Level (DDC)";
+
+/* No comment provided by engineer. */
+"Blue Gain (DDC)" = "Blue Gain (DDC)";
+
+/* No comment provided by engineer. */
+"Both turned off by HDR toggle" = "Both turned off by HDR toggle";
+
+/* No comment provided by engineer. */
+"Briefly show an upward (XDR/HDR upscaling) or downward (software dimming) pointing icon in the OSD when extra dimming or brightness upscaling is happening via color table adjustment." = "Briefly show an upward (XDR/HDR upscaling) or downward (software dimming) pointing icon in the OSD when extra dimming or brightness upscaling is happening via color table adjustment.";
+
+/* No comment provided by engineer. */
+"Brightness" = "Brightness";
+
+/* No comment provided by engineer. */
+"Brightness (Apple)" = "Brightness (Apple)";
+
+/* No comment provided by engineer. */
+"Brightness (DDC)" = "Brightness (DDC)";
+
+/* No comment provided by engineer. */
+"Brightness (Overlay)" = "Brightness (Overlay)";
+
+/* No comment provided by engineer. */
+"Brightness (Software)" = "Brightness (Software)";
+
+/* No comment provided by engineer. */
+"Brightness and Video" = "Brightness and Video";
+
+/* No comment provided by engineer. */
+"Brightness control using native brightness keys" = "Brightness control using native brightness keys";
+
+/* No comment provided by engineer. */
+"Brightness Keys, Video Adjustment Shortcuts Affect:" = "Brightness Keys, Video Adjustment Shortcuts Affect:";
+
+/* No comment provided by engineer. */
+"By default the app orders displays alphabetically in the app menu by their (displayed) name. By providing an ordering string, you can redefine the data which serves as the basis of the ordering." = "By default the app orders displays alphabetically in the app menu by their (displayed) name. By providing an ordering string, you can redefine the data which serves as the basis of the ordering.";
+
+/* No comment provided by engineer. */
+"By default the app shows LoDPI modes only when the current selected mode is LoDPI." = "By default the app shows LoDPI modes only when the current selected mode is LoDPI.";
+
+/* No comment provided by engineer. */
+"By default the keys controls change one OSD chiclet worth of value and you have to press Shift+Option for fine-tuning." = "By default the keys controls change one OSD chiclet worth of value and you have to press Shift+Option for fine-tuning.";
+
+/* No comment provided by engineer. */
+"C style array" = "C style array";
+
+/* No comment provided by engineer. */
+"Calibrate %@" = "Calibrate %@";
+
+/* No comment provided by engineer. */
+"Cancel" = "Cancel";
+
+/* No comment provided by engineer. */
+"Capabilities" = "Capabilities";
+
+/* No comment provided by engineer. */
+"CGDirectDisplayID" = "CGDirectDisplayID";
+
+/* No comment provided by engineer. */
+"Check For Updates" = "Check For Updates";
+
+/* No comment provided by engineer. */
+"Check for Updates…" = "Check for Updates…";
+
+/* No comment provided by engineer. */
+"Click icon to open/close app menu!" = "Click icon to open/close app menu!";
+
+/* No comment provided by engineer. */
+"Click to show/hide features..." = "Click to show/hide features...";
+
+/* No comment provided by engineer. */
+"Close the expanded menu item when the app menu is closed. Disabling this preserves the menu layout for the next time the app menu is opened." = "Close the expanded menu item when the app menu is closed. Disabling this preserves the menu layout for the next time the app menu is opened.";
+
+/* No comment provided by engineer. */
+"Color adjustments and software dimming clip HDR content, so the app resets colors when no adjustments needed. This might be distracting or cause a black screen on some configurations." = "Color adjustments and software dimming clip HDR content, so the app resets colors when no adjustments needed. This might be distracting or cause a black screen on some configurations.";
+
+/* No comment provided by engineer. */
+"Color Depth" = "Color Depth";
+
+/* No comment provided by engineer. */
+"Color Table Adjustments, XDR/HDR Upscaling" = "Color Table Adjustments, XDR/HDR Upscaling";
+
+/* No comment provided by engineer. */
+"Color table alteration capable" = "Color table alteration capable";
+
+/* No comment provided by engineer. */
+"Color Temperature" = "Color Temperature";
+
+/* No comment provided by engineer. */
+"Combine hardware brightness control (if available), software dimming and XDR/HDR upscaling into one unified brightness control." = "Combine hardware brightness control (if available), software dimming and XDR/HDR upscaling into one unified brightness control.";
+
+/* No comment provided by engineer. */
+"Combined brightness" = "Combined brightness";
+
+/* No comment provided by engineer. */
+"Computer monitor" = "Computer monitor";
+
+/* No comment provided by engineer. */
+"Configuration changes require reboot or activation." = "Configuration changes require reboot or activation.";
+
+/* No comment provided by engineer. */
+"Configuration Protection" = "Configuration Protection";
+
+/* No comment provided by engineer. */
+"Configuration run ID" = "Configuration run ID";
+
+/* No comment provided by engineer. */
+"Configure Accessibility" = "Configure Accessibility";
+
+/* No comment provided by engineer. */
+"Configure DDC Controls…" = "Configure DDC Controls…";
+
+/* No comment provided by engineer. */
+"Configure full screen stream to this display" = "Configure full screen stream to this display";
+
+/* No comment provided by engineer. */
+"Configure Input Sources…" = "Configure Input Sources…";
+
+/* No comment provided by engineer. */
+"Configure Virtual Screen…" = "Configure Virtual Screen…";
+
+/* No comment provided by engineer. */
+"Configure virtual screen/stream rotation - useful for portrait Sidecar or for displays that do not support changing orientation. With Sidecar you can decide whether the USB-C port (lightning connector) should face up or down." = "Configure virtual screen/stream rotation - useful for portrait Sidecar or for displays that do not support changing orientation. With Sidecar you can decide whether the USB-C port (lightning connector) should face up or down.";
+
+/* No comment provided by engineer. */
+"Connect" = "Connect";
+
+/* No comment provided by engineer. */
+"Connect (Automatic)" = "Connect (Automatic)";
+
+/* No comment provided by engineer. */
+"Connect All" = "Connect All";
+
+/* No comment provided by engineer. */
+"Connect All Displays" = "Connect All Displays";
+
+/* No comment provided by engineer. */
+"Connect All Virtual Screens" = "Connect All Virtual Screens";
+
+/* No comment provided by engineer. */
+"Connect Display" = "Connect Display";
+
+/* No comment provided by engineer. */
+"Connect this virtual screen" = "Connect this virtual screen";
+
+/* No comment provided by engineer. */
+"Connect Virtual Screen" = "Connect Virtual Screen";
+
+/* No comment provided by engineer. */
+"Connect/Disconnect" = "Connect/Disconnect";
+
+/* No comment provided by engineer. */
+"Connected" = "Connected";
+
+/* No comment provided by engineer. */
+"Connected virtual screens will remain connected after this operation." = "Connected virtual screens will remain connected after this operation.";
+
+/* No comment provided by engineer. */
+"Connecting the built-in display" = "Connecting the built-in display";
+
+/* No comment provided by engineer. */
+"Connection management settings" = "Connection management settings";
+
+/* No comment provided by engineer. */
+"Connection status" = "Connection status";
+
+/* No comment provided by engineer. */
+"Connects the virtual screen and starts full screen streaming from the virtual screen to the display. Also sets up the full screen stream to automatically start whenever the display is connected." = "Connects the virtual screen and starts full screen streaming from the virtual screen to the display. Also sets up the full screen stream to automatically start whenever the display is connected.";
+
+/* No comment provided by engineer. */
+"Continuous XDR upscaling readiness" = "Continuous XDR upscaling readiness";
+
+/* No comment provided by engineer. */
+"Contrast" = "Contrast";
+
+/* No comment provided by engineer. */
+"Contrast (DDC)" = "Contrast (DDC)";
+
+/* No comment provided by engineer. */
+"Copy Current Device Name" = "Copy Current Device Name";
+
+/* No comment provided by engineer. */
+"Crash reporting" = "Crash reporting";
+
+/* No comment provided by engineer. */
+"Create a virtual screen that matches to the aspect ratio of another display and associate the virtual screen with the display. Best for a scenario when the virtual screen should be streamed (e.g. portrait Sidecar) or mirrored to a display." = "Create a virtual screen that matches to the aspect ratio of another display and associate the virtual screen with the display. Best for a scenario when the virtual screen should be streamed (e.g. portrait Sidecar) or mirrored to a display.";
+
+/* No comment provided by engineer. */
+"Create a virtual screen with a custom aspect ratio. You can also set up a custom resolution list with varying aspect ratios after creating the virtual screen." = "Create a virtual screen with a custom aspect ratio. You can also set up a custom resolution list with varying aspect ratios after creating the virtual screen.";
+
+/* No comment provided by engineer. */
+"Create both LoDPI and HiDPI variants of each resolutions. Enabling HiDPI will also create a pixel-doubled LoDPI version for each resolution option." = "Create both LoDPI and HiDPI variants of each resolutions. Enabling HiDPI will also create a pixel-doubled LoDPI version for each resolution option.";
+
+/* No comment provided by engineer. */
+"Create New Virtual Screen" = "Create New Virtual Screen";
+
+/* No comment provided by engineer. */
+"Create New Virtual Screen…" = "Create New Virtual Screen…";
+
+/* No comment provided by engineer. */
+"Create Virtual Screen" = "Create Virtual Screen";
+
+/* No comment provided by engineer. */
+"Creating a virtual screen" = "Creating a virtual screen";
+
+/* No comment provided by engineer. */
+"Current" = "Current";
+
+/* No comment provided by engineer. */
+"Current (Alternate) Identifiers" = "Current (Alternate) Identifiers";
+
+/* No comment provided by engineer. */
+"Current audio device has no native volume control" = "Current audio device has no native volume control";
+
+/* No comment provided by engineer. */
+"Current audio device matches a controllable display's name" = "Current audio device matches a controllable display's name";
+
+/* No comment provided by engineer. */
+"Current default resolution" = "Current default resolution";
+
+/* No comment provided by engineer. */
+"Current display role" = "Current display role";
+
+/* No comment provided by engineer. */
+"Current mode" = "Current mode";
+
+/* No comment provided by engineer. */
+"Current native resolution" = "Current native resolution";
+
+/* No comment provided by engineer. */
+"Current resolution (width x height) is shown as text inside when enabled." = "Current resolution (width x height) is shown as text inside when enabled.";
+
+/* No comment provided by engineer. */
+"Current system display name" = "Current system display name";
+
+/* No comment provided by engineer. */
+"Currently available as HiDPI" = "Currently available as HiDPI";
+
+/* No comment provided by engineer. */
+"Currently available as LoDPI" = "Currently available as LoDPI";
+
+/* No comment provided by engineer. */
+"Currently not available" = "Currently not available";
+
+/* No comment provided by engineer. */
+"Custom aspect ratio" = "Custom aspect ratio";
+
+/* No comment provided by engineer. */
+"Custom displayed icon SF Symbol name:" = "Custom displayed icon SF Symbol name:";
+
+/* No comment provided by engineer. */
+"Custom displayed name" = "Custom displayed name";
+
+/* No comment provided by engineer. */
+"Custom Keyboard Shortcuts" = "Custom Keyboard Shortcuts";
+
+/* No comment provided by engineer. */
+"Custom keyboard shortcuts lets you perform various common tasks with your keyboard quickly." = "Custom keyboard shortcuts lets you perform various common tasks with your keyboard quickly.";
+
+/* No comment provided by engineer. */
+"Custom ordering string" = "Custom ordering string";
+
+/* No comment provided by engineer. */
+"Custom refresh rate list" = "Custom refresh rate list";
+
+/* No comment provided by engineer. */
+"Custom scaled resolutions" = "Custom scaled resolutions";
+
+/* No comment provided by engineer. */
+"Custom scaled resolutions are added to the resolution list both as low resolution and HiDPI versions if possible." = "Custom scaled resolutions are added to the resolution list both as low resolution and HiDPI versions if possible.";
+
+/* No comment provided by engineer. */
+"Custom SF Symbol app icon" = "Custom SF Symbol app icon";
+
+/* No comment provided by engineer. */
+"Customize App Menu Contents…" = "Customize App Menu Contents…";
+
+/* No comment provided by engineer. */
+"Customize input source list for this display" = "Customize input source list for this display";
+
+/* No comment provided by engineer. */
+"Customize Menu Options" = "Customize Menu Options";
+
+/* No comment provided by engineer. */
+"Customize smooth scaling resolution range" = "Customize smooth scaling resolution range";
+
+/* No comment provided by engineer. */
+"Customize the contents of the app menu - set which items are visible always, which only when the menu is expanded and which ones should be hidden." = "Customize the contents of the app menu - set which items are visible always, which only when the menu is expanded and which ones should be hidden.";
+
+/* No comment provided by engineer. */
+"Date of manufacture" = "Date of manufacture";
+
+/* No comment provided by engineer. */
+"DDC allows for hardware backlight, volume control, input selection and various other features. Requires a compatible external display. Most televisions don't have support DDC while most displays do." = "DDC allows for hardware backlight, volume control, input selection and various other features. Requires a compatible external display. Most televisions don't have support DDC while most displays do.";
+
+/* No comment provided by engineer. */
+"DDC Backlight Control" = "DDC Backlight Control";
+
+/* No comment provided by engineer. */
+"DDC communication settings" = "DDC communication settings";
+
+/* No comment provided by engineer. */
+"DDC Control" = "DDC Control";
+
+/* No comment provided by engineer. */
+"DDC control code override (comma delimited hex values)" = "DDC control code override (comma delimited hex values)";
+
+/* No comment provided by engineer. */
+"DDC data for the OFF value" = "DDC data for the OFF value";
+
+/* No comment provided by engineer. */
+"DDC data for the ON value is" = "DDC data for the ON value is";
+
+/* No comment provided by engineer. */
+"DDC Display Input Source" = "DDC Display Input Source";
+
+/* No comment provided by engineer. */
+"DDC Features…" = "DDC Features…";
+
+/* No comment provided by engineer. */
+"DDC hardware brightness might be restored according to the per-display settings." = "DDC hardware brightness might be restored according to the per-display settings.";
+
+/* No comment provided by engineer. */
+"DDC Input Source" = "DDC Input Source";
+
+/* No comment provided by engineer. */
+"DDC Input Source Control" = "DDC Input Source Control";
+
+/* No comment provided by engineer. */
+"DDC Input Sources" = "DDC Input Sources";
+
+/* No comment provided by engineer. */
+"DDC is Unavailable" = "DDC is Unavailable";
+
+/* No comment provided by engineer. */
+"DDC messaging" = "DDC messaging";
+
+/* No comment provided by engineer. */
+"DDC Mute control" = "DDC Mute control";
+
+/* No comment provided by engineer. */
+"DDC Power" = "DDC Power";
+
+/* No comment provided by engineer. */
+"DDC Power Off" = "DDC Power Off";
+
+/* No comment provided by engineer. */
+"DDC read is not universally supported by otherwise DDC capable displays." = "DDC read is not universally supported by otherwise DDC capable displays.";
+
+/* No comment provided by engineer. */
+"DDC value mapping skew" = "DDC value mapping skew";
+
+/* No comment provided by engineer. */
+"DDC value range maximum" = "DDC value range maximum";
+
+/* No comment provided by engineer. */
+"DDC value range minimum" = "DDC value range minimum";
+
+/* No comment provided by engineer. */
+"DDC values on startup" = "DDC values on startup";
+
+/* No comment provided by engineer. */
+"DDC Volume control" = "DDC Volume control";
+
+/* No comment provided by engineer. */
+"DDC Volume Control Affects:" = "DDC Volume Control Affects:";
+
+/* No comment provided by engineer. */
+"Deactivate" = "Deactivate";
+
+/* No comment provided by engineer. */
+"Default" = "Default";
+
+/* No comment provided by engineer. */
+"Default and native modes:" = "Default and native modes:";
+
+/* No comment provided by engineer. */
+"Define a custom app icon from Apple's SF Symbol icon library. You can download the SF Symbols app from [developer.apple.com/sf-symbols](https://developer.apple.com/sf-symbols) to find the right SF Symbol icon string (try: `face.smiling`)." = "Define a custom app icon from Apple's SF Symbol icon library. You can download the SF Symbols app from [developer.apple.com/sf-symbols](https://developer.apple.com/sf-symbols) to find the right SF Symbol icon string (try: `face.smiling`).";
+
+/* No comment provided by engineer. */
+"Define the crop area either by drawing the crop rectangle on the stream source screen or by keyboard shortcuts." = "Define the crop area either by drawing the crop rectangle on the stream source screen or by keyboard shortcuts.";
+
+/* No comment provided by engineer. */
+"Defines the diagonal size the system percieves the display. If used for mirroring/streaming, it might optionally be matched to the target screen. Safe to leave empty as default. With custom resolution list of varying aspect ratios the actual reported size may be different." = "Defines the diagonal size the system percieves the display. If used for mirroring/streaming, it might optionally be matched to the target screen. Safe to leave empty as default. With custom resolution list of varying aspect ratios the actual reported size may be different.";
+
+/* No comment provided by engineer. */
+"Delay between commands" = "Delay between commands";
+
+/* No comment provided by engineer. */
+"Delete Data" = "Delete Data";
+
+/* No comment provided by engineer. */
+"Description" = "Description";
+
+/* No comment provided by engineer. */
+"Detachable app menu" = "Detachable app menu";
+
+/* No comment provided by engineer. */
+"Detached app menu alpha level" = "Detached app menu alpha level";
+
+/* No comment provided by engineer. */
+"Detected some interference..." = "Detected some interference...";
+
+/* No comment provided by engineer. */
+"Determines whether display is affected by keyboard adjustments (video/audio controls)." = "Determines whether display is affected by keyboard adjustments (video/audio controls).";
+
+/* No comment provided by engineer. */
+"Determines whether the display is presented in the app menu." = "Determines whether the display is presented in the app menu.";
+
+/* No comment provided by engineer. */
+"Dim display brightness on screen saver or lock" = "Dim display brightness on screen saver or lock";
+
+/* No comment provided by engineer. */
+"Dim the disconnected display (using the currently selected control method for the display) on platforms that do not enable putting a disconnected display to sleep. Fully turns off backlight on compatible devices." = "Dim the disconnected display (using the currently selected control method for the display) on platforms that do not enable putting a disconnected display to sleep. Fully turns off backlight on compatible devices.";
+
+/* No comment provided by engineer. */
+"Direct I2C communication" = "Direct I2C communication";
+
+/* No comment provided by engineer. */
+"Disable All Protections" = "Disable All Protections";
+
+/* No comment provided by engineer. */
+"Disable Auto-Connect" = "Disable Auto-Connect";
+
+/* No comment provided by engineer. */
+"Disable Both in HDR Mode" = "Disable Both in HDR Mode";
+
+/* No comment provided by engineer. */
+"Disabled" = "Disabled";
+
+/* No comment provided by engineer. */
+"Disabled by default to avoid accidental value changes." = "Disabled by default to avoid accidental value changes.";
+
+/* No comment provided by engineer. */
+"Disabling this allows more direct video adjustments by removing graceful transition smoothing. Also reduces the number of operations for DDC control." = "Disabling this allows more direct video adjustments by removing graceful transition smoothing. Also reduces the number of operations for DDC control.";
+
+/* No comment provided by engineer. */
+"Disassociate" = "Disassociate";
+
+/* No comment provided by engineer. */
+"Disassociate All" = "Disassociate All";
+
+/* No comment provided by engineer. */
+"Discard" = "Discard";
+
+/* No comment provided by engineer. */
+"Discard All" = "Discard All";
+
+/* No comment provided by engineer. */
+"Discard Calibration" = "Discard Calibration";
+
+/* No comment provided by engineer. */
+"Discard Virtual Screen" = "Discard Virtual Screen";
+
+/* No comment provided by engineer. */
+"Discard…" = "Discard…";
+
+/* No comment provided by engineer. */
+"Disconnect" = "Disconnect";
+
+/* No comment provided by engineer. */
+"Disconnect (Automatic)" = "Disconnect (Automatic)";
+
+/* No comment provided by engineer. */
+"Disconnect All" = "Disconnect All";
+
+/* No comment provided by engineer. */
+"Disconnect All But Main" = "Disconnect All But Main";
+
+/* No comment provided by engineer. */
+"Disconnect All Virtual Screens" = "Disconnect All Virtual Screens";
+
+/* No comment provided by engineer. */
+"Disconnect and reconnect" = "Disconnect and reconnect";
+
+/* No comment provided by engineer. */
+"Disconnect built-in display when an external display is connected" = "Disconnect built-in display when an external display is connected";
+
+/* No comment provided by engineer. */
+"Disconnect Display" = "Disconnect Display";
+
+/* No comment provided by engineer. */
+"Disconnect reconnected displays upon wake" = "Disconnect reconnected displays upon wake";
+
+/* No comment provided by engineer. */
+"Disconnect Virtual Screen" = "Disconnect Virtual Screen";
+
+/* No comment provided by engineer. */
+"Disconnect virtual screens upon lock or screen saver and connect when returning to the desktop" = "Disconnect virtual screens upon lock or screen saver and connect when returning to the desktop";
+
+/* No comment provided by engineer. */
+"Disconnected" = "Disconnected";
+
+/* No comment provided by engineer. */
+"Disconnected%@" = "Disconnected%@";
+
+/* No comment provided by engineer. */
+"Disconnecting a Display" = "Disconnecting a Display";
+
+/* No comment provided by engineer. */
+"Disconnecting a non-natively connected or virtual screen works in a sense that it is removed from the display layout - but usually it does not mean the screen is really disconnected." = "Disconnecting a non-natively connected or virtual screen works in a sense that it is removed from the display layout - but usually it does not mean the screen is really disconnected.";
+
+/* No comment provided by engineer. */
+"Disconnecting all displays might prevent you from interacting with your Mac!" = "Disconnecting all displays might prevent you from interacting with your Mac!";
+
+/* No comment provided by engineer. */
+"Disconnecting Displays" = "Disconnecting Displays";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Dismiss";
+
+/* No comment provided by engineer. */
+"Display Attributes" = "Display Attributes";
+
+/* No comment provided by engineer. */
+"Display Connection" = "Display Connection";
+
+/* No comment provided by engineer. */
+"Display Connections" = "Display Connections";
+
+/* No comment provided by engineer. */
+"Display EDID" = "Display EDID";
+
+/* No comment provided by engineer. */
+"Display EDID override" = "Display EDID override";
+
+/* No comment provided by engineer. */
+"Display Factory Reset" = "Display Factory Reset";
+
+/* No comment provided by engineer. */
+"Display identification method" = "Display identification method";
+
+/* No comment provided by engineer. */
+"Display Information" = "Display Information";
+
+/* No comment provided by engineer. */
+"Display Information…" = "Display Information…";
+
+/* No comment provided by engineer. */
+"Display menu on/off switch behavior" = "Display menu on/off switch behavior";
+
+/* No comment provided by engineer. */
+"Display menu options" = "Display menu options";
+
+/* No comment provided by engineer. */
+"Display Miscellaneous" = "Display Miscellaneous";
+
+/* No comment provided by engineer. */
+"Display Mode" = "Display Mode";
+
+/* No comment provided by engineer. */
+"Display Mode Menu" = "Display Mode Menu";
+
+/* No comment provided by engineer. */
+"Display name" = "Display name";
+
+/* No comment provided by engineer. */
+"Display Notch" = "Display Notch";
+
+/* No comment provided by engineer. */
+"Display status" = "Display status";
+
+/* No comment provided by engineer. */
+"Display tag ID" = "Display tag ID";
+
+/* No comment provided by engineer. */
+"Display to match" = "Display to match";
+
+/* No comment provided by engineer. */
+"Display type" = "Display type";
+
+/* No comment provided by engineer. */
+"Display UUID" = "Display UUID";
+
+/* No comment provided by engineer. */
+"Display with the same name as current audio device" = "Display with the same name as current audio device";
+
+/* No comment provided by engineer. */
+"Displays" = "Displays";
+
+/* No comment provided by engineer. */
+"Displays And Virtual Screens" = "Displays And Virtual Screens";
+
+/* No comment provided by engineer. */
+"Displays will turn blank for a while and you will not be able to interact with your Mac. The process should take about 2-4 seconds.\n\nThe process does not work for the built-in display (reboot needed). The operation might cause some Macs to enter sleep mode." = "Displays will turn blank for a while and you will not be able to interact with your Mac. The process should take about 2-4 seconds.\n\nThe process does not work for the built-in display (reboot needed). The operation might cause some Macs to enter sleep mode.";
+
+/* No comment provided by engineer. */
+"Do not apply to the internal display" = "Do not apply to the internal display";
+
+/* No comment provided by engineer. */
+"Do Not Disconnect" = "Do Not Disconnect";
+
+/* No comment provided by engineer. */
+"Do not reconnect" = "Do not reconnect";
+
+/* No comment provided by engineer. */
+"Do not restore combined brightness and software adjustments" = "Do not restore combined brightness and software adjustments";
+
+/* No comment provided by engineer. */
+"Do you want to deactivate the license?" = "Do you want to deactivate the license?";
+
+/* No comment provided by engineer. */
+"Do you want to disassociate all virtual screens from all displays?" = "Do you want to disassociate all virtual screens from all displays?";
+
+/* No comment provided by engineer. */
+"Do you want to discard all virtual screens?" = "Do you want to discard all virtual screens?";
+
+/* No comment provided by engineer. */
+"Do you want to discard the virtual screen?" = "Do you want to discard the virtual screen?";
+
+/* No comment provided by engineer. */
+"Do you want to disconnect the virtual screen?" = "Do you want to disconnect the virtual screen?";
+
+/* No comment provided by engineer. */
+"Do you want to proceed?" = "Do you want to proceed?";
+
+/* No comment provided by engineer. */
+"Does not apply to hardware-only brightness control." = "Does not apply to hardware-only brightness control.";
+
+/* No comment provided by engineer. */
+"Don't show this warning again!" = "Don't show this warning again!";
+
+/* No comment provided by engineer. */
+"Done" = "Done";
+
+/* No comment provided by engineer. */
+"Drag the app menu off the menu bar area (by holding the empty bottom area of the app menu) and make it persistently available." = "Drag the app menu off the menu bar area (by holding the empty bottom area of the app menu) and make it persistently available.";
+
+/* No comment provided by engineer. */
+"Draw Crop Area On Screen…" = "Draw Crop Area On Screen…";
+
+/* No comment provided by engineer. */
+"EDID data not loaded." = "EDID data not loaded.";
+
+/* No comment provided by engineer. */
+"EDID data not retrieved." = "EDID data not retrieved.";
+
+/* No comment provided by engineer. */
+"EDID Retrieval Method" = "EDID Retrieval Method";
+
+/* No comment provided by engineer. */
+"EDID serial number" = "EDID serial number";
+
+/* No comment provided by engineer. */
+"EDID UUID" = "EDID UUID";
+
+/* No comment provided by engineer. */
+"EDID version" = "EDID version";
+
+/* No comment provided by engineer. */
+"EDID, or Extended Display Identification Data, is a standard for displays to convey their capabilities to a connected computer, including resolution, supported video formats, timings, and manufacturer information.%@" = "EDID, or Extended Display Identification Data, is a standard for displays to convey their capabilities to a connected computer, including resolution, supported video formats, timings, and manufacturer information.%@";
+
+/* No comment provided by engineer. */
+"Edit default resolution" = "Edit default resolution";
+
+/* No comment provided by engineer. */
+"Edit display role" = "Edit display role";
+
+/* No comment provided by engineer. */
+"Edit native panel pixel resolution" = "Edit native panel pixel resolution";
+
+/* No comment provided by engineer. */
+"Edit the system configuration of this display model" = "Edit the system configuration of this display model";
+
+/* No comment provided by engineer. */
+"Edited default resolution" = "Edited default resolution";
+
+/* No comment provided by engineer. */
+"Edited display role" = "Edited display role";
+
+/* No comment provided by engineer. */
+"Edited native resolution" = "Edited native resolution";
+
+/* No comment provided by engineer. */
+"Edited system display name" = "Edited system display name";
+
+/* No comment provided by engineer. */
+"Enable %@ brightness upscaling" = "Enable %@ brightness upscaling";
+
+/* No comment provided by engineer. */
+"Enable All Protections" = "Enable All Protections";
+
+/* No comment provided by engineer. */
+"Enable Apple display hardware brightness control" = "Enable Apple display hardware brightness control";
+
+/* No comment provided by engineer. */
+"Enable color adjustments" = "Enable color adjustments";
+
+/* No comment provided by engineer. */
+"Enable connect/disconnect option for displays" = "Enable connect/disconnect option for displays";
+
+/* No comment provided by engineer. */
+"Enable Cropping" = "Enable Cropping";
+
+/* No comment provided by engineer. */
+"Enable Dark Mode" = "Enable Dark Mode";
+
+/* No comment provided by engineer. */
+"Enable DDC control" = "Enable DDC control";
+
+/* No comment provided by engineer. */
+"Enable hardware brightness control" = "Enable hardware brightness control";
+
+/* No comment provided by engineer. */
+"Enable HDR Mode" = "Enable HDR Mode";
+
+/* No comment provided by engineer. */
+"Enable HiDPI resolutions" = "Enable HiDPI resolutions";
+
+/* No comment provided by engineer. */
+"Enable lower than 720p resolutions" = "Enable lower than 720p resolutions";
+
+/* No comment provided by engineer. */
+"Enable Night Shift" = "Enable Night Shift";
+
+/* No comment provided by engineer. */
+"Enable resolutions over 8K (4K HiDPI)" = "Enable resolutions over 8K (4K HiDPI)";
+
+/* No comment provided by engineer. */
+"Enable scroll/swipe gesture for sliders" = "Enable scroll/swipe gesture for sliders";
+
+/* No comment provided by engineer. */
+"Enable smooth scaling" = "Enable smooth scaling";
+
+/* No comment provided by engineer. */
+"Enable smooth scaling, create custom scaled resolutions, modify native and default resolutions, change display name and role%@. Please note that all displays with the same vendor and model number are affected by the changes!" = "Enable smooth scaling, create custom scaled resolutions, modify native and default resolutions, change display name and role%@. Please note that all displays with the same vendor and model number are affected by the changes!";
+
+/* No comment provided by engineer. */
+"Enable software-based video adjustments" = "Enable software-based video adjustments";
+
+/* No comment provided by engineer. */
+"Enable True Tone" = "Enable True Tone";
+
+/* No comment provided by engineer. */
+"Enables low-level resolution change for mirror targets. Allows Refresh Rate and Color Depth submenus as well." = "Enables low-level resolution change for mirror targets. Allows Refresh Rate and Color Depth submenus as well.";
+
+/* No comment provided by engineer. */
+"Enables resolutions up to 16Kx16K (8Kx8K HiDPI) for virtual screens and native smooth scaling. Using 8K+ virtual screens might cause stability issues. Native smooth scaling needs to be reapplied. Maximum native resolutions have limitations depending on specific macOS version and GPU type." = "Enables resolutions up to 16Kx16K (8Kx8K HiDPI) for virtual screens and native smooth scaling. Using 8K+ virtual screens might cause stability issues. Native smooth scaling needs to be reapplied. Maximum native resolutions have limitations depending on specific macOS version and GPU type.";
+
+/* No comment provided by engineer. */
+"Enforce virtual screen mirroring" = "Enforce virtual screen mirroring";
+
+/* No comment provided by engineer. */
+"Expandable menu items unfold inside the main app menu. When turned off, the app shows a floating popup submenu right or left (depending on available space)." = "Expandable menu items unfold inside the main app menu. When turned off, the app shows a floating popup submenu right or left (depending on available space).";
+
+/* No comment provided by engineer. */
+"Expanding menu items" = "Expanding menu items";
+
+/* No comment provided by engineer. */
+"Export EDID Data…" = "Export EDID Data…";
+
+/* No comment provided by engineer. */
+"Export…" = "Export…";
+
+/* No comment provided by engineer. */
+"Extra wait time after failure" = "Extra wait time after failure";
+
+/* No comment provided by engineer. */
+"F14/F15 stands for Scroll Lock and Pause on PC keyboards, brightness keys on some Logitech keyboards." = "F14/F15 stands for Scroll Lock and Pause on PC keyboards, brightness keys on some Logitech keyboards.";
+
+/* No comment provided by engineer. */
+"Favorite" = "Favorite";
+
+/* No comment provided by engineer. */
+"Favorite modes:" = "Favorite modes:";
+
+/* No comment provided by engineer. */
+"Feature Availability" = "Feature Availability";
+
+/* No comment provided by engineer. */
+"Feature is Unavailable" = "Feature is Unavailable";
+
+/* No comment provided by engineer. */
+"Filled circles indicate occupied slots. You can use the context menu of a resolution item to assign or remove favorites as well." = "Filled circles indicate occupied slots. You can use the context menu of a resolution item to assign or remove favorites as well.";
+
+/* No comment provided by engineer. */
+"Filter…" = "Filter…";
+
+/* No comment provided by engineer. */
+"Flip" = "Flip";
+
+/* No comment provided by engineer. */
+"For easier identification of slider functionality." = "For easier identification of slider functionality.";
+
+/* No comment provided by engineer. */
+"Force support for color table manipulation" = "Force support for color table manipulation";
+
+/* No comment provided by engineer. */
+"Forget" = "Forget";
+
+/* No comment provided by engineer. */
+"Forget All DDC Stored Values" = "Forget All DDC Stored Values";
+
+/* No comment provided by engineer. */
+"Forget Display" = "Forget Display";
+
+/* No comment provided by engineer. */
+"Free Aspect Ratio" = "Free Aspect Ratio";
+
+/* No comment provided by engineer. */
+"Full Screen Stream" = "Full Screen Stream";
+
+/* No comment provided by engineer. */
+"Full screen streams looks best when the target display is set to its native resolution." = "Full screen streams looks best when the target display is set to its native resolution.";
+
+/* No comment provided by engineer. */
+"Fully dim display on disconnect" = "Fully dim display on disconnect";
+
+/* No comment provided by engineer. */
+"Gain" = "Gain";
+
+/* No comment provided by engineer. */
+"Gamma" = "Gamma";
+
+/* No comment provided by engineer. */
+"Gamma (Blue)" = "Gamma (Blue)";
+
+/* No comment provided by engineer. */
+"Gamma (Green)" = "Gamma (Green)";
+
+/* No comment provided by engineer. */
+"Gamma (Red)" = "Gamma (Red)";
+
+/* No comment provided by engineer. */
+"General Settings" = "General Settings";
+
+/* No comment provided by engineer. */
+"Get BetterDisplay Pro" = "Get BetterDisplay Pro";
+
+/* No comment provided by engineer. */
+"Green Black Level (DDC)" = "Green Black Level (DDC)";
+
+/* No comment provided by engineer. */
+"Green Gain (DDC)" = "Green Gain (DDC)";
+
+/* No comment provided by engineer. */
+"Hardware Control" = "Hardware Control";
+
+/* No comment provided by engineer. */
+"Hardware control (Apple)" = "Hardware control (Apple)";
+
+/* No comment provided by engineer. */
+"Have fun by creating an endless mirror from your desktop!" = "Have fun by creating an endless mirror from your desktop!";
+
+/* No comment provided by engineer. */
+"HDR Status%@" = "HDR Status%@";
+
+/* No comment provided by engineer. */
+"Height" = "Height";
+
+/* No comment provided by engineer. */
+"HEX editor styled blocks" = "HEX editor styled blocks";
+
+/* No comment provided by engineer. */
+"Hex value" = "Hex value";
+
+/* No comment provided by engineer. */
+"hexadecimal numbers" = "hexadecimal numbers";
+
+/* No comment provided by engineer. */
+"Hidden" = "Hidden";
+
+/* No comment provided by engineer. */
+"Hide other unexpanded menu items" = "Hide other unexpanded menu items";
+
+/* No comment provided by engineer. */
+"Hide Stream" = "Hide Stream";
+
+/* No comment provided by engineer. */
+"HiDPI" = "HiDPI";
+
+/* No comment provided by engineer. */
+"High Resolution (HiDPI)" = "High Resolution (HiDPI)";
+
+/* No comment provided by engineer. */
+"Hold ⇧ Shift for multi-select.%@" = "Hold ⇧ Shift for multi-select.%@";
+
+/* No comment provided by engineer. */
+"Hold SHIFT during app startup to engage safe mode and prevent writing saved value. With combined control enabled, DDC brightness might be reapplied even when unselected." = "Hold SHIFT during app startup to engage safe mode and prevent writing saved value. With combined control enabled, DDC brightness might be reapplied even when unselected.";
+
+/* No comment provided by engineer. */
+"Horizontal" = "Horizontal";
+
+/* No comment provided by engineer. */
+"Hz" = "Hz";
+
+/* No comment provided by engineer. */
+"Icon" = "Icon";
+
+/* No comment provided by engineer. */
+"Identifiers" = "Identifiers";
+
+/* No comment provided by engineer. */
+"If keyboard control is set to the display that matches the current audio device name (set this up under Keyboard settings), this value will be used for audio device matching instead of the display name." = "If keyboard control is set to the display that matches the current audio device name (set this up under Keyboard settings), this value will be used for audio device matching instead of the display name.";
+
+/* No comment provided by engineer. */
+"If the display factory reset was performed properly, you should also reset all stored app DDC values to defaults." = "If the display factory reset was performed properly, you should also reset all stored app DDC values to defaults.";
+
+/* No comment provided by engineer. */
+"If the display is used as a \"Television\" (as opposed to \"Computer monitor\"), it won't be affected by Night Shift and True Tone." = "If the display is used as a \"Television\" (as opposed to \"Computer monitor\"), it won't be affected by Night Shift and True Tone.";
+
+/* No comment provided by engineer. */
+"If the menu icon is hidden, you can reveal the icon by re-launching the app while the app is already running." = "If the menu icon is hidden, you can reveal the icon by re-launching the app while the app is already running.";
+
+/* No comment provided by engineer. */
+"If the updated EDID contains new display identity (serial number, model ID, vendor ID), macOS will treat the display as a separate display. With this option enabled, BetterDisplay preserves continuity between the old and new identity during the current app session." = "If the updated EDID contains new display identity (serial number, model ID, vendor ID), macOS will treat the display as a separate display. With this option enabled, BetterDisplay preserves continuity between the old and new identity during the current app session.";
+
+/* No comment provided by engineer. */
+"If you would like to use a virtual screen later, use disconnect instead so macOS display configuration data is preserved." = "If you would like to use a virtual screen later, use disconnect instead so macOS display configuration data is preserved.";
+
+/* No comment provided by engineer. */
+"If you would like to use a virtual screen later, you should disconnect the virtual screen instead to preserve macOS display configuration data." = "If you would like to use a virtual screen later, you should disconnect the virtual screen instead to preserve macOS display configuration data.";
+
+/* No comment provided by engineer. */
+"If you would like to use the virtual screens later, it is better to use disconnect so macOS display configuration data is preserved." = "If you would like to use the virtual screens later, it is better to use disconnect so macOS display configuration data is preserved.";
+
+/* No comment provided by engineer. */
+"If your display is not fully compatible with this feature, the app may not be able to turn the backlight off or turn it back on again!\n\nNot all displays support DDC power operations. DDC power operations can cause (even serious) issues with some displays!" = "If your display is not fully compatible with this feature, the app may not be able to turn the backlight off or turn it back on again!\n\nNot all displays support DDC power operations. DDC power operations can cause (even serious) issues with some displays!";
+
+/* No comment provided by engineer. */
+"Image Adjustments" = "Image Adjustments";
+
+/* No comment provided by engineer. */
+"In a detached state the app menu floats over the desktop as a top-level window. You can specify the alpha level to see-through the menu (lower the value for more transparency)." = "In a detached state the app menu floats over the desktop as a top-level window. You can specify the alpha level to see-through the menu (lower the value for more transparency).";
+
+/* No comment provided by engineer. */
+"inch" = "inch";
+
+/* No comment provided by engineer. */
+"Increase display brightness beyond 100%%. Requires an Apple XDR display or a HDR capable external display in HDR mode.%@" = "Increase display brightness beyond 100%%. Requires an Apple XDR display or a HDR capable external display in HDR mode.%@";
+
+/* No comment provided by engineer. */
+"Input Sources…" = "Input Sources…";
+
+/* No comment provided by engineer. */
+"Insert intermediate keyboard/OSD step at neutral 100% for HDR upscaling" = "Insert intermediate keyboard/OSD step at neutral 100% for HDR upscaling";
+
+/* No comment provided by engineer. */
+"Intel" = "Intel";
+
+/* No comment provided by engineer. */
+"Invalid mode" = "Invalid mode";
+
+/* No comment provided by engineer. */
+"Invalid resolution (skipped)" = "Invalid resolution (skipped)";
+
+/* No comment provided by engineer. */
+"Invert DDC value scale" = "Invert DDC value scale";
+
+/* No comment provided by engineer. */
+"Issue mute command first, then set volume level to lowest setting" = "Issue mute command first, then set volume level to lowest setting";
+
+/* No comment provided by engineer. */
+"Issue mute command only" = "Issue mute command only";
+
+/* No comment provided by engineer. */
+"Issue unmute command first, then set volume level" = "Issue unmute command first, then set volume level";
+
+/* No comment provided by engineer. */
+"It is advised to leave this on, especially if the custom EDID alters display identity. Without this the app may detect the display as different upon next startup." = "It is advised to leave this on, especially if the custom EDID alters display identity. Without this the app may detect the display as different upon next startup.";
+
+/* No comment provided by engineer. */
+"Keep Above Other Windows" = "Keep Above Other Windows";
+
+/* No comment provided by engineer. */
+"Keyboard control affects this display" = "Keyboard control affects this display";
+
+/* No comment provided by engineer. */
+"Keyboard Shortcuts…" = "Keyboard Shortcuts…";
+
+/* No comment provided by engineer. */
+"Landscape - no rotation" = "Landscape - no rotation";
+
+/* No comment provided by engineer. */
+"Leave mute key under OS control" = "Leave mute key under OS control";
+
+/* No comment provided by engineer. */
+"Length only" = "Length only";
+
+/* No comment provided by engineer. */
+"Let the app handle native audio (volume, mute) keys on your Apple keyboard. This lets you control the volume of external displays with your Apple keyboard." = "Let the app handle native audio (volume, mute) keys on your Apple keyboard. This lets you control the volume of external displays with your Apple keyboard.";
+
+/* No comment provided by engineer. */
+"Let the app handle native brightness keys on your Apple keyboard. This lets you control the brightness of external displays with your Apple keyboard and also allows XDR upscaling keyboard control and extra dimming for native Apple displays." = "Let the app handle native brightness keys on your Apple keyboard. This lets you control the brightness of external displays with your Apple keyboard and also allows XDR upscaling keyboard control and extra dimming for native Apple displays.";
+
+/* No comment provided by engineer. */
+"Let the application control display hardware luminance (backlight for backlit displays) if this DDC feature is enabled." = "Let the application control display hardware luminance (backlight for backlit displays) if this DDC feature is enabled.";
+
+/* No comment provided by engineer. */
+"Let the application control screen brightness using Apple's display control service." = "Let the application control screen brightness using Apple's display control service.";
+
+/* No comment provided by engineer. */
+"Let the Tools menu behave like the display menus." = "Let the Tools menu behave like the display menus.";
+
+/* No comment provided by engineer. */
+"Let the virtual screen auto-connect when the associated display is connected. Enabling this will cause the virtual screen to be connected right after creation!" = "Let the virtual screen auto-connect when the associated display is connected. Enabling this will cause the virtual screen to be connected right after creation!";
+
+/* No comment provided by engineer. */
+"Let the virtual screen follow the orientation of the associated display when it is rotated." = "Let the virtual screen follow the orientation of the associated display when it is rotated.";
+
+/* No comment provided by engineer. */
+"LG alt" = "LG alt";
+
+/* No comment provided by engineer. */
+"License management allows Pro features, purchasing, license activation and free trial. If you disable this, you can only use free features. License management requires communication with the payment and licensing provider Paddle ([paddle.com/privacy](https://paddle.com/privacy))." = "License management allows Pro features, purchasing, license activation and free trial. If you disable this, you can only use free features. License management requires communication with the payment and licensing provider Paddle ([paddle.com/privacy](https://paddle.com/privacy)).";
+
+/* No comment provided by engineer. */
+"Licensing & Pro Features" = "Licensing & Pro Features";
+
+/* No comment provided by engineer. */
+"Licensing Disabled" = "Licensing Disabled";
+
+/* No comment provided by engineer. */
+"Limit resolution range" = "Limit resolution range";
+
+/* No comment provided by engineer. */
+"Limit resolution slider and keyboard shortcut range" = "Limit resolution slider and keyboard shortcut range";
+
+/* No comment provided by engineer. */
+"Limits the resolution range based on the aspect ratio values and the multiplier." = "Limits the resolution range based on the aspect ratio values and the multiplier.";
+
+/* No comment provided by engineer. */
+"Listen to native audio keys" = "Listen to native audio keys";
+
+/* No comment provided by engineer. */
+"Load an EDID binary image exported by BetterDisplay (or other tools). You can also use an EDID binary created/modified by an EDID editor like AW EDID Editor. If you have a Base64 text representation of an EDID image, use the 'Paste Base64' button to load it." = "Load an EDID binary image exported by BetterDisplay (or other tools). You can also use an EDID binary created/modified by an EDID editor like AW EDID Editor. If you have a Base64 text representation of an EDID image, use the 'Paste Base64' button to load it.";
+
+/* No comment provided by engineer. */
+"Load Custom EDID…" = "Load Custom EDID…";
+
+/* No comment provided by engineer. */
+"Load EDID Data" = "Load EDID Data";
+
+/* No comment provided by engineer. */
+"Load EDID Data…" = "Load EDID Data…";
+
+/* No comment provided by engineer. */
+"Loaded EDID Data" = "Loaded EDID Data";
+
+/* No comment provided by engineer. */
+"Location" = "Location";
+
+/* No comment provided by engineer. */
+"LoDPI" = "LoDPI";
+
+/* No comment provided by engineer. */
+"Long press the mouse button to set and cycle through favorites in the slider." = "Long press the mouse button to set and cycle through favorites in the slider.";
+
+/* No comment provided by engineer. */
+"MacOS can mute digital streams natively - if mute does not work properly with your display, you should enable this feature." = "MacOS can mute digital streams natively - if mute does not work properly with your display, you should enable this feature.";
+
+/* No comment provided by engineer. */
+"Main Status" = "Main Status";
+
+/* No comment provided by engineer. */
+"Make fine scale default for brightness keys" = "Make fine scale default for brightness keys";
+
+/* No comment provided by engineer. */
+"Make fine scale default for volume keys" = "Make fine scale default for volume keys";
+
+/* No comment provided by engineer. */
+"Make Tools menu collapsible instead of closable" = "Make Tools menu collapsible instead of closable";
+
+/* No comment provided by engineer. */
+"Manage Virtual Screen" = "Manage Virtual Screen";
+
+/* No comment provided by engineer. */
+"Manage…" = "Manage…";
+
+/* No comment provided by engineer. */
+"Manually define the created resolution range. System specific limitations still apply. Some resolution variants are added even if outside of defined range." = "Manually define the created resolution range. System specific limitations still apply. Some resolution variants are added even if outside of defined range.";
+
+/* No comment provided by engineer. */
+"Manually define the list of resolutions available for this virtual screen. If disabled, the app will create resolutions that match the virtual screen's aspect ratio." = "Manually define the list of resolutions available for this virtual screen. If disabled, the app will create resolutions that match the virtual screen's aspect ratio.";
+
+/* No comment provided by engineer. */
+"Manufacturer" = "Manufacturer";
+
+/* No comment provided by engineer. */
+"Mark System Configuration As Unapplied" = "Mark System Configuration As Unapplied";
+
+/* No comment provided by engineer. */
+"Match aspect ratio of and associate to a display" = "Match aspect ratio of and associate to a display";
+
+/* No comment provided by engineer. */
+"Match basic + extended identifiers" = "Match basic + extended identifiers";
+
+/* No comment provided by engineer. */
+"Match basic identifiers" = "Match basic identifiers";
+
+/* No comment provided by engineer. */
+"Match menu icon with main display icon" = "Match menu icon with main display icon";
+
+/* No comment provided by engineer. */
+"Matches default resolution" = "Matches default resolution";
+
+/* No comment provided by engineer. */
+"Matching audio device name" = "Matching audio device name";
+
+/* No comment provided by engineer. */
+"Max Height" = "Max Height";
+
+/* No comment provided by engineer. */
+"Max HW" = "Max HW";
+
+/* No comment provided by engineer. */
+"Max Width" = "Max Width";
+
+/* No comment provided by engineer. */
+"Menu Appearance & Behavior" = "Menu Appearance & Behavior";
+
+/* No comment provided by engineer. */
+"Menu Bar Icon" = "Menu Bar Icon";
+
+/* No comment provided by engineer. */
+"Menu header icons" = "Menu header icons";
+
+/* No comment provided by engineer. */
+"Menu item icons" = "Menu item icons";
+
+/* No comment provided by engineer. */
+"Menu item visibility" = "Menu item visibility";
+
+/* No comment provided by engineer. */
+"Menu visibility" = "Menu visibility";
+
+/* No comment provided by engineer. */
+"milliseconds" = "milliseconds";
+
+/* No comment provided by engineer. */
+"Min Height" = "Min Height";
+
+/* No comment provided by engineer. */
+"Min HW" = "Min HW";
+
+/* No comment provided by engineer. */
+"Min Width" = "Min Width";
+
+/* No comment provided by engineer. */
+"Min/max width and height constraints are enforced separately. Only fields you want as limiting factor must be specified, the rest may be left blank." = "Min/max width and height constraints are enforced separately. Only fields you want as limiting factor must be specified, the rest may be left blank.";
+
+/* No comment provided by engineer. */
+"Mirror" = "Mirror";
+
+/* No comment provided by engineer. */
+"Mirror Display" = "Mirror Display";
+
+/* No comment provided by engineer. */
+"Mirror the contents of this display to:" = "Mirror the contents of this display to:";
+
+/* No comment provided by engineer. */
+"Mirror Virtual Screen" = "Mirror Virtual Screen";
+
+/* No comment provided by engineer. */
+"Mirrored" = "Mirrored";
+
+/* No comment provided by engineer. */
+"Mirrored to Multiple Screens" = "Mirrored to Multiple Screens";
+
+/* No comment provided by engineer. */
+"Model ID" = "Model ID";
+
+/* No comment provided by engineer. */
+"Modes matching custom filter:" = "Modes matching custom filter:";
+
+/* No comment provided by engineer. */
+"Modes matching default filter:" = "Modes matching default filter:";
+
+/* No comment provided by engineer. */
+"More system configuration options" = "More system configuration options";
+
+/* No comment provided by engineer. */
+"Move Display" = "Move Display";
+
+/* No comment provided by engineer. */
+"Move this display next to:" = "Move this display next to:";
+
+/* No comment provided by engineer. */
+"Move Virtual Screen" = "Move Virtual Screen";
+
+/* No comment provided by engineer. */
+"Multiple Displays" = "Multiple Displays";
+
+/* No comment provided by engineer. */
+"Multiple identical entries" = "Multiple identical entries";
+
+/* No comment provided by engineer. */
+"Multiplier" = "Multiplier";
+
+/* No comment provided by engineer. */
+"Mute method" = "Mute method";
+
+/* No comment provided by engineer. */
+"Native" = "Native";
+
+/* No comment provided by engineer. */
+"Native (Apple) Keyboard Control" = "Native (Apple) Keyboard Control";
+
+/* No comment provided by engineer. */
+"Native (Apple) keyboard control using the brightness keys or audio keys will not work without setting up accessibility permissions first in System Settings!" = "Native (Apple) keyboard control using the brightness keys or audio keys will not work without setting up accessibility permissions first in System Settings!";
+
+/* No comment provided by engineer. */
+"Native audio key settings" = "Native audio key settings";
+
+/* No comment provided by engineer. */
+"Native brightness key settings" = "Native brightness key settings";
+
+/* No comment provided by engineer. */
+"Native keyboard control requires accessibility permissions!" = "Native keyboard control requires accessibility permissions!";
+
+/* No comment provided by engineer. */
+"Native mode (1:1 mapping)" = "Native mode (1:1 mapping)";
+
+/* No comment provided by engineer. */
+"Neutral" = "Neutral";
+
+/* No comment provided by engineer. */
+"Neutral (default) value" = "Neutral (default) value";
+
+/* No comment provided by engineer. */
+"New Virtual Screen Configuration" = "New Virtual Screen Configuration";
+
+/* No comment provided by engineer. */
+"Night Shift Intensity" = "Night Shift Intensity";
+
+/* No comment provided by engineer. */
+"Night Shift turned off by HDR toggle" = "Night Shift turned off by HDR toggle";
+
+/* No comment provided by engineer. */
+"No" = "No";
+
+/* No comment provided by engineer. */
+"No display is selected" = "No display is selected";
+
+/* No comment provided by engineer. */
+"No favorites added." = "No favorites added.";
+
+/* No comment provided by engineer. */
+"No Mirror Targets Available" = "No Mirror Targets Available";
+
+/* No comment provided by engineer. */
+"No Modes Available" = "No Modes Available";
+
+/* No comment provided by engineer. */
+"No Stream Targets Available" = "No Stream Targets Available";
+
+/* No comment provided by engineer. */
+"Normal Window Priority" = "Normal Window Priority";
+
+/* No comment provided by engineer. */
+"Normally the header is not visible when a single display is present." = "Normally the header is not visible when a single display is present.";
+
+/* No comment provided by engineer. */
+"Not all displays support DDC power operations. DDC power operations can cause (even serious) issues with some displays!" = "Not all displays support DDC power operations. DDC power operations can cause (even serious) issues with some displays!";
+
+/* No comment provided by engineer. */
+"Not detected (past disconnected)" = "Not detected (past disconnected)";
+
+/* No comment provided by engineer. */
+"Notch" = "Notch";
+
+/* No comment provided by engineer. */
+"Note: Additional configuration options will be available at the created virtual screen's settings pane." = "Note: Additional configuration options will be available at the created virtual screen's settings pane.";
+
+/* No comment provided by engineer. */
+"Note: they way resolution/magnification shortcuts work depends on resolution slider settings." = "Note: they way resolution/magnification shortcuts work depends on resolution slider settings.";
+
+/* No comment provided by engineer. */
+"Number of retry attempts on failure" = "Number of retry attempts on failure";
+
+/* No comment provided by engineer. */
+"Number of times to send a DDC command" = "Number of times to send a DDC command";
+
+/* No comment provided by engineer. */
+"Numeric and alphanumeric serial" = "Numeric and alphanumeric serial";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"On startup & wake" = "On startup & wake";
+
+/* No comment provided by engineer. */
+"Only non-brightness settings (color adjustments) are restored." = "Only non-brightness settings (color adjustments) are restored.";
+
+/* No comment provided by engineer. */
+"Only resolutions that match native aspect ratio" = "Only resolutions that match native aspect ratio";
+
+/* No comment provided by engineer. */
+"OS managed (recommended)" = "OS managed (recommended)";
+
+/* No comment provided by engineer. */
+"Page %lld" = "Page %lld";
+
+/* No comment provided by engineer. */
+"Page 1" = "Page 1";
+
+/* No comment provided by engineer. */
+"Page 2" = "Page 2";
+
+/* No comment provided by engineer. */
+"Page 3" = "Page 3";
+
+/* No comment provided by engineer. */
+"Page 4" = "Page 4";
+
+/* No comment provided by engineer. */
+"Paste Base64" = "Paste Base64";
+
+/* No comment provided by engineer. */
+"Pause Picture in Picture" = "Pause Picture in Picture";
+
+/* No comment provided by engineer. */
+"Pause Streaming" = "Pause Streaming";
+
+/* No comment provided by engineer. */
+"Percentage shows the size of the GUI elements compared to size with resolution size (Windows, Linux style). Native resolution is 100%. Affects resolution keyboard shortcut as well." = "Percentage shows the size of the GUI elements compared to size with resolution size (Windows, Linux style). Native resolution is 100%. Affects resolution keyboard shortcut as well.";
+
+/* No comment provided by engineer. */
+"Periodically check for updates and notify if there is an update available. Requires network connectivity. No data is collected ([betterdisplay.pro/privacy](https://betterdisplay.pro/privacy))." = "Periodically check for updates and notify if there is an update available. Requires network connectivity. No data is collected ([betterdisplay.pro/privacy](https://betterdisplay.pro/privacy)).";
+
+/* No comment provided by engineer. */
+"Picture in Picture" = "Picture in Picture";
+
+/* No comment provided by engineer. */
+"Platform" = "Platform";
+
+/* No comment provided by engineer. */
+"Please make sure you have your license details saved so you can activate again later!" = "Please make sure you have your license details saved so you can activate again later!";
+
+/* No comment provided by engineer. */
+"Please note that not all displays support DDC power operations and some displays may not behave as expected. If you power off your display, you will have to power it back on manually." = "Please note that not all displays support DDC power operations and some displays may not behave as expected. If you power off your display, you will have to power it back on manually.";
+
+/* No comment provided by engineer. */
+"Please select a display you want to match the virtual display!" = "Please select a display you want to match the virtual display!";
+
+/* No comment provided by engineer. */
+"Portrait 90° (Sidecar port down)" = "Portrait 90° (Sidecar port down)";
+
+/* No comment provided by engineer. */
+"Portrait 270° (Sidecar port up)" = "Portrait 270° (Sidecar port up)";
+
+/* No comment provided by engineer. */
+"Potentially DDC compatible" = "Potentially DDC compatible";
+
+/* No comment provided by engineer. */
+"Powering off the main display" = "Powering off the main display";
+
+/* No comment provided by engineer. */
+"Pre-configured settings (recommended)" = "Pre-configured settings (recommended)";
+
+/* No comment provided by engineer. */
+"Prefer software contrast control" = "Prefer software contrast control";
+
+/* No comment provided by engineer. */
+"Prefer software over hardware (DDC) for contrast control via main slider and keyboard." = "Prefer software over hardware (DDC) for contrast control via main slider and keyboard.";
+
+/* No comment provided by engineer. */
+"Preserve continuity in case of an EDID display identity change" = "Preserve continuity in case of an EDID display identity change";
+
+/* No comment provided by engineer. */
+"Prevent accidental rotation of the internal display." = "Prevent accidental rotation of the internal display.";
+
+/* No comment provided by engineer. */
+"Pro" = "Pro";
+
+/* No comment provided by engineer. */
+"Proceed" = "Proceed";
+
+/* No comment provided by engineer. */
+"Product name" = "Product name";
+
+/* No comment provided by engineer. */
+"ProMotion" = "ProMotion";
+
+/* No comment provided by engineer. */
+"Provided by EDID" = "Provided by EDID";
+
+/* No comment provided by engineer. */
+"Provides a fine-grained list of resolutions matching the aspect ratio of the display's native resolution. This lets change GUI size (display scaling) freely via the resolution slider." = "Provides a fine-grained list of resolutions matching the aspect ratio of the display's native resolution. This lets change GUI size (display scaling) freely via the resolution slider.";
+
+/* No comment provided by engineer. */
+"Provides additional display useful modes options on some configurations." = "Provides additional display useful modes options on some configurations.";
+
+/* No comment provided by engineer. */
+"Quit" = "Quit";
+
+/* No comment provided by engineer. */
+"Rate" = "Rate";
+
+/* No comment provided by engineer. */
+"Read length (bytes)" = "Read length (bytes)";
+
+/* No comment provided by engineer. */
+"Read values from display" = "Read values from display";
+
+/* No comment provided by engineer. */
+"Reads EDID data acquired by the operating system. This data might be altered by the system for various reasons." = "Reads EDID data acquired by the operating system. This data might be altered by the system for various reasons.";
+
+/* No comment provided by engineer. */
+"Receive pre-release updates" = "Receive pre-release updates";
+
+/* No comment provided by engineer. */
+"Reconnect" = "Reconnect";
+
+/* No comment provided by engineer. */
+"Reconnect All" = "Reconnect All";
+
+/* No comment provided by engineer. */
+"Reconnect all disconnected displays that are detected on startup. Helps if a display is strandled disconnected in case of an app crash of forced quit." = "Reconnect all disconnected displays that are detected on startup. Helps if a display is strandled disconnected in case of an app crash of forced quit.";
+
+/* No comment provided by engineer. */
+"Reconnect Virtual Screen" = "Reconnect Virtual Screen";
+
+/* No comment provided by engineer. */
+"Reconnect Virtual Screens" = "Reconnect Virtual Screens";
+
+/* No comment provided by engineer. */
+"Reconnect virtual screens after wake" = "Reconnect virtual screens after wake";
+
+/* No comment provided by engineer. */
+"Reconnecting virtual screens after sleep might improve stability and help fix color space issues (flickering) when mirroring a virtual screen." = "Reconnecting virtual screens after sleep might improve stability and help fix color space issues (flickering) when mirroring a virtual screen.";
+
+/* No comment provided by engineer. */
+"Recording keyboard shortcuts" = "Recording keyboard shortcuts";
+
+/* No comment provided by engineer. */
+"Red Black Level (DDC)" = "Red Black Level (DDC)";
+
+/* No comment provided by engineer. */
+"Red Gain (DDC)" = "Red Gain (DDC)";
+
+/* No comment provided by engineer. */
+"Refresh Rate" = "Refresh Rate";
+
+/* No comment provided by engineer. */
+"Refresh Rate%@" = "Refresh Rate%@";
+
+/* No comment provided by engineer. */
+"Registry location" = "Registry location";
+
+/* No comment provided by engineer. */
+"Registry path" = "Registry path";
+
+/* No comment provided by engineer. */
+"Remove from Favorite %lld" = "Remove from Favorite %lld";
+
+/* No comment provided by engineer. */
+"Render all other app menu icons in hierarchical style (with grayscales)" = "Render all other app menu icons in hierarchical style (with grayscales)";
+
+/* No comment provided by engineer. */
+"Render menu header icons in hierarchical style (with grayscales)" = "Render menu header icons in hierarchical style (with grayscales)";
+
+/* No comment provided by engineer. */
+"Reported diagonal size" = "Reported diagonal size";
+
+/* No comment provided by engineer. */
+"Reset" = "Reset";
+
+/* No comment provided by engineer. */
+"Reset All Display Settings" = "Reset All Display Settings";
+
+/* No comment provided by engineer. */
+"Reset App Settings…" = "Reset App Settings…";
+
+/* No comment provided by engineer. */
+"Reset Color Adjustments" = "Reset Color Adjustments";
+
+/* No comment provided by engineer. */
+"Reset colors on neutral settings for HDR capable screens" = "Reset colors on neutral settings for HDR capable screens";
+
+/* No comment provided by engineer. */
+"Reset Default" = "Reset Default";
+
+/* No comment provided by engineer. */
+"Reset Default Input Sources" = "Reset Default Input Sources";
+
+/* No comment provided by engineer. */
+"Reset Display Settings" = "Reset Display Settings";
+
+/* No comment provided by engineer. */
+"Reset EDID" = "Reset EDID";
+
+/* No comment provided by engineer. */
+"Reset Factory EDID (Unapply)" = "Reset Factory EDID (Unapply)";
+
+/* No comment provided by engineer. */
+"Reset Menu Layout…" = "Reset Menu Layout…";
+
+/* No comment provided by engineer. */
+"Reset Settings" = "Reset Settings";
+
+/* No comment provided by engineer. */
+"Reset stored DDC values as well?" = "Reset stored DDC values as well?";
+
+/* No comment provided by engineer. */
+"Reset Values" = "Reset Values";
+
+/* No comment provided by engineer. */
+"Reset Warning Dismissals" = "Reset Warning Dismissals";
+
+/* No comment provided by engineer. */
+"Resolution" = "Resolution";
+
+/* No comment provided by engineer. */
+"Resolution entry accepted" = "Resolution entry accepted";
+
+/* No comment provided by engineer. */
+"Resolution Favorites" = "Resolution Favorites";
+
+/* No comment provided by engineer. */
+"Resolution selection" = "Resolution selection";
+
+/* No comment provided by engineer. */
+"Resolution Slider" = "Resolution Slider";
+
+/* No comment provided by engineer. */
+"Resolution step multiplier" = "Resolution step multiplier";
+
+/* No comment provided by engineer. */
+"Resolution steps by which the provided virtual screen aspect ratio width and height values are multiplied for creating resolution options. Smaller multiplier means more granular resolution scale." = "Resolution steps by which the provided virtual screen aspect ratio width and height values are multiplied for creating resolution options. Smaller multiplier means more granular resolution scale.";
+
+/* No comment provided by engineer. */
+"Resolution submenu settings" = "Resolution submenu settings";
+
+/* No comment provided by engineer. */
+"Resolution unavailable" = "Resolution unavailable";
+
+/* No comment provided by engineer. */
+"Resolution%@" = "Resolution%@";
+
+/* No comment provided by engineer. */
+"Restart" = "Restart";
+
+/* No comment provided by engineer. */
+"Restart App…" = "Restart App…";
+
+/* No comment provided by engineer. */
+"Restart BetterDisplay" = "Restart BetterDisplay";
+
+/* No comment provided by engineer. */
+"Restore combined brightness and software adjustments" = "Restore combined brightness and software adjustments";
+
+/* No comment provided by engineer. */
+"Restore display layout after connecting a virtual screen" = "Restore display layout after connecting a virtual screen";
+
+/* No comment provided by engineer. */
+"Restore display layout after connecting virtual screen for the first time or when mirroring is engaged via the app menu." = "Restore display layout after connecting virtual screen for the first time or when mirroring is engaged via the app menu.";
+
+/* No comment provided by engineer. */
+"Restore factory EDID on quit" = "Restore factory EDID on quit";
+
+/* No comment provided by engineer. */
+"Restore non-brightness adjustments only" = "Restore non-brightness adjustments only";
+
+/* No comment provided by engineer. */
+"Retrieve EDID Data" = "Retrieve EDID Data";
+
+/* No comment provided by engineer. */
+"Retrieve EDID…" = "Retrieve EDID…";
+
+/* No comment provided by engineer. */
+"Retrieve%@ EDID" = "Retrieve%@ EDID";
+
+/* No comment provided by engineer. */
+"Retrieved EDID Data" = "Retrieved EDID Data";
+
+/* No comment provided by engineer. */
+"Rosetta emulation layer detected" = "Rosetta emulation layer detected";
+
+/* No comment provided by engineer. */
+"Rotate" = "Rotate";
+
+/* No comment provided by engineer. */
+"Rotate Screen by 90°" = "Rotate Screen by 90°";
+
+/* No comment provided by engineer. */
+"Rotate Screen by 180°" = "Rotate Screen by 180°";
+
+/* No comment provided by engineer. */
+"Rotate Screen by 270°" = "Rotate Screen by 270°";
+
+/* No comment provided by engineer. */
+"Rotate the display (flip width and height). %@" = "Rotate the display (flip width and height). %@";
+
+/* No comment provided by engineer. */
+"Rotated orientation" = "Rotated orientation";
+
+/* No comment provided by engineer. */
+"Rotated Orientation" = "Rotated Orientation";
+
+/* No comment provided by engineer. */
+"Rotated Orientation (Automatic)" = "Rotated Orientation (Automatic)";
+
+/* No comment provided by engineer. */
+"Rotation" = "Rotation";
+
+/* No comment provided by engineer. */
+"Rotation (portrait mode)" = "Rotation (portrait mode)";
+
+/* No comment provided by engineer. */
+"Rotation shortcut keys toggle the screen between rotated and non-rotated modes." = "Rotation shortcut keys toggle the screen between rotated and non-rotated modes.";
+
+/* No comment provided by engineer. */
+"Rotation%@" = "Rotation%@";
+
+/* No comment provided by engineer. */
+"Safe Mode Activated" = "Safe Mode Activated";
+
+/* No comment provided by engineer. */
+"Save Calibration" = "Save Calibration";
+
+/* No comment provided by engineer. */
+"Screen brightness is changed to a desired level (when originally higher) upon screen saver start or lock.%@" = "Screen brightness is changed to a desired level (when originally higher) upon screen saver start or lock.%@";
+
+/* No comment provided by engineer. */
+"Screen Recording Permission" = "Screen Recording Permission";
+
+/* No comment provided by engineer. */
+"Screen Rotation%@" = "Screen Rotation%@";
+
+/* No comment provided by engineer. */
+"Screen with the mouse cursor" = "Screen with the mouse cursor";
+
+/* No comment provided by engineer. */
+"Screen with the window in focus" = "Screen with the window in focus";
+
+/* No comment provided by engineer. */
+"Select a common aspect ratio for the virtual screen. The app creates a flexible resolution list based on this." = "Select a common aspect ratio for the virtual screen. The app creates a flexible resolution list based on this.";
+
+/* No comment provided by engineer. */
+"Selected display is not available" = "Selected display is not available";
+
+/* No comment provided by engineer. */
+"Serial number" = "Serial number";
+
+/* No comment provided by engineer. */
+"Service Information" = "Service Information";
+
+/* No comment provided by engineer. */
+"Service match score" = "Service match score";
+
+/* No comment provided by engineer. */
+"Set All to Hidden" = "Set All to Hidden";
+
+/* No comment provided by engineer. */
+"Set as Favorite %lld%@" = "Set as Favorite %lld%@";
+
+/* No comment provided by engineer. */
+"Set as Main Display" = "Set as Main Display";
+
+/* No comment provided by engineer. */
+"Set audio volume level only" = "Set audio volume level only";
+
+/* No comment provided by engineer. */
+"Set audio volume to lowest setting only" = "Set audio volume to lowest setting only";
+
+/* No comment provided by engineer. */
+"Set Default - Auto Calibrate" = "Set Default - Auto Calibrate";
+
+/* No comment provided by engineer. */
+"Set the brightness slider as high as possible! Also make sure you still barely see the smiling face! If you don't see the smiling face when the slider is set to the lowest setting, you need to adjust your display's hardware controls (contrast, gamma) first to fix the white saturation problem." = "Set the brightness slider as high as possible! Also make sure you still barely see the smiling face! If you don't see the smiling face when the slider is set to the lowest setting, you need to adjust your display's hardware controls (contrast, gamma) first to fix the white saturation problem.";
+
+/* No comment provided by engineer. */
+"Set up Accessibility Permissions…" = "Set up Accessibility Permissions…";
+
+/* No comment provided by engineer. */
+"Set Up Permissions" = "Set Up Permissions";
+
+/* No comment provided by engineer. */
+"Set volume level first, then issue unmute command" = "Set volume level first, then issue unmute command";
+
+/* No comment provided by engineer. */
+"Set volume level to lowest setting first, then issue mute command" = "Set volume level to lowest setting first, then issue mute command";
+
+/* No comment provided by engineer. */
+"Set volume to lowest setting" = "Set volume to lowest setting";
+
+/* No comment provided by engineer. */
+"Settings made with the app are protected." = "Settings made with the app are protected.";
+
+/* No comment provided by engineer. */
+"Settings Reset Required" = "Settings Reset Required";
+
+/* No comment provided by engineer. */
+"Show and Bring to Front" = "Show and Bring to Front";
+
+/* No comment provided by engineer. */
+"Show and snap to slider markers for favorites and special resolutions." = "Show and snap to slider markers for favorites and special resolutions.";
+
+/* No comment provided by engineer. */
+"Show app icon in the menu bar" = "Show app icon in the menu bar";
+
+/* No comment provided by engineer. */
+"Show connect/disconnect in menu even if header has it as switch" = "Show connect/disconnect in menu even if header has it as switch";
+
+/* No comment provided by engineer. */
+"Show current resolution values" = "Show current resolution values";
+
+/* No comment provided by engineer. */
+"Show currently off-line (past disconnected) displays in Settings" = "Show currently off-line (past disconnected) displays in Settings";
+
+/* No comment provided by engineer. */
+"Show data as" = "Show data as";
+
+/* No comment provided by engineer. */
+"Show details" = "Show details";
+
+/* No comment provided by engineer. */
+"Show disconnect/connect menu option for displays. Disconnecting a display puts the display into sleep mode and removes it from the display layout. Connecting it restores the display. Disconnected displays can be reconnected with the header toggle (power button), by turning the display on/off or closing and opening the lid for MacBook displays. %@" = "Show disconnect/connect menu option for displays. Disconnecting a display puts the display into sleep mode and removes it from the display layout. Connecting it restores the display. Disconnected displays can be reconnected with the header toggle (power button), by turning the display on/off or closing and opening the lid for MacBook displays. %@";
+
+/* No comment provided by engineer. */
+"Show display modes marked as unsafe or invalid" = "Show display modes marked as unsafe or invalid";
+
+/* No comment provided by engineer. */
+"Show extra OSD icon if keyboard adjustment causes upscaling or extra dimming" = "Show extra OSD icon if keyboard adjustment causes upscaling or extra dimming";
+
+/* No comment provided by engineer. */
+"Show header when only one device is present" = "Show header when only one device is present";
+
+/* No comment provided by engineer. */
+"Show in the app menu" = "Show in the app menu";
+
+/* No comment provided by engineer. */
+"Show macOS volume OSD with keyboard control" = "Show macOS volume OSD with keyboard control";
+
+/* No comment provided by engineer. */
+"Show Mouse Cursor" = "Show Mouse Cursor";
+
+/* No comment provided by engineer. */
+"Show on/off (power) switch in headers" = "Show on/off (power) switch in headers";
+
+/* No comment provided by engineer. */
+"Show percentage for scalable displays" = "Show percentage for scalable displays";
+
+/* No comment provided by engineer. */
+"Show PIP menu when only a single display is connected" = "Show PIP menu when only a single display is connected";
+
+/* No comment provided by engineer. */
+"Show separate hardware and software brightness sliders when combined brightness is enabled. This is useful for testing and understanding the effects of the combined slider." = "Show separate hardware and software brightness sliders when combined brightness is enabled. This is useful for testing and understanding the effects of the combined slider.";
+
+/* No comment provided by engineer. */
+"Show slider labels" = "Show slider labels";
+
+/* No comment provided by engineer. */
+"Show slider markers only while dragging the knob" = "Show slider markers only while dragging the knob";
+
+/* No comment provided by engineer. */
+"Show subsliders for combined brightness control" = "Show subsliders for combined brightness control";
+
+/* No comment provided by engineer. */
+"Shows all displays previously detected by the app. Allows some configuration changes even when a display is off-line." = "Shows all displays previously detected by the app. Allows some configuration changes even when a display is off-line.";
+
+/* No comment provided by engineer. */
+"Simplifies navigation greatly." = "Simplifies navigation greatly.";
+
+/* No comment provided by engineer. */
+"Sink type" = "Sink type";
+
+/* No comment provided by engineer. */
+"Size" = "Size";
+
+/* No comment provided by engineer. */
+"Skip" = "Skip";
+
+/* No comment provided by engineer. */
+"Slider visibility" = "Slider visibility";
+
+/* No comment provided by engineer. */
+"Smooth scaling options" = "Smooth scaling options";
+
+/* No comment provided by engineer. */
+"Smooth transitions" = "Smooth transitions";
+
+/* No comment provided by engineer. */
+"Software control" = "Software control";
+
+/* No comment provided by engineer. */
+"Software control allows dimming even without hardware support and provides various other video adjustments. Required for combined brightness and XDR/HDR upscaling." = "Software control allows dimming even without hardware support and provides various other video adjustments. Required for combined brightness and XDR/HDR upscaling.";
+
+/* No comment provided by engineer. */
+"Some displays are still disconnected!" = "Some displays are still disconnected!";
+
+/* No comment provided by engineer. */
+"Some displays do not support DDC brightness control in HDR mode. Enabling this for compatible displays allows brightness control while preserving unclipped HDR content." = "Some displays do not support DDC brightness control in HDR mode. Enabling this for compatible displays allows brightness control while preserving unclipped HDR content.";
+
+/* No comment provided by engineer. */
+"Some macOS versions disallow the use of the HiDPI variant of the native resolution. This setting adds a near-native mode with 1px vertical row removed as a substitute." = "Some macOS versions disallow the use of the HiDPI variant of the native resolution. This setting adds a near-native mode with 1px vertical row removed as a substitute.";
+
+/* No comment provided by engineer. */
+"SOURCE" = "SOURCE";
+
+/* No comment provided by engineer. */
+"Specify what should happen when the app menu on/off switch is pressed. Not all options may be valid for the display." = "Specify what should happen when the app menu on/off switch is pressed. Not all options may be valid for the display.";
+
+/* No comment provided by engineer. */
+"Start Automatically" = "Start Automatically";
+
+/* No comment provided by engineer. */
+"Start Picture in Picture" = "Start Picture in Picture";
+
+/* No comment provided by engineer. */
+"Stop Mirroring" = "Stop Mirroring";
+
+/* No comment provided by engineer. */
+"Stop Picture in Picture" = "Stop Picture in Picture";
+
+/* No comment provided by engineer. */
+"Stop Streaming" = "Stop Streaming";
+
+/* No comment provided by engineer. */
+"Stream Display" = "Stream Display";
+
+/* No comment provided by engineer. */
+"Stream the contents of this display to:" = "Stream the contents of this display to:";
+
+/* No comment provided by engineer. */
+"Stream Virtual Screen" = "Stream Virtual Screen";
+
+/* No comment provided by engineer. */
+"Streaming from" = "Streaming from";
+
+/* No comment provided by engineer. */
+"Streaming to" = "Streaming to";
+
+/* No comment provided by engineer. */
+"Supported by the display" = "Supported by the display";
+
+/* No comment provided by engineer. */
+"Supports changing orientation" = "Supports changing orientation";
+
+/* No comment provided by engineer. */
+"Supports proper HiDPI" = "Supports proper HiDPI";
+
+/* No comment provided by engineer. */
+"Supports variable refresh rate" = "Supports variable refresh rate";
+
+/* No comment provided by engineer. */
+"Switch to native mode for full screen stream target" = "Switch to native mode for full screen stream target";
+
+/* No comment provided by engineer. */
+"Switch to this display mode" = "Switch to this display mode";
+
+/* No comment provided by engineer. */
+"Symbol name" = "Symbol name";
+
+/* No comment provided by engineer. */
+"System Colors" = "System Colors";
+
+/* No comment provided by engineer. */
+"System Configuration and Smooth Scaling" = "System Configuration and Smooth Scaling";
+
+/* No comment provided by engineer. */
+"System display name" = "System display name";
+
+/* No comment provided by engineer. */
+"System Settings" = "System Settings";
+
+/* No comment provided by engineer. */
+"System UUID match (recommended)" = "System UUID match (recommended)";
+
+/* No comment provided by engineer. */
+"Tag ID" = "Tag ID";
+
+/* No comment provided by engineer. */
+"TARGET" = "TARGET";
+
+/* No comment provided by engineer. */
+"Television" = "Television";
+
+/* No comment provided by engineer. */
+"The app automatically attempts to reconnect all displays when no connected display is present." = "The app automatically attempts to reconnect all displays when no connected display is present.";
+
+/* No comment provided by engineer. */
+"The app can automatically connect and disconnect a virtual screen based on the availability of the display(s) it is associated with. It can also auto-start mirroring or streaming or follow the associated display's orientation." = "The app can automatically connect and disconnect a virtual screen based on the availability of the display(s) it is associated with. It can also auto-start mirroring or streaming or follow the associated display's orientation.";
+
+/* No comment provided by engineer. */
+"The app is already running…" = "The app is already running…";
+
+/* No comment provided by engineer. */
+"The app menu icon will reflect the icon of the current main display. Enable if you don't like the default icon…" = "The app menu icon will reflect the icon of the current main display. Enable if you don't like the default icon…";
+
+/* No comment provided by engineer. */
+"The app menu will show this name instead of the system name in the app menu for the display. If you want to change the system-wide name, you can do so by enabling the configuration override option and editing the raw display name." = "The app menu will show this name instead of the system name in the app menu for the display. If you want to change the system-wide name, you can do so by enabling the configuration override option and editing the raw display name.";
+
+/* No comment provided by engineer. */
+"The app normally does not restore full dimming upon wake or app startup to avoid confusion." = "The app normally does not restore full dimming upon wake or app startup to avoid confusion.";
+
+/* No comment provided by engineer. */
+"The app was launched using the Rosetta emulation layer. Some of the features - DDC, XDR/HDR upscaling, EDID overrides - will not work!\n\nPlease open the app in native mode - to achieve this, unselect \"Open using Rosetta\" in the app's Info sheet!" = "The app was launched using the Rosetta emulation layer. Some of the features - DDC, XDR/HDR upscaling, EDID overrides - will not work!\n\nPlease open the app in native mode - to achieve this, unselect \"Open using Rosetta\" in the app's Info sheet!";
+
+/* No comment provided by engineer. */
+"The app will apply the loaded EDID when this display is connected. The operation causes the screen to flicker and switch modes if existing mode is not available with the updated EDID. If the new EDID has different id data (vendor, model, serial), the display will be redetected as a different one. Hold SHIFT on startup to enable safe mode and avoid auto-apply. Physically reconnect  display to revert back to the original in case of serious trouble." = "The app will apply the loaded EDID when this display is connected. The operation causes the screen to flicker and switch modes if existing mode is not available with the updated EDID. If the new EDID has different id data (vendor, model, serial), the display will be redetected as a different one. Hold SHIFT on startup to enable safe mode and avoid auto-apply. Physically reconnect  display to revert back to the original in case of serious trouble.";
+
+/* No comment provided by engineer. */
+"The app will forget all stored DDC values and treat all controls and untouched. Sliders will revert to default neutral values.\n\nThis operation does not reset the display itself." = "The app will forget all stored DDC values and treat all controls and untouched. Sliders will revert to default neutral values.\n\nThis operation does not reset the display itself.";
+
+/* No comment provided by engineer. */
+"The built-in display is configured to be disconnected when an external display is connected.\n\nIf you connect the built-in display, this setting will be turned off. You can enable it again under Settings > Advanced." = "The built-in display is configured to be disconnected when an external display is connected.\n\nIf you connect the built-in display, this setting will be turned off. You can enable it again under Settings > Advanced.";
+
+/* No comment provided by engineer. */
+"The built-in display of the iMac cannot be easily reconnected (lack of display cable, closable lid) in case of an application failure. Enable this setting with extra caution!" = "The built-in display of the iMac cannot be easily reconnected (lack of display cable, closable lid) in case of an application failure. Enable this setting with extra caution!";
+
+/* No comment provided by engineer. */
+"The DDC reset command might not work properly for all displays. You can also try using the built-in factory reset functionality of the display (usually accessible via the display OSD)." = "The DDC reset command might not work properly for all displays. You can also try using the built-in factory reset functionality of the display (usually accessible via the display OSD).";
+
+/* No comment provided by engineer. */
+"The default input source list reflects commonly occurring assignments, but the actual list varies by display vendor/model. Try using the \"LG alt\" toggle for some newer LG displays if input control does not work!" = "The default input source list reflects commonly occurring assignments, but the actual list varies by display vendor/model. Try using the \"LG alt\" toggle for some newer LG displays if input control does not work!";
+
+/* No comment provided by engineer. */
+"The operation might cause the screen to flicker and switch mode if the existing mode is not available with the factory EDID. The display will be redetected as a different display if the current EDID has different identifiers.\n\nIn case of a failure, disconnect and reconnect the display physically." = "The operation might cause the screen to flicker and switch mode if the existing mode is not available with the factory EDID. The display will be redetected as a different display if the current EDID has different identifiers.\n\nIn case of a failure, disconnect and reconnect the display physically.";
+
+/* No comment provided by engineer. */
+"The operation might cause the screen to flicker and switch mode if the existing mode is not available with the updated EDID. The display will be redetected as a different display if the EDID has different identifiers.\n\nIn case of a failure, disconnect and reconnect the display physically." = "The operation might cause the screen to flicker and switch mode if the existing mode is not available with the updated EDID. The display will be redetected as a different display if the EDID has different identifiers.\n\nIn case of a failure, disconnect and reconnect the display physically.";
+
+/* No comment provided by engineer. */
+"The SHIFT key was pressed during launch. The app started in safe mode. \n\nVirtual screens are not connected automatically, brightness and other adjustments are not restored and reverted to defaults, custom EDIDs are not automatically applied." = "The SHIFT key was pressed during launch. The app started in safe mode. \n\nVirtual screens are not connected automatically, brightness and other adjustments are not restored and reverted to defaults, custom EDIDs are not automatically applied.";
+
+/* No comment provided by engineer. */
+"The slider will omit resolutions that do not match the display's size in order to reduce clutter and make slider easier to use. Affects resolution keyboard shortcuts as well." = "The slider will omit resolutions that do not match the display's size in order to reduce clutter and make slider easier to use. Affects resolution keyboard shortcuts as well.";
+
+/* No comment provided by engineer. */
+"The system might reconnect the built-in display and other displays after wake from sleep to ensure GUI access. With this option enabled, the app forcefully disconnects these displays again. Post-wake main display will not be disconnected." = "The system might reconnect the built-in display and other displays after wake from sleep to ensure GUI access. With this option enabled, the app forcefully disconnects these displays again. Post-wake main display will not be disconnected.";
+
+/* No comment provided by engineer. */
+"The virtual screen created with this aspect ratio does not seem to be viable." = "The virtual screen created with this aspect ratio does not seem to be viable.";
+
+/* No comment provided by engineer. */
+"The virtual screen is now associated with a display that is connected therefore the virtual screen should automatically connect. Alternatively you can disable auto-connect (you can enable it any time under association settings)." = "The virtual screen is now associated with a display that is connected therefore the virtual screen should automatically connect. Alternatively you can disable auto-connect (you can enable it any time under association settings).";
+
+/* No comment provided by engineer. */
+"The virtual screen was disassociated from a connected display but the virtual screen is still connected." = "The virtual screen was disassociated from a connected display but the virtual screen is still connected.";
+
+/* No comment provided by engineer. */
+"The virtual screen was not created." = "The virtual screen was not created.";
+
+/* No comment provided by engineer. */
+"There are some unapplied system configuration changes." = "There are some unapplied system configuration changes.";
+
+/* No comment provided by engineer. */
+"There is at least one controllable display connected" = "There is at least one controllable display connected";
+
+/* No comment provided by engineer. */
+"These three identifiers (serial number, vendor and model ID) serves as the basis for display identification in macOS. If any of these three identifiers are changed, the system will assign a new identity (UUID) to the virtual screen and treat it as newly connected display." = "These three identifiers (serial number, vendor and model ID) serves as the basis for display identification in macOS. If any of these three identifiers are changed, the system will assign a new identity (UUID) to the virtual screen and treat it as newly connected display.";
+
+/* No comment provided by engineer. */
+"This allows advanced dimming, color adjustments and other features like XDR/HDR upscaling. Note: color adjustments clip HDR content when in active use." = "This allows advanced dimming, color adjustments and other features like XDR/HDR upscaling. Note: color adjustments clip HDR content when in active use.";
+
+/* No comment provided by engineer. */
+"This configures how the data associated with the currently configured display is matched to a detected display during the configuration/detection process. Changing this setting might cause a display to be recognized as previously unconnected and disassociate existing saved display configuration data. System UUID match uses the MacOS default identification. When set to use basic identifiers, the app identifies the display by its vendor/model IDs and serial number. With extended it also uses product name, alphanumeric serial number, and production date. With location the app also considers hardware connectivity data." = "This configures how the data associated with the currently configured display is matched to a detected display during the configuration/detection process. Changing this setting might cause a display to be recognized as previously unconnected and disassociate existing saved display configuration data. System UUID match uses the MacOS default identification. When set to use basic identifiers, the app identifies the display by its vendor/model IDs and serial number. With extended it also uses product name, alphanumeric serial number, and production date. With location the app also considers hardware connectivity data.";
+
+/* No comment provided by engineer. */
+"This display is the main display. Are you sure you want to turn the backlight off?" = "This display is the main display. Are you sure you want to turn the backlight off?";
+
+/* No comment provided by engineer. */
+"This display is the main display. Are you sure you want to turn the display off?\n\nPlease note that not all displays support DDC power operations and some displays may not behave as expected. If you power off your display, you will have to power it back on manually." = "This display is the main display. Are you sure you want to turn the display off?\n\nPlease note that not all displays support DDC power operations and some displays may not behave as expected. If you power off your display, you will have to power it back on manually.";
+
+/* No comment provided by engineer. */
+"This functionality needs Screen Recording permissions. You need to add the app to the list under System Settings > Privacy & Security > Screen Recording! After this, you will need to quit and reopen the app. \n\nPlease try again once the permissions are granted!" = "This functionality needs Screen Recording permissions. You need to add the app to the list under System Settings > Privacy & Security > Screen Recording! After this, you will need to quit and reopen the app. \n\nPlease try again once the permissions are granted!";
+
+/* No comment provided by engineer. */
+"This is required for color adjustments, combined dimming and XDR/HDR upscaling features. Recommended to leave enabled. Turn this off for compatibility with some third party apps that also alter system colors." = "This is required for color adjustments, combined dimming and XDR/HDR upscaling features. Recommended to leave enabled. Turn this off for compatibility with some third party apps that also alter system colors.";
+
+/* No comment provided by engineer. */
+"This is the recommended setting." = "This is the recommended setting.";
+
+/* No comment provided by engineer. */
+"This menu item is redundant if the header is set to present the function as a switch." = "This menu item is redundant if the header is set to present the function as a switch.";
+
+/* No comment provided by engineer. */
+"This might help solve issues with certain configurations." = "This might help solve issues with certain configurations.";
+
+/* No comment provided by engineer. */
+"This name is used by macOS system-wide." = "This name is used by macOS system-wide.";
+
+/* No comment provided by engineer. */
+"This operation will disconnect and reconnect all currently connected virtual screens!" = "This operation will disconnect and reconnect all currently connected virtual screens!";
+
+/* No comment provided by engineer. */
+"This provides a cleaner look when the slider is not in active use." = "This provides a cleaner look when the slider is not in active use.";
+
+/* No comment provided by engineer. */
+"This resolution is used as default (as HiDPI if available) when the display is included in a new layout." = "This resolution is used as default (as HiDPI if available) when the display is included in a new layout.";
+
+/* No comment provided by engineer. */
+"This restores the default settings and restarts the app.\n\nPlease note that previously stored custom display configurations won't be removed from the system!" = "This restores the default settings and restarts the app.\n\nPlease note that previously stored custom display configurations won't be removed from the system!";
+
+/* No comment provided by engineer. */
+"This setting applies to screens/displays that are scalable (virtual screens, real displays with native smooth scaling enabled). Default resolution is 100%." = "This setting applies to screens/displays that are scalable (virtual screens, real displays with native smooth scaling enabled). Default resolution is 100%.";
+
+/* No comment provided by engineer. */
+"This should match the physical resolution of the display panel (actual number of pixels vertically and horizontally)." = "This should match the physical resolution of the display panel (actual number of pixels vertically and horizontally).";
+
+/* No comment provided by engineer. */
+"This should remove displays from the display layout and make compatible systems enter standby mode.\n\nSome displays are not compatible with this feature and may not turn off or remain turned off.\n\nIf you can't turn the display back on using the app, try reconnecting the display manually (or in case of the MacBook display, close and open the lid)." = "This should remove displays from the display layout and make compatible systems enter standby mode.\n\nSome displays are not compatible with this feature and may not turn off or remain turned off.\n\nIf you can't turn the display back on using the app, try reconnecting the display manually (or in case of the MacBook display, close and open the lid).";
+
+/* No comment provided by engineer. */
+"This should remove the display from the display layout and make the display enter standby mode.\n\nSome displays are not compatible with this feature and may not turn off or remain off.\n\nIf you can't turn the display back on using the app, try reconnecting the display manually (or in case of the MacBook display, close and open the lid)." = "This should remove the display from the display layout and make the display enter standby mode.\n\nSome displays are not compatible with this feature and may not turn off or remain off.\n\nIf you can't turn the display back on using the app, try reconnecting the display manually (or in case of the MacBook display, close and open the lid).";
+
+/* No comment provided by engineer. */
+"This should remove the display from the display layout.\n\nPlease note that on Intel Macs (such as this Mac) the feature might not work as expected!\n\nIMPORTANT: While the display is in a disconnected state (via the app), physically turning the display off, removing the cable or (for a built-in display) closing the lid may result in an inability to turn any displays back on (until a reboot)!" = "This should remove the display from the display layout.\n\nPlease note that on Intel Macs (such as this Mac) the feature might not work as expected!\n\nIMPORTANT: While the display is in a disconnected state (via the app), physically turning the display off, removing the cable or (for a built-in display) closing the lid may result in an inability to turn any displays back on (until a reboot)!";
+
+/* No comment provided by engineer. */
+"This shows options for the current resolution. See Display Modes menu for the full list." = "This shows options for the current resolution. See Display Modes menu for the full list.";
+
+/* No comment provided by engineer. */
+"This virtual screen cannot be manually connected!" = "This virtual screen cannot be manually connected!";
+
+/* No comment provided by engineer. */
+"This virtual screen cannot be manually disconnected!" = "This virtual screen cannot be manually disconnected!";
+
+/* No comment provided by engineer. */
+"This virtual screen needs to be reconnected for all configuration changes to take place! During this operation the display will not be available for a moment!\n\nYou can dismiss this notification - in this case the changes will be applied when the virtual screen is connected next time." = "This virtual screen needs to be reconnected for all configuration changes to take place! During this operation the display will not be available for a moment!\n\nYou can dismiss this notification - in this case the changes will be applied when the virtual screen is connected next time.";
+
+/* No comment provided by engineer. */
+"This virtual screen should now be connected" = "This virtual screen should now be connected";
+
+/* No comment provided by engineer. */
+"times" = "times";
+
+/* No comment provided by engineer. */
+"Title bar & Window Controls" = "Title bar & Window Controls";
+
+/* No comment provided by engineer. */
+"To make your Apple keyboard's brightness and volume keys control your external display, please add the app to **System Settings > Privacy & Security > Accessibility**! After this, you'll have to restart the app. Alternatively, you can disable native keyboard control in Settings." = "To make your Apple keyboard's brightness and volume keys control your external display, please add the app to **System Settings > Privacy & Security > Accessibility**! After this, you'll have to restart the app. Alternatively, you can disable native keyboard control in Settings.";
+
+/* No comment provided by engineer. */
+"To use the app, use the menu bar icon in the macOS menu bar!\n\nIf the menu bar icon is not visible (obstructed), you can rearrange the menu bar layout or increase resolution to allow for more space in the menu bar." = "To use the app, use the menu bar icon in the macOS menu bar!\n\nIf the menu bar icon is not visible (obstructed), you can rearrange the menu bar layout or increase resolution to allow for more space in the menu bar.";
+
+/* No comment provided by engineer. */
+"To use the app, use the menu bar icon in the macOS menu bar!\n\nThe menu bar icon was hidden but it is now set to visible. You can hide it again in Settings." = "To use the app, use the menu bar icon in the macOS menu bar!\n\nThe menu bar icon was hidden but it is now set to visible. You can hide it again in Settings.";
+
+/* No comment provided by engineer. */
+"Tools" = "Tools";
+
+/* No comment provided by engineer. */
+"Transport" = "Transport";
+
+/* No comment provided by engineer. */
+"Treat as generic third-party (non-Apple) display" = "Treat as generic third-party (non-Apple) display";
+
+/* No comment provided by engineer. */
+"Treat shortcuts as rotation toggles" = "Treat shortcuts as rotation toggles";
+
+/* No comment provided by engineer. */
+"Treat this display (identified as Apple-made) as generic and allow DDC control to be enabled. Might cause permanent issues on some older Apple displays!" = "Treat this display (identified as Apple-made) as generic and allow DDC control to be enabled. Might cause permanent issues on some older Apple displays!";
+
+/* No comment provided by engineer. */
+"True Tone turned off by HDR toggle" = "True Tone turned off by HDR toggle";
+
+/* No comment provided by engineer. */
+"Try the latest features by enrolling as a pre-release tester. If you are already running a pre-release version, you'll receive pre-release updates until the next stable release even if this option is disabled." = "Try the latest features by enrolling as a pre-release tester. If you are already running a pre-release version, you'll receive pre-release updates until the next stable release even if this option is disabled.";
+
+/* No comment provided by engineer. */
+"Turn Display Backlight Off" = "Turn Display Backlight Off";
+
+/* No comment provided by engineer. */
+"Turn Display Backlight Off?" = "Turn Display Backlight Off?";
+
+/* No comment provided by engineer. */
+"Turn Display Backlight On" = "Turn Display Backlight On";
+
+/* No comment provided by engineer. */
+"Turn Display Off" = "Turn Display Off";
+
+/* No comment provided by engineer. */
+"Turn off (non-main) display backlight on screen saver or lock" = "Turn off (non-main) display backlight on screen saver or lock";
+
+/* No comment provided by engineer. */
+"Turn off display backlight when combined brightness is set to zero" = "Turn off display backlight when combined brightness is set to zero";
+
+/* No comment provided by engineer. */
+"Turn off Night Shift and True Tone in HDR mode" = "Turn off Night Shift and True Tone in HDR mode";
+
+/* No comment provided by engineer. */
+"Turn Off Rotation" = "Turn Off Rotation";
+
+/* No comment provided by engineer. */
+"Turning this off reduces system load for XDR displays when auto brightness is enabled but makes upscaling a less smooth experience." = "Turning this off reduces system load for XDR displays when auto brightness is enabled but makes upscaling a less smooth experience.";
+
+/* No comment provided by engineer. */
+"Unable to configure virtual display" = "Unable to configure virtual display";
+
+/* No comment provided by engineer. */
+"Unable to connect to the virtual screen to set up streaming" = "Unable to connect to the virtual screen to set up streaming";
+
+/* No comment provided by engineer. */
+"Unable to connect virtual screen" = "Unable to connect virtual screen";
+
+/* No comment provided by engineer. */
+"Unable to create virtual screen" = "Unable to create virtual screen";
+
+/* No comment provided by engineer. */
+"Unavailable" = "Unavailable";
+
+/* No comment provided by engineer. */
+"Underscan" = "Underscan";
+
+/* No comment provided by engineer. */
+"Undo" = "Undo";
+
+/* No comment provided by engineer. */
+"Unhide Stream" = "Unhide Stream";
+
+/* No comment provided by engineer. */
+"Unmute method" = "Unmute method";
+
+/* No comment provided by engineer. */
+"Unmute only (except for volume change induced unmute, when set volume as well)" = "Unmute only (except for volume change induced unmute, when set volume as well)";
+
+/* No comment provided by engineer. */
+"Unpause Picture in Picture" = "Unpause Picture in Picture";
+
+/* No comment provided by engineer. */
+"Unpause Streaming" = "Unpause Streaming";
+
+/* No comment provided by engineer. */
+"Unsafe mode" = "Unsafe mode";
+
+/* No comment provided by engineer. */
+"Updates" = "Updates";
+
+/* No comment provided by engineer. */
+"Use custom resolution list" = "Use custom resolution list";
+
+/* No comment provided by engineer. */
+"Use lighter app menu fonts and icons" = "Use lighter app menu fonts and icons";
+
+/* No comment provided by engineer. */
+"Use magnification slider instead of resolution slider" = "Use magnification slider instead of resolution slider";
+
+/* No comment provided by engineer. */
+"Use mirrored virtual screen sleep workaround" = "Use mirrored virtual screen sleep workaround";
+
+/* No comment provided by engineer. */
+"Use mute/unmute methods" = "Use mute/unmute methods";
+
+/* No comment provided by engineer. */
+"Useful for DisplayLink attached monitors using newer driver versions with color-temperature support enabled." = "Useful for DisplayLink attached monitors using newer driver versions with color-temperature support enabled.";
+
+/* No comment provided by engineer. */
+"UUID" = "UUID";
+
+/* No comment provided by engineer. */
+"Value" = "Value";
+
+/* No comment provided by engineer. */
+"Vendor and model ID" = "Vendor and model ID";
+
+/* No comment provided by engineer. */
+"Vendor ID" = "Vendor ID";
+
+/* No comment provided by engineer. */
+"Vertical" = "Vertical";
+
+/* No comment provided by engineer. */
+"Video Control Settings" = "Video Control Settings";
+
+/* No comment provided by engineer. */
+"VIRTUAL" = "VIRTUAL";
+
+/* No comment provided by engineer. */
+"Virtual screen follows display orientation" = "Virtual screen follows display orientation";
+
+/* No comment provided by engineer. */
+"Virtual screen identifiers" = "Virtual screen identifiers";
+
+/* No comment provided by engineer. */
+"Virtual Screen Management" = "Virtual Screen Management";
+
+/* No comment provided by engineer. */
+"Virtual Screen Mode" = "Virtual Screen Mode";
+
+/* No comment provided by engineer. */
+"Virtual screen name" = "Virtual screen name";
+
+/* No comment provided by engineer. */
+"Virtual Screen Resolutions" = "Virtual Screen Resolutions";
+
+/* No comment provided by engineer. */
+"Virtual screen tag ID" = "Virtual screen tag ID";
+
+/* No comment provided by engineer. */
+"Virtual Screens" = "Virtual Screens";
+
+/* No comment provided by engineer. */
+"Virtual screens associated with displays cannot be manually connected or disconnected!" = "Virtual screens associated with displays cannot be manually connected or disconnected!";
+
+/* No comment provided by engineer. */
+"Virtual screens associated with displays cannot be manually connected!" = "Virtual screens associated with displays cannot be manually connected!";
+
+/* No comment provided by engineer. */
+"Virtual screens associated with displays cannot be manually disconnected!" = "Virtual screens associated with displays cannot be manually disconnected!";
+
+/* No comment provided by engineer. */
+"Virtual screens by default work at 60Hz refresh rate but additional/different reported refresh rate modes can be created. Higher than 60Hz modes might not work in practice." = "Virtual screens by default work at 60Hz refresh rate but additional/different reported refresh rate modes can be created. Higher than 60Hz modes might not work in practice.";
+
+/* No comment provided by engineer. */
+"Virtual screens can be connected/disconnected on demand any time. Some settings appear only when the screen is connected. Changing some of the settings below require the screen to be reconnected when it is already connected." = "Virtual screens can be connected/disconnected on demand any time. Some settings appear only when the screen is connected. Changing some of the settings below require the screen to be reconnected when it is already connected.";
+
+/* No comment provided by engineer. */
+"Visible" = "Visible";
+
+/* No comment provided by engineer. */
+"Volume (DDC)" = "Volume (DDC)";
+
+/* No comment provided by engineer. */
+"Volume Control Settings" = "Volume Control Settings";
+
+/* No comment provided by engineer. */
+"Volume Control…" = "Volume Control…";
+
+/* No comment provided by engineer. */
+"Wait time between backlight state change operations" = "Wait time between backlight state change operations";
+
+/* No comment provided by engineer. */
+"Wait time for response on read" = "Wait time for response on read";
+
+/* No comment provided by engineer. */
+"Week of manufacture" = "Week of manufacture";
+
+/* No comment provided by engineer. */
+"When Expanded" = "When Expanded";
+
+/* No comment provided by engineer. */
+"When expanding a menu item, automatically hide other items under the given device / menu block. This helps keep the menu smaller." = "When expanding a menu item, automatically hide other items under the given device / menu block. This helps keep the menu smaller.";
+
+/* No comment provided by engineer. */
+"When HDR upscaling is enabled while hardware brightness control is disabled, the app uses a continuous brightness scale between zero and the calibrated max upscale value. Due to this the neutral setting (100% brightness, when on-screen HDR content is unclipped) might not fall to an OSD chiclet boundary which makes it difficult to attain via the shortcut keys. To fix this an additional mid-chiclet step at 100% brightness is inserted." = "When HDR upscaling is enabled while hardware brightness control is disabled, the app uses a continuous brightness scale between zero and the calibrated max upscale value. Due to this the neutral setting (100% brightness, when on-screen HDR content is unclipped) might not fall to an OSD chiclet boundary which makes it difficult to attain via the shortcut keys. To fix this an additional mid-chiclet step at 100% brightness is inserted.";
+
+/* No comment provided by engineer. */
+"When volume reaches 0%…" = "When volume reaches 0%…";
+
+/* No comment provided by engineer. */
+"Width" = "Width";
+
+/* No comment provided by engineer. */
+"Window Controls" = "Window Controls";
+
+/* No comment provided by engineer. */
+"Window Shadow" = "Window Shadow";
+
+/* No comment provided by engineer. */
+"Works with combined brightness and DDC hardware control. Most displays do not support turning the backlight off or back on via DDC." = "Works with combined brightness and DDC hardware control. Most displays do not support turning the backlight off or back on via DDC.";
+
+/* No comment provided by engineer. */
+"Would you like to connect all displays before turning off connection management?" = "Would you like to connect all displays before turning off connection management?";
+
+/* No comment provided by engineer. */
+"Write last used values to display" = "Write last used values to display";
+
+/* No comment provided by engineer. */
+"x" = "x";
+
+/* No comment provided by engineer. */
+"XDR/HDR upscaling compatible" = "XDR/HDR upscaling compatible";
+
+/* No comment provided by engineer. */
+"Year %lld, week %lld" = "Year %lld, week %lld";
+
+/* No comment provided by engineer. */
+"Year of manufacture" = "Year of manufacture";
+
+/* No comment provided by engineer. */
+"Yes" = "Yes";
+
+/* No comment provided by engineer. */
+"You can also drag the app to Login Items under System Settings > General." = "You can also drag the app to Login Items under System Settings > General.";
+
+/* No comment provided by engineer. */
+"You can change DDC volume and mute control support for this display under \"DDC Features…\"." = "You can change DDC volume and mute control support for this display under \"DDC Features…\".";
+
+/* No comment provided by engineer. */
+"You can download the SF Symbols app from [developer.apple.com/sf-symbols](https://developer.apple.com/sf-symbols) to find the right SF Symbol icon string (try: `face.smiling`)." = "You can download the SF Symbols app from [developer.apple.com/sf-symbols](https://developer.apple.com/sf-symbols) to find the right SF Symbol icon string (try: `face.smiling`).";
+
+/* No comment provided by engineer. */
+"You can override the default meaning of the on/off switch under Settings/Displays." = "You can override the default meaning of the on/off switch under Settings/Displays.";
+
+/* No comment provided by engineer. */
+"You might want to hide the macOS volume OSD if the device has audio controls managed by the app. Useful for displays which has their own volume OSD that cannot be disabled." = "You might want to hide the macOS volume OSD if the device has audio controls managed by the app. Useful for displays which has their own volume OSD that cannot be disabled.";
+
