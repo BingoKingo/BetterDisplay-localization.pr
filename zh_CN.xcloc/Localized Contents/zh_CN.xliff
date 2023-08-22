@@ -23,11 +23,27 @@
       </trans-unit>
     </body>
   </file>
-  <file original="BetterDisplay/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="zh_CN">
+  <file original="BetterDisplay/en.lproj/Localizable.strings" source-language="en" target-language="zh_CN" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A5219j"/>
     </header>
     <body>
+      <trans-unit id=" - disconnected" xml:space="preserve">
+        <source> - disconnected</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id=" - disconnected (with sleep)" xml:space="preserve">
+        <source> - disconnected (with sleep)</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id=" - forced" xml:space="preserve">
+        <source> - forced</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id=" - not detected" xml:space="preserve">
+        <source> - not detected</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="%" xml:space="preserve">
         <source>%</source>
         <target>%</target>
@@ -38,11 +54,6 @@
         <target>%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="%@ %@" xml:space="preserve">
-        <source>%@ %@</source>
-        <target>%@ %@</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="%@ (%@)" xml:space="preserve">
         <source>%@ (%@)</source>
         <target>%@ (%@)</target>
@@ -51,6 +62,10 @@
       <trans-unit id="%@ - Swap Position" xml:space="preserve">
         <source>%@ - Swap Position</source>
         <target>%@ - 交换位置</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ Pro is Active" xml:space="preserve">
+        <source>%@ Pro is Active</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@%@" xml:space="preserve">
@@ -171,6 +186,10 @@
       <trans-unit id="A virtual screen which is associated with a display will disconnect automatically when the associated display is disconnected." xml:space="preserve">
         <source>A virtual screen which is associated with a display will disconnect automatically when the associated display is disconnected.</source>
         <target>与显示器关联的虚拟屏幕随关联显示器自动断开。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About" xml:space="preserve">
+        <source>About</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Above Menu, Dock, Spaces" xml:space="preserve">
@@ -408,6 +427,10 @@
         <target>字母数字序列号</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Already Have a License?" xml:space="preserve">
+        <source>Already Have a License?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Always show both low (non-HiDPI) and high (HiDPI) resolutions" xml:space="preserve">
         <source>Always show both low (non-HiDPI) and high (HiDPI) resolutions</source>
         <target>始终同时显示低（非 HiDPI ）和高（HiDPI）分辨率</target>
@@ -477,6 +500,10 @@ AliPay available in China.</source>
         <target>当虚拟屏幕被镜像时，Apple 芯片的 Mac 往往会冻结显示器而非睡眠时将其处于待机状态。此方案可试图解决这个问题。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Apple external display" xml:space="preserve">
+        <source>Apple external display</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Application" xml:space="preserve">
         <source>Application</source>
         <target>应用程序</target>
@@ -520,6 +547,26 @@ AliPay available in China.</source>
       <trans-unit id="Apply Filter" xml:space="preserve">
         <source>Apply Filter</source>
         <target>应用过滤器</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Apply resolution favorite 1" xml:space="preserve">
+        <source>Apply resolution favorite 1</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Apply resolution favorite 2" xml:space="preserve">
+        <source>Apply resolution favorite 2</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Apply resolution favorite 3" xml:space="preserve">
+        <source>Apply resolution favorite 3</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Apply resolution favorite 4" xml:space="preserve">
+        <source>Apply resolution favorite 4</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Apply resolution favorite 5" xml:space="preserve">
+        <source>Apply resolution favorite 5</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Are sure you want to reset (forget) all settings related to this display? Reset does not affect system configuration settings like smooth scaling, custom resolutions." xml:space="preserve">
@@ -757,6 +804,22 @@ AliPay available in China.</source>
         <target>使用原生亮度键进行亮度控制</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Build" xml:space="preserve">
+        <source>Build</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Built-in Display" xml:space="preserve">
+        <source>Built-in Display</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Built-in display" xml:space="preserve">
+        <source>Built-in display</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Buy %@ Pro" xml:space="preserve">
+        <source>Buy %@ Pro</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="By default the app orders displays alphabetically in the app menu by their (displayed) name. By providing an ordering string, you can redefine the data which serves as the basis of the ordering." xml:space="preserve">
         <source>By default the app orders displays alphabetically in the app menu by their (displayed) name. By providing an ordering string, you can redefine the data which serves as the basis of the ordering.</source>
         <target>默认情况下，应用程序会按（显示）名称的字母顺序在应用程序菜单中排序。通过提供排序字符串，您可重新定义作为排序基础的数据。</target>
@@ -782,9 +845,12 @@ AliPay available in China.</source>
         <target>CGDirectDisplayID</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Calibrate %@" xml:space="preserve">
-        <source>Calibrate %@</source>
-        <target>校准 %@</target>
+      <trans-unit id="Calibrate (Requires Enabled HDR)…" xml:space="preserve">
+        <source>Calibrate (Requires Enabled HDR)…</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Calibrate HDR Upscaling…" xml:space="preserve">
+        <source>Calibrate HDR Upscaling…</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
@@ -845,6 +911,14 @@ AliPay available in China.</source>
       <trans-unit id="Color table alteration capable" xml:space="preserve">
         <source>Color table alteration capable</source>
         <target>可修改色表</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Color temperature cooler" xml:space="preserve">
+        <source>Color temperature cooler</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Color temperature warmer" xml:space="preserve">
+        <source>Color temperature warmer</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Combine hardware brightness control (if available), software dimming and XDR/HDR upscaling into one unified brightness control." xml:space="preserve">
@@ -940,6 +1014,14 @@ AliPay available in China.</source>
       <trans-unit id="Connect Virtual Screen" xml:space="preserve">
         <source>Connect Virtual Screen</source>
         <target>连接虚拟屏幕</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Connect all disassociated virtual screens" xml:space="preserve">
+        <source>Connect all disassociated virtual screens</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Connect all displays" xml:space="preserve">
+        <source>Connect all displays</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Connect this virtual screen" xml:space="preserve">
@@ -1040,6 +1122,38 @@ AliPay available in China.</source>
       <trans-unit id="Creating a virtual screen" xml:space="preserve">
         <source>Creating a virtual screen</source>
         <target>创建一个虚拟屏幕</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Crop area height - decrease" xml:space="preserve">
+        <source>Crop area height - decrease</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Crop area height - increase" xml:space="preserve">
+        <source>Crop area height - increase</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Crop area width - decrease" xml:space="preserve">
+        <source>Crop area width - decrease</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Crop area width - increase" xml:space="preserve">
+        <source>Crop area width - increase</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Crop origin X - decrease" xml:space="preserve">
+        <source>Crop origin X - decrease</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Crop origin X - increase" xml:space="preserve">
+        <source>Crop origin X - increase</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Crop origin Y - decrease" xml:space="preserve">
+        <source>Crop origin Y - decrease</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Crop origin Y - increase" xml:space="preserve">
+        <source>Crop origin Y - increase</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Current" xml:space="preserve">
@@ -1317,6 +1431,50 @@ AliPay available in China.</source>
         <target>取消激活</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Deactivate License" xml:space="preserve">
+        <source>Deactivate License</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Decrease Apple Keyboard brightness" xml:space="preserve">
+        <source>Decrease Apple Keyboard brightness</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Decrease Night Shift effect" xml:space="preserve">
+        <source>Decrease Night Shift effect</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Decrease brightness" xml:space="preserve">
+        <source>Decrease brightness</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Decrease brightness - fine scale" xml:space="preserve">
+        <source>Decrease brightness - fine scale</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Decrease contrast" xml:space="preserve">
+        <source>Decrease contrast</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Decrease contrast - fine scale" xml:space="preserve">
+        <source>Decrease contrast - fine scale</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Decrease gamma" xml:space="preserve">
+        <source>Decrease gamma</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Decrease resolution or magnification" xml:space="preserve">
+        <source>Decrease resolution or magnification</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Decrease volume (DDC)" xml:space="preserve">
+        <source>Decrease volume (DDC)</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Decrease volume (DDC) - fine scale" xml:space="preserve">
+        <source>Decrease volume (DDC) - fine scale</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Default" xml:space="preserve">
         <source>Default</source>
         <target>默认</target>
@@ -1497,6 +1655,14 @@ AliPay available in China.</source>
         <target>断开虚拟屏幕</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Disconnect all disassociated virtual screens" xml:space="preserve">
+        <source>Disconnect all disassociated virtual screens</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Disconnect all displays except main" xml:space="preserve">
+        <source>Disconnect all displays except main</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Disconnect and reconnect" xml:space="preserve">
         <source>Disconnect and reconnect</source>
         <target>断开并重连</target>
@@ -1507,9 +1673,17 @@ AliPay available in China.</source>
         <target>当连接外部显示器时断开内建显示屏</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Disconnect display" xml:space="preserve">
+        <source>Disconnect display</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Disconnect reconnected displays upon wake" xml:space="preserve">
         <source>Disconnect reconnected displays upon wake</source>
         <target>唤醒时断开重新连接的显示器</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Disconnect virtual screen (if not associated)" xml:space="preserve">
+        <source>Disconnect virtual screen (if not associated)</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Disconnect virtual screens upon lock or screen saver and connect when returning to the desktop" xml:space="preserve">
@@ -1557,6 +1731,10 @@ AliPay available in China.</source>
         <target>显示器属性</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Display Connect" xml:space="preserve">
+        <source>Display Connect</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Display Connection" xml:space="preserve">
         <source>Display Connection</source>
         <target>显示器连接</target>
@@ -1565,6 +1743,10 @@ AliPay available in China.</source>
       <trans-unit id="Display Connections" xml:space="preserve">
         <source>Display Connections</source>
         <target>多显示器连接</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Display Disconnect" xml:space="preserve">
+        <source>Display Disconnect</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Display EDID" xml:space="preserve">
@@ -1831,11 +2013,6 @@ The process does not work for the built-in display (reboot needed). The operatio
         <target>已编辑系统显示名称</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Enable %@ brightness upscaling" xml:space="preserve">
-        <source>Enable %@ brightness upscaling</source>
-        <target>启用 %@ 亮度提升</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Enable All Protections" xml:space="preserve">
         <source>Enable All Protections</source>
         <target>启用所有保护</target>
@@ -1866,6 +2043,10 @@ The process does not work for the built-in display (reboot needed). The operatio
         <target>启用 HDR 模式</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Enable HDR brightness upscaling" xml:space="preserve">
+        <source>Enable HDR brightness upscaling</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Enable HiDPI resolutions" xml:space="preserve">
         <source>Enable HiDPI resolutions</source>
         <target>启用 HiDPI 分辨率</target>
@@ -1879,6 +2060,10 @@ The process does not work for the built-in display (reboot needed). The operatio
       <trans-unit id="Enable True Tone" xml:space="preserve">
         <source>Enable True Tone</source>
         <target>启用原彩显示</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enable XDR brightness upscaling" xml:space="preserve">
+        <source>Enable XDR brightness upscaling</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Enable color adjustments" xml:space="preserve">
@@ -2096,6 +2281,14 @@ The process does not work for the built-in display (reboot needed). The operatio
         <target>绿色增益 (DDC)</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="HDR Off" xml:space="preserve">
+        <source>HDR Off</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="HDR On" xml:space="preserve">
+        <source>HDR On</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="HDR Status%@" xml:space="preserve">
         <source>HDR Status%@</source>
         <target>HDR状态 %@</target>
@@ -2146,6 +2339,10 @@ The process does not work for the built-in display (reboot needed). The operatio
         <target>隐藏串流</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Hide all full screen streams" xml:space="preserve">
+        <source>Hide all full screen streams</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Hide other unexpanded menu items" xml:space="preserve">
         <source>Hide other unexpanded menu items</source>
         <target>隐藏其他未展开的菜单项</target>
@@ -2161,9 +2358,16 @@ The process does not work for the built-in display (reboot needed). The operatio
         <target>应用程序启动时按住 ⇧ Shift 可进入安全模式来防止写入已存储的值。启用组合控制后即使未选中此项，也会重新应用 DDC 亮度。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Hold ⇧ Shift for multi-select.%@" xml:space="preserve">
-        <source>Hold ⇧ Shift for multi-select.%@</source>
-        <target>按住 ⇧ Shift 进行多选。%@</target>
+      <trans-unit id="Hold ⇧ Shift for multi-select. Sub-720p modes are hidden." xml:space="preserve">
+        <source>Hold ⇧ Shift for multi-select. Sub-720p modes are hidden.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hold ⇧ Shift for multi-select. Unsafe and sub-720p modes are hidden." xml:space="preserve">
+        <source>Hold ⇧ Shift for multi-select. Unsafe and sub-720p modes are hidden.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hold ⇧ Shift for multi-select. Unsafe modes are hidden." xml:space="preserve">
+        <source>Hold ⇧ Shift for multi-select. Unsafe modes are hidden.</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Horizontal" xml:space="preserve">
@@ -2245,9 +2449,48 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target>在分离状态下应用程序菜单作为顶层窗口浮在桌面上。您可指定透视菜单的透明度值（透明度越高，数值越低）。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Increase display brightness beyond 100%%. Requires an Apple XDR display or a HDR capable external display in HDR mode.%@" xml:space="preserve">
-        <source>Increase display brightness beyond 100%%. Requires an Apple XDR display or a HDR capable external display in HDR mode.%@</source>
-        <target>将显示器亮度提高到100%以上。需开启 Apple XDR 显示器或支持 HDR 的外部显示器的 HDR 模式。%@</target>
+      <trans-unit id="Increase Apple Keyboard brightness" xml:space="preserve">
+        <source>Increase Apple Keyboard brightness</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Increase Night Shift effect" xml:space="preserve">
+        <source>Increase Night Shift effect</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Increase brightness" xml:space="preserve">
+        <source>Increase brightness</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Increase brightness - fine scale" xml:space="preserve">
+        <source>Increase brightness - fine scale</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Increase contrast" xml:space="preserve">
+        <source>Increase contrast</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Increase contrast - fine scale" xml:space="preserve">
+        <source>Increase contrast - fine scale</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Increase display brightness beyond 100%. Requires an Apple XDR display or a HDR capable external display in HDR mode." xml:space="preserve">
+        <source>Increase display brightness beyond 100%. Requires an Apple XDR display or a HDR capable external display in HDR mode.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Increase gamma" xml:space="preserve">
+        <source>Increase gamma</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Increase resolution or magnification" xml:space="preserve">
+        <source>Increase resolution or magnification</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Increase volume (DDC)" xml:space="preserve">
+        <source>Increase volume (DDC)</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Increase volume (DDC) - fine scale" xml:space="preserve">
+        <source>Increase volume (DDC) - fine scale</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Input Sources…" xml:space="preserve">
@@ -2303,6 +2546,10 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Keep Above Other Windows" xml:space="preserve">
         <source>Keep Above Other Windows</source>
         <target>置顶于其他窗口之上</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Keyboard" xml:space="preserve">
+        <source>Keyboard</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Keyboard Shortcuts…" xml:space="preserve">
@@ -2378,6 +2625,10 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Licensing &amp; Pro Features" xml:space="preserve">
         <source>Licensing &amp; Pro Features</source>
         <target>许可和专业功能</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Licensing &amp; Pro Features Disabled" xml:space="preserve">
+        <source>Licensing &amp; Pro Features Disabled</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Licensing Disabled" xml:space="preserve">
@@ -2470,6 +2721,10 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target>为音量键设置默认的精细度</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Manage License" xml:space="preserve">
+        <source>Manage License</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Manage Virtual Screen" xml:space="preserve">
         <source>Manage Virtual Screen</source>
         <target>管理虚拟屏幕</target>
@@ -2543,6 +2798,10 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Max Width" xml:space="preserve">
         <source>Max Width</source>
         <target>最大宽度</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Menu" xml:space="preserve">
+        <source>Menu</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Menu Appearance &amp; Behavior" xml:space="preserve">
@@ -2675,6 +2934,10 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target>乘数</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Mute (DDC)" xml:space="preserve">
+        <source>Mute (DDC)</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Mute method" xml:space="preserve">
         <source>Mute method</source>
         <target>静音方式</target>
@@ -2770,6 +3033,14 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target>无已添加收藏</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="No screen rotation" xml:space="preserve">
+        <source>No screen rotation</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Non-natively connected display" xml:space="preserve">
+        <source>Non-natively connected display</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Normal Window Priority" xml:space="preserve">
         <source>Normal Window Priority</source>
         <target>正常窗口优先级</target>
@@ -2830,6 +3101,10 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target>操作系统接管（推荐）</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Obsolete Apple external display" xml:space="preserve">
+        <source>Obsolete Apple external display</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="On startup &amp; wake" xml:space="preserve">
         <source>On startup &amp; wake</source>
         <target>启动与唤醒时</target>
@@ -2843,6 +3118,10 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Only resolutions that match native aspect ratio" xml:space="preserve">
         <source>Only resolutions that match native aspect ratio</source>
         <target>仅限匹配原生宽高比的分辨率</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Overview" xml:space="preserve">
+        <source>Overview</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Page %lld" xml:space="preserve">
@@ -2883,6 +3162,10 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Pause Streaming" xml:space="preserve">
         <source>Pause Streaming</source>
         <target>暂停串流</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pause all streams (affects PIP as well)" xml:space="preserve">
+        <source>Pause all streams (affects PIP as well)</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Percentage shows the size of the GUI elements compared to size with resolution size (Windows, Linux style). Native resolution is 100%. Affects resolution keyboard shortcut as well." xml:space="preserve">
@@ -2940,6 +3223,10 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target>关闭主显示屏</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Pre-Release" xml:space="preserve">
+        <source>Pre-Release</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Pre-configured settings (recommended)" xml:space="preserve">
         <source>Pre-configured settings (recommended)</source>
         <target>预配置设置（推荐）</target>
@@ -2968,6 +3255,10 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Pro" xml:space="preserve">
         <source>Pro</source>
         <target>专业版</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pro is Inactive" xml:space="preserve">
+        <source>Pro is Inactive</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ProMotion" xml:space="preserve">
@@ -3003,6 +3294,10 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Quit" xml:space="preserve">
         <source>Quit</source>
         <target>退出</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Quit the app" xml:space="preserve">
+        <source>Quit the app</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Rate" xml:space="preserve">
@@ -3053,6 +3348,14 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Reconnect all disconnected displays that are detected on startup. Helps if a display is strandled disconnected in case of an app crash of forced quit." xml:space="preserve">
         <source>Reconnect all disconnected displays that are detected on startup. Helps if a display is strandled disconnected in case of an app crash of forced quit.</source>
         <target>重新连接在启动时识别的所有已断开显示器。恢复在应用程序崩溃或强制退出时断开的显示器。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reconnect connected virtual screens" xml:space="preserve">
+        <source>Reconnect connected virtual screens</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reconnect virtual screen" xml:space="preserve">
+        <source>Reconnect virtual screen</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Reconnect virtual screens after wake" xml:space="preserve">
@@ -3190,6 +3493,10 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target>将色彩重置为中间值以适应具有 HDR 功能的屏幕</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Reset software adjustments" xml:space="preserve">
+        <source>Reset software adjustments</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Reset stored DDC values as well?" xml:space="preserve">
         <source>Reset stored DDC values as well?</source>
         <target>是否也重置已存储的 DDC 值？</target>
@@ -3260,6 +3567,10 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target>重启 BetterDisplay</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Restart the app" xml:space="preserve">
+        <source>Restart the app</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Restore combined brightness and software adjustments" xml:space="preserve">
         <source>Restore combined brightness and software adjustments</source>
         <target>恢复组合亮度和软件调整</target>
@@ -3285,6 +3596,10 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target>仅恢复非亮度调整</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Retrieve EDID" xml:space="preserve">
+        <source>Retrieve EDID</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Retrieve EDID Data" xml:space="preserve">
         <source>Retrieve EDID Data</source>
         <target>检索 EDID 数据</target>
@@ -3295,9 +3610,8 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target>检索 EDID...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Retrieve%@ EDID" xml:space="preserve">
-        <source>Retrieve%@ EDID</source>
-        <target>检索%@ EDID</target>
+      <trans-unit id="Retrieve and override EDID" xml:space="preserve">
+        <source>Retrieve and override EDID</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Retrieved EDID Data" xml:space="preserve">
@@ -3328,6 +3642,18 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Rotate Screen by 270°" xml:space="preserve">
         <source>Rotate Screen by 270°</source>
         <target>270° 旋转屏幕</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rotate screen by 90°" xml:space="preserve">
+        <source>Rotate screen by 90°</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rotate screen by 180°" xml:space="preserve">
+        <source>Rotate screen by 180°</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rotate screen by 270°" xml:space="preserve">
+        <source>Rotate screen by 270°</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Rotate the display (flip width and height). %@" xml:space="preserve">
@@ -3388,6 +3714,10 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Screen Recording Permission" xml:space="preserve">
         <source>Screen Recording Permission</source>
         <target>屏幕录制权限</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Screen Rotation" xml:space="preserve">
+        <source>Screen Rotation</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Screen Rotation%@" xml:space="preserve">
@@ -3468,6 +3798,22 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Set audio volume to lowest setting only" xml:space="preserve">
         <source>Set audio volume to lowest setting only</source>
         <target>仅将音频音量设为最低</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Set default resolution" xml:space="preserve">
+        <source>Set default resolution</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Set display as main screen" xml:space="preserve">
+        <source>Set display as main screen</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Set native halved HiDPI resolution (if available)" xml:space="preserve">
+        <source>Set native halved HiDPI resolution (if available)</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Set native resolution" xml:space="preserve">
+        <source>Set native resolution</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Set the brightness slider as high as possible! Also make sure you still barely see the smiling face! If you don't see the smiling face when the slider is set to the lowest setting, you need to adjust your display's hardware controls (contrast, gamma) first to fix the white saturation problem." xml:space="preserve">
@@ -3695,6 +4041,26 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target>开启画中画</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Start/Stop PIP window" xml:space="preserve">
+        <source>Start/Stop PIP window</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Status: Licensing Disabled (Settings &gt; Application &gt; Advanced)" xml:space="preserve">
+        <source>Status: Licensing Disabled (Settings &gt; Application &gt; Advanced)</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Status: Pro License Activated." xml:space="preserve">
+        <source>Status: Pro License Activated.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Status: Unlicensed, Trial Active%@." xml:space="preserve">
+        <source>Status: Unlicensed, Trial Active%@.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Status: Unlicensed, Trial Expired." xml:space="preserve">
+        <source>Status: Unlicensed, Trial Expired.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Stop Mirroring" xml:space="preserve">
         <source>Stop Mirroring</source>
         <target>停止镜像</target>
@@ -3708,6 +4074,10 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Stop Streaming" xml:space="preserve">
         <source>Stop Streaming</source>
         <target>停止串流</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Stop all full screen streams" xml:space="preserve">
+        <source>Stop all full screen streams</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Stream Display" xml:space="preserve">
@@ -3735,6 +4105,10 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target>串流到</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Supported" xml:space="preserve">
+        <source>Supported</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Supported by the display" xml:space="preserve">
         <source>Supported by the display</source>
         <target>由此显示器支持</target>
@@ -3753,6 +4127,10 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Supports variable refresh rate" xml:space="preserve">
         <source>Supports variable refresh rate</source>
         <target>支持可变刷新率</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Swap identical displays" xml:space="preserve">
+        <source>Swap identical displays</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Switch to native mode for full screen stream target" xml:space="preserve">
@@ -3959,6 +4337,10 @@ In case of a failure, disconnect and reconnect the display physically.</source>
         <target>这三个标识符（序列号、供应商和型号ID）是 macOS 中显示标识的基础。如果这三个标识符中的任何一个发生变化，系统将为虚拟屏幕分配一个新标识 (UUID)，并视为新连接的显示器。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Third-party external display" xml:space="preserve">
+        <source>Third-party external display</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="This allows advanced dimming, color adjustments and other features like XDR/HDR upscaling. Note: color adjustments clip HDR content when in active use." xml:space="preserve">
         <source>This allows advanced dimming, color adjustments and other features like XDR/HDR upscaling. Note: color adjustments clip HDR content when in active use.</source>
         <target>这允许实现高级调光、色彩调整和其他功能，如 XDR/HDR 提升。注意：色彩调整在使用时会影响 HDR 内容。</target>
@@ -4147,6 +4529,34 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
 菜单栏图标是隐藏的，但现已设为可见。您可在设置中再次隐藏它。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Toggle Dark Mode" xml:space="preserve">
+        <source>Toggle Dark Mode</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Toggle HDR for display" xml:space="preserve">
+        <source>Toggle HDR for display</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Toggle HiDPI resolution for display" xml:space="preserve">
+        <source>Toggle HiDPI resolution for display</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Toggle Night Shift" xml:space="preserve">
+        <source>Toggle Night Shift</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Toggle True Tone" xml:space="preserve">
+        <source>Toggle True Tone</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Toggle cropping" xml:space="preserve">
+        <source>Toggle cropping</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Toggles" xml:space="preserve">
+        <source>Toggles</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Tools" xml:space="preserve">
         <source>Tools</source>
         <target>工具</target>
@@ -4207,6 +4617,18 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
         <target>关闭旋转</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Turn backlight off" xml:space="preserve">
+        <source>Turn backlight off</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Turn backlight on" xml:space="preserve">
+        <source>Turn backlight on</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Turn display off" xml:space="preserve">
+        <source>Turn display off</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Turn off (non-main) display backlight on screen saver or lock" xml:space="preserve">
         <source>Turn off (non-main) display backlight on screen saver or lock</source>
         <target>在开启屏幕保护程序或锁定屏幕时关闭（非主）显示器背光</target>
@@ -4225,6 +4647,26 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
       <trans-unit id="Turning this off reduces system load for XDR displays when auto brightness is enabled but makes upscaling a less smooth experience." xml:space="preserve">
         <source>Turning this off reduces system load for XDR displays when auto brightness is enabled but makes upscaling a less smooth experience.</source>
         <target>在启用自动亮度时关闭此功能可减少 XDR 显示器的系统负载，但会降低提升的流畅度。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Typical optimal values for contrast are 50%, 70%, 75%, 100%. Make sure you select a value that does not create an issue with white saturation!" xml:space="preserve">
+        <source>Typical optimal values for contrast are 50%, 70%, 75%, 100%. Make sure you select a value that does not create an issue with white saturation!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Typical setting is 100% but some displays prefer 50%." xml:space="preserve">
+        <source>Typical setting is 100% but some displays prefer 50%.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Typical value is 100%." xml:space="preserve">
+        <source>Typical value is 100%.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Typical values include: 100, 200 or 255 (note: 255 works for most old DDC compatible Apple Cinema / LED displays and helps avoid permanent dimming issue)." xml:space="preserve">
+        <source>Typical values include: 100, 200 or 255 (note: 255 works for most old DDC compatible Apple Cinema / LED displays and helps avoid permanent dimming issue).</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Typical values include: 100, 200 or 255." xml:space="preserve">
+        <source>Typical values include: 100, 200 or 255.</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="UUID" xml:space="preserve">
@@ -4267,6 +4709,10 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
         <target>撤销</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Undo/redo last mode change" xml:space="preserve">
+        <source>Undo/redo last mode change</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Unhide Stream" xml:space="preserve">
         <source>Unhide Stream</source>
         <target>取消隐藏串流画面</target>
@@ -4295,6 +4741,10 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
       <trans-unit id="Unsafe mode" xml:space="preserve">
         <source>Unsafe mode</source>
         <target>不安全模式</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unsupported" xml:space="preserve">
+        <source>Unsupported</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Updates" xml:space="preserve">
@@ -4352,6 +4802,10 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
         <target>供应商和型号 ID</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Version" xml:space="preserve">
+        <source>Version</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Vertical" xml:space="preserve">
         <source>Vertical</source>
         <target>垂直</target>
@@ -4360,6 +4814,18 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
       <trans-unit id="Video Control Settings" xml:space="preserve">
         <source>Video Control Settings</source>
         <target>视频控制设置</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Virtual" xml:space="preserve">
+        <source>Virtual</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Virtual Screen Connect" xml:space="preserve">
+        <source>Virtual Screen Connect</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Virtual Screen Disconnect" xml:space="preserve">
+        <source>Virtual Screen Disconnect</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Virtual Screen Management" xml:space="preserve">
@@ -4380,6 +4846,10 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
       <trans-unit id="Virtual Screens" xml:space="preserve">
         <source>Virtual Screens</source>
         <target>虚拟屏幕</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Virtual screen" xml:space="preserve">
+        <source>Virtual screen</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Virtual screen follows display orientation" xml:space="preserve">
@@ -4430,6 +4900,10 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
       <trans-unit id="Visible" xml:space="preserve">
         <source>Visible</source>
         <target>可见的</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Volume" xml:space="preserve">
+        <source>Volume</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Volume (DDC)" xml:space="preserve">
