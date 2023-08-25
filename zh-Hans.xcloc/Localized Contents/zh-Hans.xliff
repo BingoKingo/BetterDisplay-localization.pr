@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="BetterDisplay/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="zh_CN">
+  <file original="BetterDisplay/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A5219j"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A5229h"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -23,9 +23,9 @@
       </trans-unit>
     </body>
   </file>
-  <file original="BetterDisplay/en.lproj/Localizable.strings" source-language="en" target-language="zh_CN" datatype="plaintext">
+  <file original="BetterDisplay/en.lproj/Localizable.strings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A5219j"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A5229h"/>
     </header>
     <body>
       <trans-unit id=" - disconnected" xml:space="preserve">
@@ -168,9 +168,8 @@
         <target>虚拟屏幕与真实显示器类似，但只存在于虚拟空间（计算机内存）。您可将虚拟屏幕内容以画中画窗口监视、串流或镜像到一个真实显示器，也可通过合适的应用程序把它当作屏幕录制或屏幕投影来源。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="A virtual screen which is associated with a display will automatically connect or disconnect when the associated display is disconnected. You can disable auto-disconnect for associated virtual screens." xml:space="preserve">
-        <source>A virtual screen which is associated with a display will automatically connect or disconnect when the associated display is disconnected. You can disable auto-disconnect for associated virtual screens.</source>
-        <target>关联显示器的虚拟屏幕将随显示器自动连接或断开。您可禁用关联的虚拟屏幕自动断开功能。</target>
+      <trans-unit id="A virtual screen which is associated with a display will automatically connect or disconnect when the associated display is connected or disconnected. You can disable auto-connect for associated virtual screens." xml:space="preserve">
+        <source>A virtual screen which is associated with a display will automatically connect or disconnect when the associated display is connected or disconnected. You can disable auto-connect for associated virtual screens.</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="A virtual screen which is associated with a display will automatically connect when the associated display is connected. All other virtual screens were connected. You can disable auto-connect for associated virtual screens." xml:space="preserve">
@@ -2926,11 +2925,6 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target>最小/最大宽度和高度可单独强制设限。设限字段须指定，其他字段可留空。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Mirror" xml:space="preserve">
-        <source>Mirror</source>
-        <target>镜像</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Mirror Display" xml:space="preserve">
         <source>Mirror Display</source>
         <target>屏幕镜像</target>
@@ -2941,14 +2935,17 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target>镜像虚拟屏幕</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Mirror of %@" xml:space="preserve">
+        <source>Mirror of %@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Mirror the contents of this display to:" xml:space="preserve">
         <source>Mirror the contents of this display to:</source>
         <target>将此显示器内容镜像到：</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Mirrored" xml:space="preserve">
-        <source>Mirrored</source>
-        <target>已镜像</target>
+      <trans-unit id="Mirrored to %@" xml:space="preserve">
+        <source>Mirrored to %@</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Mirrored to Multiple Screens" xml:space="preserve">
@@ -4297,12 +4294,9 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The SHIFT key was pressed during launch. The app started in safe mode. &#10;&#10;Virtual screens are not connected automatically, brightness and other adjustments are not restored and reverted to defaults, custom EDIDs are not automatically applied." xml:space="preserve">
-        <source>The SHIFT key was pressed during launch. The app started in safe mode.
+        <source>The SHIFT key was pressed during launch. The app started in safe mode. 
 
 Virtual screens are not connected automatically, brightness and other adjustments are not restored and reverted to defaults, custom EDIDs are not automatically applied.</source>
-        <target>应用程序启动过程中已按下 ⇧ Shift，在安全模式下启动。
-
-虚拟屏幕无法自动连接，亮度和其他调整无法恢复还原为默认值，自定义 EDID 无法自动应用。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The app automatically attempts to reconnect all displays when no connected display is present." xml:space="preserve">
@@ -4470,12 +4464,9 @@ Please note that not all displays support DDC power operations and some displays
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This functionality needs Screen Recording permissions. You need to add the app to the list under System Settings &gt; Privacy &amp; Security &gt; Screen Recording! After this, you will need to quit and reopen the app. &#10;&#10;Please try again once the permissions are granted!" xml:space="preserve">
-        <source>This functionality needs Screen Recording permissions. You need to add the app to the list under System Settings &gt; Privacy &amp; Security &gt; Screen Recording! After this, you will need to quit and reopen the app.
+        <source>This functionality needs Screen Recording permissions. You need to add the app to the list under System Settings &gt; Privacy &amp; Security &gt; Screen Recording! After this, you will need to quit and reopen the app. 
 
 Please try again once the permissions are granted!</source>
-        <target>此功能需要屏幕录制权限。您可在 "系统设置 &gt; 隐私与安全性 &gt; 屏幕录制" 下将该应用程序添加到列表！随后您需退出并重新打开应用程序。
-
-在授予权限后请再试一次！</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This is required for color adjustments, combined dimming and XDR/HDR upscaling features. Recommended to leave enabled. Turn this off for compatibility with some third party apps that also alter system colors." xml:space="preserve">
@@ -4838,6 +4829,10 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
         <target>取消隐藏串流画面</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Unknown" xml:space="preserve">
+        <source>Unknown</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Unmute method" xml:space="preserve">
         <source>Unmute method</source>
         <target>取消静音方式</target>
@@ -5188,11 +5183,6 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
         <target>显示器</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="a Screen" xml:space="preserve">
-        <source>a Screen</source>
-        <target>屏幕</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="bit" xml:space="preserve">
         <source>bit</source>
         <target>bit</target>
@@ -5290,9 +5280,9 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
       </trans-unit>
     </body>
   </file>
-  <file original="BetterDisplayHelper/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="zh_CN">
+  <file original="BetterDisplayHelper/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A5219j"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A5229h"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">

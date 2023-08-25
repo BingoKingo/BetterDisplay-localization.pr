@@ -140,13 +140,10 @@
 "A less than 720p desktop resolution is not ideal for macOS usability as GUI elements might not fit. This affects virtual screens as well as the resolution slider for displays." = "A less than 720p desktop resolution is not ideal for macOS usability as GUI elements might not fit. This affects virtual screens as well as the resolution slider for displays.";
 
 /* No comment provided by engineer. */
-"a Screen" = "a Screen";
-
-/* No comment provided by engineer. */
 "A virtual screen is similar to a real display but exists only in the virtual space (in the computer's memory). You can use it to show it in a PIP window, stream or mirror its content to a real display or use it as a source for screen recording or screencast via an appropriate app." = "A virtual screen is similar to a real display but exists only in the virtual space (in the computer's memory). You can use it to show it in a PIP window, stream or mirror its content to a real display or use it as a source for screen recording or screencast via an appropriate app.";
 
 /* No comment provided by engineer. */
-"A virtual screen which is associated with a display will automatically connect or disconnect when the associated display is disconnected. You can disable auto-disconnect for associated virtual screens." = "A virtual screen which is associated with a display will automatically connect or disconnect when the associated display is disconnected. You can disable auto-disconnect for associated virtual screens.";
+"A virtual screen which is associated with a display will automatically connect or disconnect when the associated display is connected or disconnected. You can disable auto-connect for associated virtual screens." = "A virtual screen which is associated with a display will automatically connect or disconnect when the associated display is connected or disconnected. You can disable auto-connect for associated virtual screens.";
 
 /* No comment provided by engineer. */
 "A virtual screen which is associated with a display will automatically connect when the associated display is connected. All other virtual screens were connected. You can disable auto-connect for associated virtual screens." = "A virtual screen which is associated with a display will automatically connect when the associated display is connected. All other virtual screens were connected. You can disable auto-connect for associated virtual screens.";
@@ -1802,10 +1799,10 @@
 "Min/max width and height constraints are enforced separately. Only fields you want as limiting factor must be specified, the rest may be left blank." = "Min/max width and height constraints are enforced separately. Only fields you want as limiting factor must be specified, the rest may be left blank.";
 
 /* No comment provided by engineer. */
-"Mirror" = "Mirror";
+"Mirror Display" = "Mirror Display";
 
 /* No comment provided by engineer. */
-"Mirror Display" = "Mirror Display";
+"Mirror of %@" = "Mirror of %@";
 
 /* No comment provided by engineer. */
 "Mirror the contents of this display to:" = "Mirror the contents of this display to:";
@@ -1814,7 +1811,7 @@
 "Mirror Virtual Screen" = "Mirror Virtual Screen";
 
 /* No comment provided by engineer. */
-"Mirrored" = "Mirrored";
+"Mirrored to %@" = "Mirrored to %@";
 
 /* No comment provided by engineer. */
 "Mirrored to Multiple Screens" = "Mirrored to Multiple Screens";
@@ -2904,6 +2901,9 @@
 
 /* No comment provided by engineer. */
 "Unhide Stream" = "Unhide Stream";
+
+/* No comment provided by engineer. */
+"Unknown" = "Unknown";
 
 /* No comment provided by engineer. */
 "Unmute method" = "Unmute method";

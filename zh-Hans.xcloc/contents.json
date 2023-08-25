@@ -1,9 +1,9 @@
 {
   "developmentRegion" : "en",
   "project" : "BetterDisplay.xcodeproj",
-  "targetLocale" : "zh_CN",
+  "targetLocale" : "zh-Hans",
   "toolInfo" : {
-    "toolBuildNumber" : "15A5219j",
+    "toolBuildNumber" : "15A5229h",
     "toolID" : "com.apple.dt.xcode",
     "toolName" : "Xcode",
     "toolVersion" : "15.0"
