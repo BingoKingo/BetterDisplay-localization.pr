@@ -3,4 +3,4 @@
 /* Bundle name */
 "CFBundleName" = "BetterDisplayHelper";
 /* Copyright (human-readable) */
-"NSHumanReadableCopyright" = "MIT Licensed, 2021.";
+"NSHumanReadableCopyright" = "";
