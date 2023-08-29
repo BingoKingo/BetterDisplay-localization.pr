@@ -1274,7 +1274,7 @@ AliPay available in China.</source>
       </trans-unit>
       <trans-unit id="Custom SF Symbol app icon" xml:space="preserve">
         <source>Custom SF Symbol app icon</source>
-        <target>自定义 SF Symbol 应用程序图标</target>
+        <target>自定义 SF Symbol 式应用程序图标</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Custom aspect ratio" xml:space="preserve">
@@ -1921,7 +1921,7 @@ AliPay available in China.</source>
         <source>Displays will turn blank for a while and you will not be able to interact with your Mac. The process should take about 2-4 seconds.
 
 The process does not work for the built-in display (reboot needed). The operation might cause some Macs to enter sleep mode.</source>
-        <target>显示器会暂时变成空白，您将无法与 Mac 交互。此过程大约需要2-4秒。
+        <target>显示器会暂时变成空白，您将无法与 Mac 交互。此过程约持续2-4秒。
 
 此过程不适用于内建显示屏（需要重新启动）。此操作可能导致某些 Mac 进入休眠模式。</target>
         <note>No comment provided by engineer.</note>
@@ -1993,7 +1993,7 @@ The process does not work for the built-in display (reboot needed). The operatio
       </trans-unit>
       <trans-unit id="Drag the app menu off the menu bar area (by holding the empty bottom area of the app menu) and make it persistently available." xml:space="preserve">
         <source>Drag the app menu off the menu bar area (by holding the empty bottom area of the app menu) and make it persistently available.</source>
-        <target>将应用程序菜单拖离菜单栏区域（按住应用程序菜单底部的空白区域），使其始终可用。</target>
+        <target>将应用程序菜单拖离菜单栏区域（按住应用程序菜单底部的空白区域）使其始终可用。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Draw Crop Area On Screen…" xml:space="preserve">
@@ -2792,7 +2792,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Make Tools menu collapsible instead of closable" xml:space="preserve">
         <source>Make Tools menu collapsible instead of closable</source>
-        <target>使 "工具" 菜单可折叠而非可关闭</target>
+        <target>使 工具 菜单可折叠而非可关闭</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Make fine scale default for brightness keys" xml:space="preserve">
@@ -2857,7 +2857,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Match menu icon with main display icon" xml:space="preserve">
         <source>Match menu icon with main display icon</source>
-        <target>匹配菜单图标与主显示屏图标</target>
+        <target>在菜单栏匹配主显示屏图标</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Matches default resolution" xml:space="preserve">
@@ -2902,7 +2902,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Menu header icons" xml:space="preserve">
         <source>Menu header icons</source>
-        <target>菜单栏图标</target>
+        <target>菜单标题栏图标</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Menu item icons" xml:space="preserve">
@@ -3137,7 +3137,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Normally the header is not visible when a single display is present." xml:space="preserve">
         <source>Normally the header is not visible when a single display is present.</source>
-        <target>通常仅显示单一显示器时隐藏标题。</target>
+        <target>仅存在单一显示器时常隐藏标题栏。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Not all displays support DDC power operations. DDC power operations can cause (even serious) issues with some displays!" xml:space="preserve">
@@ -3507,12 +3507,12 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Render all other app menu icons in hierarchical style (with grayscales)" xml:space="preserve">
         <source>Render all other app menu icons in hierarchical style (with grayscales)</source>
-        <target>分层样式（带灰阶）渲染所有其他应用程序菜单图标</target>
+        <target>分层式（灰阶）渲染所有其他菜单图标</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Render menu header icons in hierarchical style (with grayscales)" xml:space="preserve">
         <source>Render menu header icons in hierarchical style (with grayscales)</source>
-        <target>分层样式（带灰阶）渲染应用程序菜单栏图标</target>
+        <target>分层式（灰阶）渲染标题栏图标</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Reported diagonal size" xml:space="preserve">
@@ -3632,7 +3632,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Resolution steps by which the provided virtual screen aspect ratio width and height values are multiplied for creating resolution options. Smaller multiplier means more granular resolution scale." xml:space="preserve">
         <source>Resolution steps by which the provided virtual screen aspect ratio width and height values are multiplied for creating resolution options. Smaller multiplier means more granular resolution scale.</source>
-        <target>分辨率级数，将提供的虚拟屏幕宽高比宽度和高度值乘以该级数来创建分辨率选项。乘数越小，表示分辨率缩放粒度越细。</target>
+        <target>将提供的虚拟屏幕宽高比宽度和高度值乘以分辨率级数来创建分辨率选项。乘数越小表示分辨率缩放粒度越细。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Resolution submenu settings" xml:space="preserve">
@@ -3987,7 +3987,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Show connect/disconnect in menu even if header has it as switch" xml:space="preserve">
         <source>Show connect/disconnect in menu even if header has it as switch</source>
-        <target>即使标题已将其作为开关仍在菜单中显示连接/断开，</target>
+        <target>即使标题栏已将其作为开关仍在菜单中显示连接/断开，</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show current resolution values" xml:space="preserve">
@@ -4012,7 +4012,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Show disconnect/connect menu option for displays. Disconnecting a display puts the display into sleep mode and removes it from the display layout. Connecting it restores the display. Disconnected displays can be reconnected with the header toggle (power button), by turning the display on/off or closing and opening the lid for MacBook displays. %@" xml:space="preserve">
         <source>Show disconnect/connect menu option for displays. Disconnecting a display puts the display into sleep mode and removes it from the display layout. Connecting it restores the display. Disconnected displays can be reconnected with the header toggle (power button), by turning the display on/off or closing and opening the lid for MacBook displays. %@</source>
-        <target>显示显示器的断开/连接菜单选项。断开显示器会使其休眠并从显示布局中移除。连接后会恢复显示器。对于 MacBook 显示屏，断开的显示器可通过头部切换键（电源按钮）开关或合上再打开盖子后重连。%@</target>
+        <target>显示显示器的断开/连接菜单选项。断开显示器会使其休眠并从显示布局中移除。连接后会恢复显示器。对于 MacBook 显示屏，断开的显示器可通过标题栏切换键（电源按钮）开关或合上再打开盖子后重连。%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show display modes marked as unsafe or invalid" xml:space="preserve">
@@ -4027,7 +4027,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Show header when only one device is present" xml:space="preserve">
         <source>Show header when only one device is present</source>
-        <target>只有一个设备时显示标题</target>
+        <target>只有一个设备时显示标题栏</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show in the app menu" xml:space="preserve">
@@ -4042,7 +4042,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Show on/off (power) switch in headers" xml:space="preserve">
         <source>Show on/off (power) switch in headers</source>
-        <target>在标题显示开/关（电源）切换</target>
+        <target>在标题栏显示开/关（电源）切换</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show percentage for scalable displays" xml:space="preserve">
@@ -4336,7 +4336,7 @@ Virtual screens are not connected automatically, brightness and other adjustment
       </trans-unit>
       <trans-unit id="The app menu icon will reflect the icon of the current main display. Enable if you don't like the default icon…" xml:space="preserve">
         <source>The app menu icon will reflect the icon of the current main display. Enable if you don't like the default icon…</source>
-        <target>应用程序菜单图标将反映当前主显示屏的图标。如不喜欢默认图标请启用...</target>
+        <target>应用程序菜单栏图标将反映当前主显示屏的图标。如不喜欢默认图标请启用...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The app menu will show this name instead of the system name in the app menu for the display. If you want to change the system-wide name, you can do so by enabling the configuration override option and editing the raw display name." xml:space="preserve">
@@ -4504,7 +4504,7 @@ Please try again once the permissions are granted!</source>
       </trans-unit>
       <trans-unit id="This menu item is redundant if the header is set to present the function as a switch." xml:space="preserve">
         <source>This menu item is redundant if the header is set to present the function as a switch.</source>
-        <target>标题设置将功能显示为开关时此菜单项多余。</target>
+        <target>标题栏设置将功能显示为开关时此菜单项多余。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This might help solve issues with certain configurations." xml:space="preserve">
@@ -4899,7 +4899,7 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
       </trans-unit>
       <trans-unit id="Use lighter app menu fonts and icons" xml:space="preserve">
         <source>Use lighter app menu fonts and icons</source>
-        <target>细体应用程序菜单字体及图标</target>
+        <target>细体菜单文字及图标</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use magnification slider instead of resolution slider" xml:space="preserve">
@@ -5304,7 +5304,7 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
       </trans-unit>
     </body>
   </file>
-  <file original="BetterDisplayHelper/en.lproj/InfoPlist.strings" source-language="en" target-language="zh-Hans" datatype="plaintext">
+  <file original="BetterDisplayHelper/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="zh-Hans">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A5229h"/>
     </header>
@@ -5315,12 +5315,10 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>BetterDisplayHelper</source>
-        <target>BetterDisplayHelper</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
         <source/>
-        <target/>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
