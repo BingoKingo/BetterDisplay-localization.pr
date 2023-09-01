@@ -1,8 +1,0 @@
-/* Bundle display name */
-"CFBundleDisplayName" = "BetterDisplay";
-/* Bundle name */
-"CFBundleName" = "BetterDisplay";
-/* Privacy - Access to a File Provide Domain Usage Description */
-"NSFileProviderDomainUsageDescription" = "The app needs to modify the system configuration to save the edited display data.";
-/* Copyright (human-readable) */
-"NSHumanReadableCopyright" = "Copyright Ⓒ waydabber/KodeON";
