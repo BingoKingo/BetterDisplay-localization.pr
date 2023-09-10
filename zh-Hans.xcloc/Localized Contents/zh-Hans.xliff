@@ -33,6 +33,11 @@
         <target state="translated"/>
         <note/>
       </trans-unit>
+      <trans-unit id=" - Liquid Retina with Notch" xml:space="preserve">
+        <source> - Liquid Retina with Notch</source>
+        <target> - 刘海 Liquid 视网膜显示屏</target>
+        <note/>
+      </trans-unit>
       <trans-unit id=" - connected" xml:space="preserve">
         <source> - connected</source>
         <target state="translated"> - 已连接</target>
@@ -348,9 +353,9 @@
         <target state="translated">高级控制设置</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Advanced display settings" xml:space="preserve">
-        <source>Advanced display settings</source>
-        <target state="translated">高级显示设置</target>
+      <trans-unit id="Advanced displays settings" xml:space="preserve">
+        <source>Advanced displays settings</source>
+        <target state="translated">高级显示器设置</target>
         <note/>
       </trans-unit>
       <trans-unit id="Advanced settings &amp; privacy" xml:space="preserve">
@@ -361,6 +366,16 @@
       <trans-unit id="Advanced virtual screen settings" xml:space="preserve">
         <source>Advanced virtual screen settings</source>
         <target state="translated">高级虚拟屏幕设置</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aggressive disconnect" xml:space="preserve">
+        <source>Aggressive disconnect</source>
+        <target>主动断开</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="AirPlay Display" xml:space="preserve">
+        <source>AirPlay Display</source>
+        <target>隔空播放显示器</target>
         <note/>
       </trans-unit>
       <trans-unit id="All previously dismissed warnings will now be back." xml:space="preserve">
@@ -693,9 +708,14 @@ AliPay available in China.</source>
         <target state="translated">自动连接虚拟屏幕</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Auto-start full-screen streaming" xml:space="preserve">
-        <source>Auto-start full-screen streaming</source>
+      <trans-unit id="Auto-start full screen streaming" xml:space="preserve">
+        <source>Auto-start full screen streaming</source>
         <target state="translated">自动启动全屏串流</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Automatic (based on display type)" xml:space="preserve">
+        <source>Automatic (based on display type)</source>
+        <target>自动（基于显示器类型）</target>
         <note/>
       </trans-unit>
       <trans-unit id="Automatically apply custom EDID upon detection of this display" xml:space="preserve">
@@ -713,8 +733,13 @@ AliPay available in China.</source>
         <target state="translated">自动关闭展开的菜单项</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Automatically configure mirroring to show the virtual screen's content to the associated display. If multiple associated displays are connected, only one will be mirror target." xml:space="preserve">
-        <source>Automatically configure mirroring to show the virtual screen's content to the associated display. If multiple associated displays are connected, only one will be mirror target.</source>
+      <trans-unit id="Automatically configure mirroring to show the virtual screen's content on the associated display." xml:space="preserve">
+        <source>Automatically configure mirroring to show the virtual screen's content on the associated display.</source>
+        <target state="translated">自动配置镜像以在关联显示器显示虚拟屏幕的内容。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Automatically configure mirroring to show the virtual screen's content on the associated display. If multiple associated displays are connected, only one will be mirror target." xml:space="preserve">
+        <source>Automatically configure mirroring to show the virtual screen's content on the associated display. If multiple associated displays are connected, only one will be mirror target.</source>
         <target state="translated">自动配置镜像以在关联显示器显示虚拟屏幕的内容。连接多个关联显示器时镜像目标仅为其中一个。</target>
         <note/>
       </trans-unit>
@@ -898,6 +923,11 @@ AliPay available in China.</source>
         <target state="translated">功能性</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Changing this setting does not affect existing known displays. The display identification method can be changed on a per display basis under each display's additional settings." xml:space="preserve">
+        <source>Changing this setting does not affect existing known displays. The display identification method can be changed on a per display basis under each display's additional settings.</source>
+        <target>更改此设置不会影响现有的已知显示器。显示器识别方式可在每个显示器的 其他设置 中进行更改。</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Check For Updates" xml:space="preserve">
         <source>Check For Updates</source>
         <target state="translated">检查更新</target>
@@ -1011,6 +1041,11 @@ AliPay available in China.</source>
       <trans-unit id="Configure full screen stream to this display" xml:space="preserve">
         <source>Configure full screen stream to this display</source>
         <target state="translated">配置全屏串流到此显示器</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Configure virtual screen mirroring" xml:space="preserve">
+        <source>Configure virtual screen mirroring</source>
+        <target state="translated">配置虚拟屏幕镜像</target>
         <note/>
       </trans-unit>
       <trans-unit id="Configure virtual screen/stream rotation - useful for portrait Sidecar or for displays that do not support changing orientation. With Sidecar you can decide whether the USB-C port (lightning connector) should face up or down." xml:space="preserve">
@@ -1543,6 +1578,11 @@ AliPay available in China.</source>
         <target state="translated">默认及原生模式：</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Default display identification method" xml:space="preserve">
+        <source>Default display identification method</source>
+        <target>默认显示器识别方式</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Define a custom app icon from Apple's SF Symbol icon library. You can download the SF Symbols app from [developer.apple.com/sf-symbols](https://developer.apple.com/sf-symbols) to find the right SF Symbol icon string (try: `face.smiling`)." xml:space="preserve">
         <source>Define a custom app icon from Apple's SF Symbol icon library. You can download the SF Symbols app from [developer.apple.com/sf-symbols](https://developer.apple.com/sf-symbols) to find the right SF Symbol icon string (try: `face.smiling`).</source>
         <target state="translated">从 Apple 的 SF Symbol 图标库中定义自定义应用程序图标。您可从 [developer.apple.com/sf-symbols](https://developer.apple.com/sf-symbols) 下载以查找合适的 SF Symbol 图标字符串（如 `face.smiling`）。</target>
@@ -1830,12 +1870,12 @@ AliPay available in China.</source>
       </trans-unit>
       <trans-unit id="Display Information" xml:space="preserve">
         <source>Display Information</source>
-        <target state="translated">显示信息</target>
+        <target state="translated">显示器信息</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display Information…" xml:space="preserve">
         <source>Display Information…</source>
-        <target state="translated">显示信息...</target>
+        <target state="translated">更多信息...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display Miscellaneous" xml:space="preserve">
@@ -1865,7 +1905,7 @@ AliPay available in China.</source>
       </trans-unit>
       <trans-unit id="Display identification method" xml:space="preserve">
         <source>Display identification method</source>
-        <target state="translated">显示识别方式</target>
+        <target state="translated">显示器识别方式</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display menu on/off switch behavior" xml:space="preserve">
@@ -1880,12 +1920,12 @@ AliPay available in China.</source>
       </trans-unit>
       <trans-unit id="Display name" xml:space="preserve">
         <source>Display name</source>
-        <target state="translated">显示名称</target>
+        <target state="translated">显示器名称</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display status" xml:space="preserve">
         <source>Display status</source>
-        <target state="translated">显示状态</target>
+        <target state="translated">显示器状态</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display tag ID" xml:space="preserve">
@@ -1900,7 +1940,7 @@ AliPay available in China.</source>
       </trans-unit>
       <trans-unit id="Display type" xml:space="preserve">
         <source>Display type</source>
-        <target state="translated">显示类型</target>
+        <target state="translated">显示器类型</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display with the same name as current audio device" xml:space="preserve">
@@ -2074,7 +2114,7 @@ The process does not work for the built-in display (reboot needed). The operatio
       </trans-unit>
       <trans-unit id="Edited system display name" xml:space="preserve">
         <source>Edited system display name</source>
-        <target state="translated">已编辑系统显示名称</target>
+        <target state="translated">已编辑系统显示器名称</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable All Protections" xml:space="preserve">
@@ -2464,7 +2504,7 @@ The process does not work for the built-in display (reboot needed). The operatio
       </trans-unit>
       <trans-unit id="If keyboard control is set to the display that matches the current audio device name (set this up under Keyboard settings), this value will be used for audio device matching instead of the display name." xml:space="preserve">
         <source>If keyboard control is set to the display that matches the current audio device name (set this up under Keyboard settings), this value will be used for audio device matching instead of the display name.</source>
-        <target state="translated">键盘控制设置为与当前音频设备名称匹配的显示名称（在键盘设置下可进行设置）时将该值用于匹配音频设备而非显示名称。</target>
+        <target state="translated">键盘控制设置为与当前音频设备名称匹配的显示器名称（在键盘设置下可进行设置）时将该值用于匹配音频设备而非显示器名称。</target>
         <note/>
       </trans-unit>
       <trans-unit id="If the display factory reset was performed properly, you should also reset all stored app DDC values to defaults." xml:space="preserve">
@@ -3191,11 +3231,6 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target state="translated">操作系统接管（推荐）</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Obsolete Apple external display" xml:space="preserve">
-        <source>Obsolete Apple external display</source>
-        <target state="translated">过老的 Apple 外部显示器</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="On startup &amp; wake" xml:space="preserve">
         <source>On startup &amp; wake</source>
         <target state="translated">启动与唤醒时</target>
@@ -3209,6 +3244,11 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Only resolutions that match native aspect ratio" xml:space="preserve">
         <source>Only resolutions that match native aspect ratio</source>
         <target state="translated">仅限匹配原生宽高比的分辨率</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Other Apple display" xml:space="preserve">
+        <source>Other Apple display</source>
+        <target>其他 Apple 显示器</target>
         <note/>
       </trans-unit>
       <trans-unit id="Overview" xml:space="preserve">
@@ -3481,6 +3521,11 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target state="translated">红色增益 (DDC)</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Redetect Displays" xml:space="preserve">
+        <source>Redetect Displays</source>
+        <target>重新检测显示器</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Refresh Rate" xml:space="preserve">
         <source>Refresh Rate</source>
         <target state="translated">刷新率</target>
@@ -3538,7 +3583,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Reset Color Adjustments" xml:space="preserve">
         <source>Reset Color Adjustments</source>
-        <target state="translated">重置颜色调整</target>
+        <target state="translated">重置图像调整</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reset Default" xml:space="preserve">
@@ -3836,8 +3881,8 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target state="translated">当启动屏幕保护程序或锁定屏幕时，屏幕亮度将变为所需的亮度（如果原来较高）。%@</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Screen with the mouse cursor" xml:space="preserve">
-        <source>Screen with the mouse cursor</source>
+      <trans-unit id="Screen with the mouse pointer" xml:space="preserve">
+        <source>Screen with the mouse pointer</source>
         <target state="translated">鼠标指针所在屏幕</target>
         <note/>
       </trans-unit>
@@ -3961,8 +4006,8 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target state="translated">此应用程序所做设置受到保护。</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Show Mouse Cursor" xml:space="preserve">
-        <source>Show Mouse Cursor</source>
+      <trans-unit id="Show Mouse Pointer" xml:space="preserve">
+        <source>Show Mouse Pointer</source>
         <target state="translated">显示鼠标指针</target>
         <note/>
       </trans-unit>
@@ -4074,6 +4119,11 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Shows all displays previously detected by the app. Allows some configuration changes even when a display is off-line." xml:space="preserve">
         <source>Shows all displays previously detected by the app. Allows some configuration changes even when a display is off-line.</source>
         <target state="translated">显示应用程序之前识别的所有显示器。即使显示器处于离线状态也允许更改某些配置。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sidecar Display" xml:space="preserve">
+        <source>Sidecar Display</source>
+        <target>随航显示器</target>
         <note/>
       </trans-unit>
       <trans-unit id="Simplifies navigation greatly." xml:space="preserve">
@@ -4281,6 +4331,11 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target state="translated">系统设置</target>
         <note/>
       </trans-unit>
+      <trans-unit id="System UUID match" xml:space="preserve">
+        <source>System UUID match</source>
+        <target state="translated">系统 UUID 匹配</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="System UUID match (recommended)" xml:space="preserve">
         <source>System UUID match (recommended)</source>
         <target state="translated">系统 UUID 匹配（推荐）</target>
@@ -4392,6 +4447,11 @@ If you connect the built-in display, this setting will be turned off. You can en
         <target state="translated">默认输入源列表反映了常见分配，但实际列表因显示器供应商/型号而异。输入控制不起作用时请尝试在某些较新的 LG 显示器上使用 "LG Alt" 切换！</target>
         <note/>
       </trans-unit>
+      <trans-unit id="The display will be automatically disconnected upon detection or physical connect if it was disconnected using the app beforehand. This setting might cause unexpected issues (connect-disconnect cycle with incompatible displays, lack of any connected displays) - use with caution!" xml:space="preserve">
+        <source>The display will be automatically disconnected upon detection or physical connect if it was disconnected using the app beforehand. This setting might cause unexpected issues (connect-disconnect cycle with incompatible displays, lack of any connected displays) - use with caution!</source>
+        <target>在检测到或物理连接事先用应用程序断开的显示器时自动断开显示器。此设置可能导致意外问题（与不兼容显示器反复断连、缺少任何已连接显示器）- 请谨慎使用！</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="The operation might cause the screen to flicker and switch mode if the existing mode is not available with the factory EDID. The display will be redetected as a different display if the current EDID has different identifiers.&#10;&#10;In case of a failure, disconnect and reconnect the display physically." xml:space="preserve">
         <source>The operation might cause the screen to flicker and switch mode if the existing mode is not available with the factory EDID. The display will be redetected as a different display if the current EDID has different identifiers.
 
@@ -4452,7 +4512,7 @@ In case of a failure, disconnect and reconnect the display physically.</source>
       </trans-unit>
       <trans-unit id="These three identifiers (serial number, vendor and model ID) serves as the basis for display identification in macOS. If any of these three identifiers are changed, the system will assign a new identity (UUID) to the virtual screen and treat it as newly connected display." xml:space="preserve">
         <source>These three identifiers (serial number, vendor and model ID) serves as the basis for display identification in macOS. If any of these three identifiers are changed, the system will assign a new identity (UUID) to the virtual screen and treat it as newly connected display.</source>
-        <target state="translated">这三个标识符（序列号、供应商和型号ID）是 macOS 中显示标识的基础。如果这三个标识符中的任何一个发生变化，系统将为虚拟屏幕分配一个新标识 (UUID)，并视为新连接的显示器。</target>
+        <target state="translated">这三个标识符（序列号、供应商和型号ID）是 macOS 中显示器标识的基础。如果这三个标识符中的任何一个发生变化，系统将为虚拟屏幕分配一个新标识 (UUID)，并视为新连接的显示器。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Third-party external display" xml:space="preserve">
@@ -5273,8 +5333,8 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
         <target state="translated">⚠️ 请接近显示宽高比以获得最佳效果！</target>
         <note/>
       </trans-unit>
-      <trans-unit id="⚠️ Full-screen streaming is unavailable as it requires Screen Recording permissions. You can grant this under System Settings &gt; Privacy &amp; Security &gt; Screen Recording!" xml:space="preserve">
-        <source>⚠️ Full-screen streaming is unavailable as it requires Screen Recording permissions. You can grant this under System Settings &gt; Privacy &amp; Security &gt; Screen Recording!</source>
+      <trans-unit id="⚠️ Full screen streaming is unavailable as it requires Screen Recording permissions. You can grant this under System Settings &gt; Privacy &amp; Security &gt; Screen Recording!" xml:space="preserve">
+        <source>⚠️ Full screen streaming is unavailable as it requires Screen Recording permissions. You can grant this under System Settings &gt; Privacy &amp; Security &gt; Screen Recording!</source>
         <target state="translated">⚠️ 全屏串流不可用，此设置需要屏幕录制权限。您可在 系统设置 &gt; 隐私与安全性 &gt; 屏幕录制 下授予权限！</target>
         <note/>
       </trans-unit>
