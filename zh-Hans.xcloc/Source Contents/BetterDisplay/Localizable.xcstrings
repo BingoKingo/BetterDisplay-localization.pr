@@ -179,6 +179,9 @@
     "About" : {
 
     },
+    "About %@" : {
+
+    },
     "Above Menu, Dock, Spaces" : {
 
     },
@@ -497,6 +500,9 @@
     "Automatically launch on login" : {
 
     },
+    "Automatically remove stored configuration details for displays that have not been connected for a while." : {
+
+    },
     "Automatically stream the virtual screen's content to the associated display. If multiple associated displays are connected, only one will be stream target." : {
 
     },
@@ -737,6 +743,9 @@
     "Contrast (DDC)" : {
 
     },
+    "Copy" : {
+
+    },
     "Copy Current Device Name" : {
 
     },
@@ -872,7 +881,13 @@
     "Customize the contents of the app menu - set which items are visible always, which only when the menu is expanded and which ones should be hidden." : {
 
     },
+    "Cut" : {
+
+    },
     "Date of manufacture" : {
+
+    },
+    "days" : {
 
     },
     "DDC allows for hardware backlight, volume control, input selection and various other features. Requires a compatible external display. Most televisions don't have support DDC while most displays do." : {
@@ -1289,6 +1304,9 @@
     "EDID, or Extended Display Identification Data, is a standard for displays to convey their capabilities to a connected computer, including resolution, supported video formats, timings, and manufacturer information.%@" : {
 
     },
+    "Edit" : {
+
+    },
     "Edit default resolution" : {
 
     },
@@ -1418,6 +1436,9 @@
     "Filter…" : {
 
     },
+    "First added" : {
+
+    },
     "Flip" : {
 
     },
@@ -1434,6 +1455,9 @@
 
     },
     "Forget Display" : {
+
+    },
+    "Forget displays after a while" : {
 
     },
     "Free Aspect Ratio" : {
@@ -1661,6 +1685,12 @@
     "Landscape - no rotation" : {
 
     },
+    "Last connected" : {
+
+    },
+    "Last unseen" : {
+
+    },
     "Leave mute key under OS control" : {
 
     },
@@ -1836,6 +1866,9 @@
 
     },
     "Min/max width and height constraints are enforced separately. Only fields you want as limiting factor must be specified, the rest may be left blank." : {
+
+    },
+    "Minimize" : {
 
     },
     "Mirror Display" : {
@@ -2018,6 +2051,9 @@
     "Page 4" : {
 
     },
+    "Paste" : {
+
+    },
     "Paste Base64" : {
 
     },
@@ -2108,6 +2144,9 @@
     "Quit" : {
 
     },
+    "Quit %@" : {
+
+    },
     "Quit the app" : {
 
     },
@@ -2175,6 +2214,12 @@
 
     },
     "Registry path" : {
+
+    },
+    "Remember displays for at least" : {
+
+    },
+    "Remember unknown displays for at least" : {
 
     },
     "Remove from Favorite %lld" : {
@@ -2246,9 +2291,6 @@
     "Resolution Favorites" : {
 
     },
-    "Resolution selection" : {
-
-    },
     "Resolution Slider" : {
 
     },
@@ -2292,6 +2334,9 @@
 
     },
     "Restore non-brightness adjustments only" : {
+
+    },
+    "Resume Stream on Connect" : {
 
     },
     "Retrieve and override EDID" : {
@@ -2382,6 +2427,9 @@
 
     },
     "Select a common aspect ratio for the virtual screen. The app creates a flexible resolution list based on this." : {
+
+    },
+    "Select All" : {
 
     },
     "Selected display is not available" : {
@@ -2957,6 +3005,9 @@
     "Unknown" : {
 
     },
+    "Unknown Display" : {
+
+    },
     "Unmute method" : {
 
     },
@@ -3110,6 +3161,9 @@
     "Width" : {
 
     },
+    "Window" : {
+
+    },
     "Window Controls" : {
 
     },
@@ -3153,6 +3207,9 @@
 
     },
     "You might want to hide the macOS volume OSD if the device has audio controls managed by the app. Useful for displays which has their own volume OSD that cannot be disabled." : {
+
+    },
+    "Zoom" : {
 
     }
   },

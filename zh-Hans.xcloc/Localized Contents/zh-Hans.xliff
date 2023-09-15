@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="BetterDisplay/InfoPlist.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A5229m"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -25,7 +25,7 @@
   </file>
   <file original="BetterDisplay/Localizable.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A5229m"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="" xml:space="preserve">
@@ -216,6 +216,11 @@
       <trans-unit id="About" xml:space="preserve">
         <source>About</source>
         <target state="translated">关于</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="About %@" xml:space="preserve">
+        <source>About %@</source>
+        <target>关于 %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Above Menu, Dock, Spaces" xml:space="preserve">
@@ -758,6 +763,11 @@ AliPay available in China.</source>
         <target state="translated">登录时自启动</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Automatically remove stored configuration details for displays that have not been connected for a while." xml:space="preserve">
+        <source>Automatically remove stored configuration details for displays that have not been connected for a while.</source>
+        <target>自动删除一段时间未连接的显示器详细配置信息。</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Automatically stream the virtual screen's content to the associated display. If multiple associated displays are connected, only one will be stream target." xml:space="preserve">
         <source>Automatically stream the virtual screen's content to the associated display. If multiple associated displays are connected, only one will be stream target.</source>
         <target state="translated">自动将虚拟屏幕的内容串流到关联显示器。连接多个关联显示器仅其中一个为串流目标。</target>
@@ -1153,6 +1163,11 @@ AliPay available in China.</source>
         <target state="translated">对比度 (DDC)</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Copy" xml:space="preserve">
+        <source>Copy</source>
+        <target>复制</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Copy Current Device Name" xml:space="preserve">
         <source>Copy Current Device Name</source>
         <target state="translated">复制当前设备名称</target>
@@ -1376,6 +1391,11 @@ AliPay available in China.</source>
       <trans-unit id="Customize the contents of the app menu - set which items are visible always, which only when the menu is expanded and which ones should be hidden." xml:space="preserve">
         <source>Customize the contents of the app menu - set which items are visible always, which only when the menu is expanded and which ones should be hidden.</source>
         <target state="translated">自定义应用程序菜单内容 - 设置哪些项目总是可见，哪些只在菜单展开时可见，哪些应该隐藏。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cut" xml:space="preserve">
+        <source>Cut</source>
+        <target>剪切</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC Backlight Control" xml:space="preserve">
@@ -2077,6 +2097,11 @@ The process does not work for the built-in display (reboot needed). The operatio
         <target state="translated">EDID 或扩展显示器识别数据是向已连接的计算机传达显示器功能，包括分辨率、支持的视频格式、时序和制造商信息的一种标准方式。</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Edit" xml:space="preserve">
+        <source>Edit</source>
+        <target>编辑</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Edit default resolution" xml:space="preserve">
         <source>Edit default resolution</source>
         <target state="translated">编辑默认分辨率</target>
@@ -2292,6 +2317,11 @@ The process does not work for the built-in display (reboot needed). The operatio
         <target state="translated">过滤...</target>
         <note/>
       </trans-unit>
+      <trans-unit id="First added" xml:space="preserve">
+        <source>First added</source>
+        <target>首次添加</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Flip" xml:space="preserve">
         <source>Flip</source>
         <target state="translated">翻转</target>
@@ -2320,6 +2350,11 @@ The process does not work for the built-in display (reboot needed). The operatio
       <trans-unit id="Forget Display" xml:space="preserve">
         <source>Forget Display</source>
         <target state="translated">忘记显示器</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Forget displays after a while" xml:space="preserve">
+        <source>Forget displays after a while</source>
+        <target>一段时间后忘记显示器</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free Aspect Ratio" xml:space="preserve">
@@ -2696,6 +2731,16 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target state="translated">横向 - 无旋转</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Last connected" xml:space="preserve">
+        <source>Last connected</source>
+        <target>最近已连接</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Last unseen" xml:space="preserve">
+        <source>Last unseen</source>
+        <target>最近未曾看到</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Leave mute key under OS control" xml:space="preserve">
         <source>Leave mute key under OS control</source>
         <target state="translated">由操作系统控制静音键</target>
@@ -2979,6 +3024,11 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Min/max width and height constraints are enforced separately. Only fields you want as limiting factor must be specified, the rest may be left blank." xml:space="preserve">
         <source>Min/max width and height constraints are enforced separately. Only fields you want as limiting factor must be specified, the rest may be left blank.</source>
         <target state="translated">最小/最大宽度和高度可单独强制设限。设限字段须指定，其他字段可留空。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Minimize" xml:space="preserve">
+        <source>Minimize</source>
+        <target>最小化</target>
         <note/>
       </trans-unit>
       <trans-unit id="Mirror Display" xml:space="preserve">
@@ -3281,6 +3331,11 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target state="translated">第 4 页</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Paste" xml:space="preserve">
+        <source>Paste</source>
+        <target>粘贴</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Paste Base64" xml:space="preserve">
         <source>Paste Base64</source>
         <target state="translated">粘贴 Base64 文本</target>
@@ -3431,6 +3486,11 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target state="translated">退出</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Quit %@" xml:space="preserve">
+        <source>Quit %@</source>
+        <target>退出 %@</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Quit the app" xml:space="preserve">
         <source>Quit the app</source>
         <target state="translated">退出应用程序</target>
@@ -3544,6 +3604,16 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Registry path" xml:space="preserve">
         <source>Registry path</source>
         <target state="translated">注册路径</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Remember displays for at least" xml:space="preserve">
+        <source>Remember displays for at least</source>
+        <target>至少记住显示器</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Remember unknown displays for at least" xml:space="preserve">
+        <source>Remember unknown displays for at least</source>
+        <target>至少记住未知显示器</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove from Favorite %lld" xml:space="preserve">
@@ -3666,11 +3736,6 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target state="translated">已接受分辨率条目</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Resolution selection" xml:space="preserve">
-        <source>Resolution selection</source>
-        <target state="translated">分辨率选择</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Resolution step multiplier" xml:space="preserve">
         <source>Resolution step multiplier</source>
         <target state="translated">分辨率步进乘数</target>
@@ -3739,6 +3804,11 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Restore non-brightness adjustments only" xml:space="preserve">
         <source>Restore non-brightness adjustments only</source>
         <target state="translated">仅恢复非亮度调整</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Resume Stream on Connect" xml:space="preserve">
+        <source>Resume Stream on Connect</source>
+        <target>连接时恢复串流</target>
         <note/>
       </trans-unit>
       <trans-unit id="Retrieve EDID" xml:space="preserve">
@@ -3889,6 +3959,11 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Screen with the window in focus" xml:space="preserve">
         <source>Screen with the window in focus</source>
         <target state="translated">焦点窗口所在屏幕</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Select All" xml:space="preserve">
+        <source>Select All</source>
+        <target>全选</target>
         <note/>
       </trans-unit>
       <trans-unit id="Select a common aspect ratio for the virtual screen. The app creates a flexible resolution list based on this." xml:space="preserve">
@@ -4918,6 +4993,11 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
         <target state="translated">未知</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Unknown Display" xml:space="preserve">
+        <source>Unknown Display</source>
+        <target>未知显示器</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Unmute method" xml:space="preserve">
         <source>Unmute method</source>
         <target state="translated">取消静音方式</target>
@@ -5168,6 +5248,11 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
         <target state="translated">宽度</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Window" xml:space="preserve">
+        <source>Window</source>
+        <target>窗口</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Window Controls" xml:space="preserve">
         <source>Window Controls</source>
         <target state="translated">窗口控制</target>
@@ -5238,6 +5323,11 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
         <target state="translated">如果设备音量控件由此应用程序管理，您可能想隐藏 macOS 音量调整浮窗 (OSD)。对于无法禁用音量调整浮窗 (OSD) 的显示器非常有用。</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Zoom" xml:space="preserve">
+        <source>Zoom</source>
+        <target>缩放</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="[License Terms](https://betterdisplay.pro/license)" xml:space="preserve">
         <source>[License Terms](https://betterdisplay.pro/license)</source>
         <target state="translated">[许可条款](https://betterdisplay.pro/license)</target>
@@ -5271,6 +5361,11 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
       <trans-unit id="bit" xml:space="preserve">
         <source>bit</source>
         <target state="translated">bit</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="days" xml:space="preserve">
+        <source>days</source>
+        <target>天</target>
         <note/>
       </trans-unit>
       <trans-unit id="hexadecimal numbers" xml:space="preserve">
@@ -5367,7 +5462,7 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
   </file>
   <file original="BetterDisplayHelper/InfoPlist.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A5229m"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
