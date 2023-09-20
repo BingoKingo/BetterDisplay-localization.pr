@@ -35,7 +35,7 @@
       </trans-unit>
       <trans-unit id=" - Liquid Retina with Notch" xml:space="preserve">
         <source> - Liquid Retina with Notch</source>
-        <target> - 刘海 Liquid 视网膜显示屏</target>
+        <target state="translated"> - 刘海 Liquid 视网膜显示屏</target>
         <note/>
       </trans-unit>
       <trans-unit id=" - connected" xml:space="preserve">
@@ -101,6 +101,11 @@
       <trans-unit id="%@, %@" xml:space="preserve">
         <source>%@, %@</source>
         <target state="translated">%@, %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@mm x %@mm" xml:space="preserve">
+        <source>%1$@mm x %2$@mm</source>
+        <target state="translated">%1$@mm x %2$@mm</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@x%@" xml:space="preserve">
@@ -220,7 +225,7 @@
       </trans-unit>
       <trans-unit id="About %@" xml:space="preserve">
         <source>About %@</source>
-        <target>关于 %@</target>
+        <target state="translated">关于 %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Above Menu, Dock, Spaces" xml:space="preserve">
@@ -243,8 +248,8 @@
         <target state="translated">辅助功能权限已配置，但**应用程序仍需重启**才能使更改生效！请在方便时关闭并重新启动应用程序，或按下方的 "重启 BetterDisplay" 按钮立即重启应用程序！</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Accessibility Permissions are properly configured. Native (Apple) keyboard brightness and volume keys should work if features otherwise set up. If not, please try restarting the app!" xml:space="preserve">
-        <source>Accessibility Permissions are properly configured. Native (Apple) keyboard brightness and volume keys should work if features otherwise set up. If not, please try restarting the app!</source>
+      <trans-unit id="Accessibility Permissions are properly configured. Native (Apple) keyboard brightness and volume keys should work if these features are otherwise set up. If not, please try restarting the app!" xml:space="preserve">
+        <source>Accessibility Permissions are properly configured. Native (Apple) keyboard brightness and volume keys should work if these features are otherwise set up. If not, please try restarting the app!</source>
         <target state="translated">辅助功能权限已正确配置。如果设置了其他功能，原生 (Apple) 键盘亮度和音量键应该可以工作。如不行请重新启动应用程序!</target>
         <note/>
       </trans-unit>
@@ -375,12 +380,12 @@
       </trans-unit>
       <trans-unit id="Aggressive disconnect" xml:space="preserve">
         <source>Aggressive disconnect</source>
-        <target>主动断开</target>
+        <target state="translated">主动断开</target>
         <note/>
       </trans-unit>
       <trans-unit id="AirPlay Display" xml:space="preserve">
         <source>AirPlay Display</source>
-        <target>隔空播放显示器</target>
+        <target state="translated">隔空播放显示器</target>
         <note/>
       </trans-unit>
       <trans-unit id="All previously dismissed warnings will now be back." xml:space="preserve">
@@ -720,7 +725,7 @@ AliPay available in China.</source>
       </trans-unit>
       <trans-unit id="Automatic (based on display type)" xml:space="preserve">
         <source>Automatic (based on display type)</source>
-        <target>自动（基于显示器类型）</target>
+        <target state="translated">自动（基于显示器类型）</target>
         <note/>
       </trans-unit>
       <trans-unit id="Automatically apply custom EDID upon detection of this display" xml:space="preserve">
@@ -765,7 +770,7 @@ AliPay available in China.</source>
       </trans-unit>
       <trans-unit id="Automatically remove stored configuration details for displays that have not been connected for a while." xml:space="preserve">
         <source>Automatically remove stored configuration details for displays that have not been connected for a while.</source>
-        <target>自动删除一段时间未连接的显示器详细配置信息。</target>
+        <target state="translated">自动删除一段时间未连接的显示器详细配置信息。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Automatically stream the virtual screen's content to the associated display. If multiple associated displays are connected, only one will be stream target." xml:space="preserve">
@@ -796,6 +801,11 @@ AliPay available in China.</source>
       <trans-unit id="Be careful with this setting as it will grab control even if another audio output is selected!" xml:space="preserve">
         <source>Be careful with this setting as it will grab control even if another audio output is selected!</source>
         <target state="translated">小心此设置项，即使选中另一音频输出，它也会控制住！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Below this level on the combined brightness scale the app uses additional software dimming (as hardware backlight control reached the lowest possible level)." xml:space="preserve">
+        <source>Below this level on the combined brightness scale the app uses additional software dimming (as hardware backlight control reached the lowest possible level).</source>
+        <target state="translated">在此组合亮度等级下，应用程序采取额外的软件调光（因为硬件背光控制可能已达最低级别）。</target>
         <note/>
       </trans-unit>
       <trans-unit id="BetterDisplay" xml:space="preserve">
@@ -935,7 +945,7 @@ AliPay available in China.</source>
       </trans-unit>
       <trans-unit id="Changing this setting does not affect existing known displays. The display identification method can be changed on a per display basis under each display's additional settings." xml:space="preserve">
         <source>Changing this setting does not affect existing known displays. The display identification method can be changed on a per display basis under each display's additional settings.</source>
-        <target>更改此设置不会影响现有的已知显示器。显示器识别方式可在每个显示器的 其他设置 中进行更改。</target>
+        <target state="translated">更改此设置不会影响现有的已知显示器。显示器识别方式可在每个显示器的 其他设置 中进行更改。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Check For Updates" xml:space="preserve">
@@ -1003,9 +1013,24 @@ AliPay available in China.</source>
         <target state="translated">将硬件亮度控制（如有）、软件调光和 XDR/HDR 提升合并为一个统一的亮度控制。</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Combined XDR/HDR upscaling maximum scale value" xml:space="preserve">
+        <source>Combined XDR/HDR upscaling maximum scale value</source>
+        <target state="translated">组合 XDR/HDR 提升的最大比例值</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Combined brightness" xml:space="preserve">
         <source>Combined brightness</source>
         <target state="translated">组合亮度</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Combined brightness - minimum allowed hardware brightness level" xml:space="preserve">
+        <source>Combined brightness - minimum allowed hardware brightness level</source>
+        <target state="translated">组合亮度 - 允许的最小硬件亮度级别</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Combined brightness software dimming switchover point" xml:space="preserve">
+        <source>Combined brightness software dimming switchover point</source>
+        <target state="translated">组合亮度软件调光切换点</target>
         <note/>
       </trans-unit>
       <trans-unit id="Computer monitor" xml:space="preserve">
@@ -1165,7 +1190,7 @@ AliPay available in China.</source>
       </trans-unit>
       <trans-unit id="Copy" xml:space="preserve">
         <source>Copy</source>
-        <target>复制</target>
+        <target state="translated">复制</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy Current Device Name" xml:space="preserve">
@@ -1395,7 +1420,7 @@ AliPay available in China.</source>
       </trans-unit>
       <trans-unit id="Cut" xml:space="preserve">
         <source>Cut</source>
-        <target>剪切</target>
+        <target state="translated">剪切</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC Backlight Control" xml:space="preserve">
@@ -1600,7 +1625,7 @@ AliPay available in China.</source>
       </trans-unit>
       <trans-unit id="Default display identification method" xml:space="preserve">
         <source>Default display identification method</source>
-        <target>默认显示器识别方式</target>
+        <target state="translated">默认显示器识别方式</target>
         <note/>
       </trans-unit>
       <trans-unit id="Define a custom app icon from Apple's SF Symbol icon library. You can download the SF Symbols app from [developer.apple.com/sf-symbols](https://developer.apple.com/sf-symbols) to find the right SF Symbol icon string (try: `face.smiling`)." xml:space="preserve">
@@ -1666,6 +1691,11 @@ AliPay available in China.</source>
       <trans-unit id="Dim the disconnected display (using the currently selected control method for the display) on platforms that do not enable putting a disconnected display to sleep. Fully turns off backlight on compatible devices." xml:space="preserve">
         <source>Dim the disconnected display (using the currently selected control method for the display) on platforms that do not enable putting a disconnected display to sleep. Fully turns off backlight on compatible devices.</source>
         <target state="translated">在无法让断开连接的显示器休眠的平台上，调暗已断开的显示器（使用当前为显示器选择的控制方法）。在兼容设备上完全关闭背光。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dimensions (unrotated)" xml:space="preserve">
+        <source>Dimensions (unrotated)</source>
+        <target state="translated">尺寸（未旋转）</target>
         <note/>
       </trans-unit>
       <trans-unit id="Direct I2C communication" xml:space="preserve">
@@ -2099,7 +2129,7 @@ The process does not work for the built-in display (reboot needed). The operatio
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
         <source>Edit</source>
-        <target>编辑</target>
+        <target state="translated">编辑</target>
         <note/>
       </trans-unit>
       <trans-unit id="Edit default resolution" xml:space="preserve">
@@ -2319,7 +2349,7 @@ The process does not work for the built-in display (reboot needed). The operatio
       </trans-unit>
       <trans-unit id="First added" xml:space="preserve">
         <source>First added</source>
-        <target>首次添加</target>
+        <target state="translated">首次添加</target>
         <note/>
       </trans-unit>
       <trans-unit id="Flip" xml:space="preserve">
@@ -2354,7 +2384,7 @@ The process does not work for the built-in display (reboot needed). The operatio
       </trans-unit>
       <trans-unit id="Forget displays after a while" xml:space="preserve">
         <source>Forget displays after a while</source>
-        <target>一段时间后忘记显示器</target>
+        <target state="translated">一段时间后忘记显示器</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free Aspect Ratio" xml:space="preserve">
@@ -2731,14 +2761,14 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target state="translated">横向 - 无旋转</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Last connected" xml:space="preserve">
-        <source>Last connected</source>
-        <target>最近已连接</target>
+      <trans-unit id="Last detected" xml:space="preserve">
+        <source>Last detected</source>
+        <target state="translated">最近检测到</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Last unseen" xml:space="preserve">
-        <source>Last unseen</source>
-        <target>最近未曾看到</target>
+      <trans-unit id="Last undetected" xml:space="preserve">
+        <source>Last undetected</source>
+        <target state="translated">最近未检测到</target>
         <note/>
       </trans-unit>
       <trans-unit id="Leave mute key under OS control" xml:space="preserve">
@@ -2971,6 +3001,11 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target state="translated">最大宽度</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Maximum brightness value for XDR/HDR upscaled brightness on the combined brightness scale." xml:space="preserve">
+        <source>Maximum brightness value for XDR/HDR upscaled brightness on the combined brightness scale.</source>
+        <target state="translated">组合亮度范围的 XDR/HDR 升级亮度的最大亮度值。</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Menu" xml:space="preserve">
         <source>Menu</source>
         <target state="translated">菜单</target>
@@ -3028,7 +3063,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Minimize" xml:space="preserve">
         <source>Minimize</source>
-        <target>最小化</target>
+        <target state="translated">最小化</target>
         <note/>
       </trans-unit>
       <trans-unit id="Mirror Display" xml:space="preserve">
@@ -3298,7 +3333,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Other Apple display" xml:space="preserve">
         <source>Other Apple display</source>
-        <target>其他 Apple 显示器</target>
+        <target state="translated">其他 Apple 显示器</target>
         <note/>
       </trans-unit>
       <trans-unit id="Overview" xml:space="preserve">
@@ -3333,7 +3368,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Paste" xml:space="preserve">
         <source>Paste</source>
-        <target>粘贴</target>
+        <target state="translated">粘贴</target>
         <note/>
       </trans-unit>
       <trans-unit id="Paste Base64" xml:space="preserve">
@@ -3488,7 +3523,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Quit %@" xml:space="preserve">
         <source>Quit %@</source>
-        <target>退出 %@</target>
+        <target state="translated">退出 %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Quit the app" xml:space="preserve">
@@ -3583,7 +3618,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Redetect Displays" xml:space="preserve">
         <source>Redetect Displays</source>
-        <target>重新检测显示器</target>
+        <target state="translated">重新检测显示器</target>
         <note/>
       </trans-unit>
       <trans-unit id="Refresh Rate" xml:space="preserve">
@@ -3606,14 +3641,19 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target state="translated">注册路径</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Reinitialize External Displays" xml:space="preserve">
+        <source>Reinitialize External Displays</source>
+        <target state="translated">重新初始化外部显示器</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Remember displays for at least" xml:space="preserve">
         <source>Remember displays for at least</source>
-        <target>至少记住显示器</target>
+        <target state="translated">至少记住显示器</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remember unknown displays for at least" xml:space="preserve">
         <source>Remember unknown displays for at least</source>
-        <target>至少记住未知显示器</target>
+        <target state="translated">至少记住未知显示器</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove from Favorite %lld" xml:space="preserve">
@@ -3808,7 +3848,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Resume Stream on Connect" xml:space="preserve">
         <source>Resume Stream on Connect</source>
-        <target>连接时恢复串流</target>
+        <target state="translated">连接时恢复串流</target>
         <note/>
       </trans-unit>
       <trans-unit id="Retrieve EDID" xml:space="preserve">
@@ -3963,7 +4003,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Select All" xml:space="preserve">
         <source>Select All</source>
-        <target>全选</target>
+        <target state="translated">全选</target>
         <note/>
       </trans-unit>
       <trans-unit id="Select a common aspect ratio for the virtual screen. The app creates a flexible resolution list based on this." xml:space="preserve">
@@ -4069,6 +4109,11 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Set volume to lowest setting" xml:space="preserve">
         <source>Set volume to lowest setting</source>
         <target state="translated">将音量调至最低</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sets the minimum allowed hardware brightness value (on it's own scale) below which software dimming kicks-in when using combined brightness control. This setting is useful for those with PWM sensitivity as it prohibits backlight control from entering heavy PWM range, substituting it with software dimming instead." xml:space="preserve">
+        <source>Sets the minimum allowed hardware brightness value (on it's own scale) below which software dimming kicks-in when using combined brightness control. This setting is useful for those with PWM sensitivity as it prohibits backlight control from entering heavy PWM range, substituting it with software dimming instead.</source>
+        <target state="translated">设置允许的最小硬件亮度值（据其规模），低于此值软件调光时采用组合亮度控制。此设置对可调PWM灵敏度却禁止背光控制PWM广域的显示器会有用，采用软件调光作为替代方案。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Settings Reset Required" xml:space="preserve">
@@ -4198,7 +4243,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Sidecar Display" xml:space="preserve">
         <source>Sidecar Display</source>
-        <target>随航显示器</target>
+        <target state="translated">随航显示器</target>
         <note/>
       </trans-unit>
       <trans-unit id="Simplifies navigation greatly." xml:space="preserve">
@@ -4524,7 +4569,7 @@ If you connect the built-in display, this setting will be turned off. You can en
       </trans-unit>
       <trans-unit id="The display will be automatically disconnected upon detection or physical connect if it was disconnected using the app beforehand. This setting might cause unexpected issues (connect-disconnect cycle with incompatible displays, lack of any connected displays) - use with caution!" xml:space="preserve">
         <source>The display will be automatically disconnected upon detection or physical connect if it was disconnected using the app beforehand. This setting might cause unexpected issues (connect-disconnect cycle with incompatible displays, lack of any connected displays) - use with caution!</source>
-        <target>在检测到或物理连接事先用应用程序断开的显示器时自动断开显示器。此设置可能导致意外问题（与不兼容显示器反复断连、缺少任何已连接显示器）- 请谨慎使用！</target>
+        <target state="translated">在检测到或物理连接事先用应用程序断开的显示器时自动断开显示器。此设置可能导致意外问题（与不兼容显示器反复断连、缺少任何已连接显示器）- 请谨慎使用！</target>
         <note/>
       </trans-unit>
       <trans-unit id="The operation might cause the screen to flicker and switch mode if the existing mode is not available with the factory EDID. The display will be redetected as a different display if the current EDID has different identifiers.&#10;&#10;In case of a failure, disconnect and reconnect the display physically." xml:space="preserve">
@@ -4995,7 +5040,7 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
       </trans-unit>
       <trans-unit id="Unknown Display" xml:space="preserve">
         <source>Unknown Display</source>
-        <target>未知显示器</target>
+        <target state="translated">未知显示器</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unmute method" xml:space="preserve">
@@ -5250,7 +5295,7 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
       </trans-unit>
       <trans-unit id="Window" xml:space="preserve">
         <source>Window</source>
-        <target>窗口</target>
+        <target state="translated">窗口</target>
         <note/>
       </trans-unit>
       <trans-unit id="Window Controls" xml:space="preserve">
@@ -5325,7 +5370,7 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
       </trans-unit>
       <trans-unit id="Zoom" xml:space="preserve">
         <source>Zoom</source>
-        <target>缩放</target>
+        <target state="translated">缩放</target>
         <note/>
       </trans-unit>
       <trans-unit id="[License Terms](https://betterdisplay.pro/license)" xml:space="preserve">
@@ -5365,7 +5410,7 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
       </trans-unit>
       <trans-unit id="days" xml:space="preserve">
         <source>days</source>
-        <target>天</target>
+        <target state="translated">天</target>
         <note/>
       </trans-unit>
       <trans-unit id="hexadecimal numbers" xml:space="preserve">

@@ -80,6 +80,16 @@
     "%@%@%@" : {
 
     },
+    "%@mm x %@mm" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@mm x %2$@mm"
+          }
+        }
+      }
+    },
     "%@x%@" : {
 
     },
@@ -197,7 +207,7 @@
     "Accessibility Permissions are configured but the **app still needs to be restarted** for the changes to take effect! Please close and restart the app when it is convenient or press the \"Restart BetterDisplay\" button below to restart the app immediately!" : {
 
     },
-    "Accessibility Permissions are properly configured. Native (Apple) keyboard brightness and volume keys should work if features otherwise set up. If not, please try restarting the app!" : {
+    "Accessibility Permissions are properly configured. Native (Apple) keyboard brightness and volume keys should work if these features are otherwise set up. If not, please try restarting the app!" : {
 
     },
     "Activate" : {
@@ -521,6 +531,9 @@
     "Be careful with this setting as it will grab control even if another audio output is selected!" : {
 
     },
+    "Below this level on the combined brightness scale the app uses additional software dimming (as hardware backlight control reached the lowest possible level)." : {
+
+    },
     "BetterDisplay" : {
 
     },
@@ -648,6 +661,15 @@
 
     },
     "Combined brightness" : {
+
+    },
+    "Combined brightness - minimum allowed hardware brightness level" : {
+
+    },
+    "Combined brightness software dimming switchover point" : {
+
+    },
+    "Combined XDR/HDR upscaling maximum scale value" : {
 
     },
     "Computer monitor" : {
@@ -1047,6 +1069,9 @@
 
     },
     "Dim the disconnected display (using the currently selected control method for the display) on platforms that do not enable putting a disconnected display to sleep. Fully turns off backlight on compatible devices." : {
+
+    },
+    "Dimensions (unrotated)" : {
 
     },
     "Direct I2C communication" : {
@@ -1685,10 +1710,10 @@
     "Landscape - no rotation" : {
 
     },
-    "Last connected" : {
+    "Last detected" : {
 
     },
-    "Last unseen" : {
+    "Last undetected" : {
 
     },
     "Leave mute key under OS control" : {
@@ -1830,6 +1855,9 @@
 
     },
     "Max Width" : {
+
+    },
+    "Maximum brightness value for XDR/HDR upscaled brightness on the combined brightness scale." : {
 
     },
     "Menu" : {
@@ -2216,6 +2244,9 @@
     "Registry path" : {
 
     },
+    "Reinitialize External Displays" : {
+
+    },
     "Remember displays for at least" : {
 
     },
@@ -2490,6 +2521,9 @@
 
     },
     "Set volume to lowest setting" : {
+
+    },
+    "Sets the minimum allowed hardware brightness value (on it's own scale) below which software dimming kicks-in when using combined brightness control. This setting is useful for those with PWM sensitivity as it prohibits backlight control from entering heavy PWM range, substituting it with software dimming instead." : {
 
     },
     "Settings made with the app are protected." : {
