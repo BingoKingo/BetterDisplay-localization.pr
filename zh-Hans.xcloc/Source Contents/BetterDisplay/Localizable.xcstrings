@@ -285,6 +285,9 @@
     "Aggressive disconnect" : {
 
     },
+    "Aim for a HiDPI default resolution" : {
+
+    },
     "AirPlay Display" : {
 
     },
@@ -2247,6 +2250,9 @@
     "Reinitialize External Displays" : {
 
     },
+    "Reinitialize external displays with smooth scaling enabled if needed" : {
+
+    },
     "Remember displays for at least" : {
 
     },
@@ -2745,6 +2751,9 @@
     "TARGET" : {
 
     },
+    "Target default resolution" : {
+
+    },
     "Television" : {
 
     },
@@ -2844,6 +2853,9 @@
     "This functionality needs Screen Recording permissions. You need to add the app to the list under System Settings > Privacy & Security > Screen Recording! After this, you will need to quit and reopen the app. \n\nPlease try again once the permissions are granted!" : {
 
     },
+    "This is a workaround of an issue present in some versions of macOS Sonoma which occasionally prevents a display's custom configuration to be loaded properly. With this setting the app attempts to reinitialize the display if smooth scaling resolutions seem to be missing." : {
+
+    },
     "This is required for color adjustments, combined dimming and XDR/HDR upscaling features. Recommended to leave enabled. Turn this off for compatibility with some third party apps that also alter system colors." : {
 
     },
@@ -2856,6 +2868,9 @@
     "This might help solve issues with certain configurations." : {
 
     },
+    "This might not work properly with all displays (especially low PPI ones) and might create a pixel-doubled LoDPI default resolution instead on Intel Macs." : {
+
+    },
     "This name is used by macOS system-wide." : {
 
     },
@@ -2866,6 +2881,9 @@
 
     },
     "This resolution is used as default (as HiDPI if available) when the display is included in a new layout." : {
+
+    },
+    "This resolution is used as default when the display is included in a new layout. Results might be approximate only on Intel Macs." : {
 
     },
     "This restores the default settings and restarts the app.\n\nPlease note that previously stored custom display configurations won't be removed from the system!" : {

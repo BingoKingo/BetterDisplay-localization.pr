@@ -380,7 +380,12 @@
       </trans-unit>
       <trans-unit id="Aggressive disconnect" xml:space="preserve">
         <source>Aggressive disconnect</source>
-        <target state="translated">主动断开</target>
+        <target state="translated">自激发断开</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aim for a HiDPI default resolution" xml:space="preserve">
+        <source>Aim for a HiDPI default resolution</source>
+        <target state="translated">目标为默认的 HiDPI 分辨率</target>
         <note/>
       </trans-unit>
       <trans-unit id="AirPlay Display" xml:space="preserve">
@@ -480,7 +485,7 @@
       </trans-unit>
       <trans-unit id="Always show both low (non-HiDPI) and high (HiDPI) resolutions" xml:space="preserve">
         <source>Always show both low (non-HiDPI) and high (HiDPI) resolutions</source>
-        <target state="translated">始终同时显示低（非 HiDPI ）和高（HiDPI）分辨率</target>
+        <target state="translated">始终同时显示低（非 HiDPI）和高（HiDPI）分辨率</target>
         <note/>
       </trans-unit>
       <trans-unit id="An error occurred while calculating virtual screen dimensions. Try creating the virtual screen manually!" xml:space="preserve">
@@ -2439,7 +2444,7 @@ The process does not work for the built-in display (reboot needed). The operatio
       </trans-unit>
       <trans-unit id="Get BetterDisplay Pro" xml:space="preserve">
         <source>Get BetterDisplay Pro</source>
-        <target state="translated">购买 BetterDisplay 专业版</target>
+        <target state="translated">获取专业版</target>
         <note/>
       </trans-unit>
       <trans-unit id="Green Black Level (DDC)" xml:space="preserve">
@@ -2763,12 +2768,12 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Last detected" xml:space="preserve">
         <source>Last detected</source>
-        <target state="translated">最近检测到</target>
+        <target state="translated">最近检测</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last undetected" xml:space="preserve">
         <source>Last undetected</source>
-        <target state="translated">最近未检测到</target>
+        <target state="translated">最近未检测</target>
         <note/>
       </trans-unit>
       <trans-unit id="Leave mute key under OS control" xml:space="preserve">
@@ -3646,6 +3651,11 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target state="translated">重新初始化外部显示器</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Reinitialize external displays with smooth scaling enabled if needed" xml:space="preserve">
+        <source>Reinitialize external displays with smooth scaling enabled if needed</source>
+        <target state="translated">启用平滑缩放时按需重新初始化外部显示器</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Remember displays for at least" xml:space="preserve">
         <source>Remember displays for at least</source>
         <target state="translated">至少记住显示器</target>
@@ -4476,6 +4486,11 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target state="translated">标签 ID</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Target default resolution" xml:space="preserve">
+        <source>Target default resolution</source>
+        <target state="translated">目标默认分辨率</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Television" xml:space="preserve">
         <source>Television</source>
         <target state="translated">电视</target>
@@ -4569,7 +4584,7 @@ If you connect the built-in display, this setting will be turned off. You can en
       </trans-unit>
       <trans-unit id="The display will be automatically disconnected upon detection or physical connect if it was disconnected using the app beforehand. This setting might cause unexpected issues (connect-disconnect cycle with incompatible displays, lack of any connected displays) - use with caution!" xml:space="preserve">
         <source>The display will be automatically disconnected upon detection or physical connect if it was disconnected using the app beforehand. This setting might cause unexpected issues (connect-disconnect cycle with incompatible displays, lack of any connected displays) - use with caution!</source>
-        <target state="translated">在检测到或物理连接事先用应用程序断开的显示器时自动断开显示器。此设置可能导致意外问题（与不兼容显示器反复断连、缺少任何已连接显示器）- 请谨慎使用！</target>
+        <target state="translated">在检测或物理连接事先用应用程序断开的显示器时自动断开显示器。此设置可能导致意外问题（与不兼容显示器反复断连、缺少任何已连接显示器）- 请谨慎使用！</target>
         <note/>
       </trans-unit>
       <trans-unit id="The operation might cause the screen to flicker and switch mode if the existing mode is not available with the factory EDID. The display will be redetected as a different display if the current EDID has different identifiers.&#10;&#10;In case of a failure, disconnect and reconnect the display physically." xml:space="preserve">
@@ -4673,6 +4688,11 @@ Please try again once the permissions are granted!</source>
 授予权限后请再试一次！</target>
         <note/>
       </trans-unit>
+      <trans-unit id="This is a workaround of an issue present in some versions of macOS Sonoma which occasionally prevents a display's custom configuration to be loaded properly. With this setting the app attempts to reinitialize the display if smooth scaling resolutions seem to be missing." xml:space="preserve">
+        <source>This is a workaround of an issue present in some versions of macOS Sonoma which occasionally prevents a display's custom configuration to be loaded properly. With this setting the app attempts to reinitialize the display if smooth scaling resolutions seem to be missing.</source>
+        <target state="translated">此设置在平滑缩放分辨率似乎缺失时通过应用程序尝试重新初始化显示器来解决某些 macOS Sonoma 版本中偶尔出现无法正确加载显示器自定义配置的问题。</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="This is required for color adjustments, combined dimming and XDR/HDR upscaling features. Recommended to leave enabled. Turn this off for compatibility with some third party apps that also alter system colors." xml:space="preserve">
         <source>This is required for color adjustments, combined dimming and XDR/HDR upscaling features. Recommended to leave enabled. Turn this off for compatibility with some third party apps that also alter system colors.</source>
         <target state="translated">色彩调整、组合调光和 XDR/HDR 提升功能都需要此选项，建议启用。关闭此选项可与某些也会改变系统颜色的第三方应用程序兼容。</target>
@@ -4693,6 +4713,11 @@ Please try again once the permissions are granted!</source>
         <target state="translated">这可能有助于解决某些配置的问题。</target>
         <note/>
       </trans-unit>
+      <trans-unit id="This might not work properly with all displays (especially low PPI ones) and might create a pixel-doubled LoDPI default resolution instead on Intel Macs." xml:space="preserve">
+        <source>This might not work properly with all displays (especially low PPI ones) and might create a pixel-doubled LoDPI default resolution instead on Intel Macs.</source>
+        <target state="translated">这可能在所有显示器（特别是低 PPI 显示器）上无法正常工作，在 Intel Mac 上可能创建默认像素翻倍的 LoDPI 分辨率屏幕。</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="This name is used by macOS system-wide." xml:space="preserve">
         <source>This name is used by macOS system-wide.</source>
         <target state="translated">此名称在 macOS 系统范围使用。</target>
@@ -4711,6 +4736,11 @@ Please try again once the permissions are granted!</source>
       <trans-unit id="This resolution is used as default (as HiDPI if available) when the display is included in a new layout." xml:space="preserve">
         <source>This resolution is used as default (as HiDPI if available) when the display is included in a new layout.</source>
         <target state="translated">新布局中包含此显示器时此分辨率将作默认设置使用（可用时为 HiDPI）。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="This resolution is used as default when the display is included in a new layout. Results might be approximate only on Intel Macs." xml:space="preserve">
+        <source>This resolution is used as default when the display is included in a new layout. Results might be approximate only on Intel Macs.</source>
+        <target state="translated">此分辨率在新布局包含此显示器时为默认值。仅在 Intel Mac 上显示近似结果。</target>
         <note/>
       </trans-unit>
       <trans-unit id="This restores the default settings and restarts the app.&#10;&#10;Please note that previously stored custom display configurations won't be removed from the system!" xml:space="preserve">
