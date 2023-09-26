@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="BetterDisplay/InfoPlist.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0.1" build-num="15A507"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -25,7 +25,7 @@
   </file>
   <file original="BetterDisplay/Localizable.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0.1" build-num="15A507"/>
     </header>
     <body>
       <trans-unit id="" xml:space="preserve">
@@ -230,7 +230,7 @@
       </trans-unit>
       <trans-unit id="Above Menu, Dock, Spaces" xml:space="preserve">
         <source>Above Menu, Dock, Spaces</source>
-        <target state="translated">置于菜单栏,程序坞,桌面空间之上</target>
+        <target state="translated">置于菜单栏、程序坞、桌面空间之上</target>
         <note/>
       </trans-unit>
       <trans-unit id="Accessibility Configuration Required!" xml:space="preserve">
@@ -483,6 +483,11 @@
         <target state="translated">已有许可证？</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Always" xml:space="preserve">
+        <source>Always</source>
+        <target state="translated">始终</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Always show both low (non-HiDPI) and high (HiDPI) resolutions" xml:space="preserve">
         <source>Always show both low (non-HiDPI) and high (HiDPI) resolutions</source>
         <target state="translated">始终同时显示低（非 HiDPI）和高（HiDPI）分辨率</target>
@@ -524,6 +529,11 @@ You should exit the other app or disable `Allow color adjustments` under Setting
         <target state="translated">另一应用程序反复更改屏幕颜色或亮度，这与 BetterDisplay 的功能冲突。
 
 您应该退出其他应用程序或禁用 "设置 &gt; 显示器 &gt; 允许颜色调整" 来解决此问题！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="App Menu" xml:space="preserve">
+        <source>App Menu</source>
+        <target state="translated">应用程序菜单</target>
         <note/>
       </trans-unit>
       <trans-unit id="App settings" xml:space="preserve">
@@ -838,6 +848,11 @@ AliPay available in China.</source>
         <target state="translated">两者都随 HDR 切换关闭</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Briefly show Dock icon on startup" xml:space="preserve">
+        <source>Briefly show Dock icon on startup</source>
+        <target state="translated">启动时短暂显示程序坞图标</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Briefly show an upward (XDR/HDR upscaling) or downward (software dimming) pointing icon in the OSD when extra dimming or brightness upscaling is happening via color table adjustment." xml:space="preserve">
         <source>Briefly show an upward (XDR/HDR upscaling) or downward (software dimming) pointing icon in the OSD when extra dimming or brightness upscaling is happening via color table adjustment.</source>
         <target state="translated">对色表调整进行额外调光或亮度提升时在调整浮窗 (OSD) 中简单显示为向上（XDR/HDR 提升）或向下（软件调光）的指向图标。</target>
@@ -981,6 +996,10 @@ AliPay available in China.</source>
       <trans-unit id="Color Depth" xml:space="preserve">
         <source>Color Depth</source>
         <target state="translated">色深</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Color Profile" xml:space="preserve">
+        <source>Color Profile</source>
         <note/>
       </trans-unit>
       <trans-unit id="Color Table Adjustments, XDR/HDR Upscaling" xml:space="preserve">
@@ -1420,7 +1439,7 @@ AliPay available in China.</source>
       </trans-unit>
       <trans-unit id="Customize the contents of the app menu - set which items are visible always, which only when the menu is expanded and which ones should be hidden." xml:space="preserve">
         <source>Customize the contents of the app menu - set which items are visible always, which only when the menu is expanded and which ones should be hidden.</source>
-        <target state="translated">自定义应用程序菜单内容 - 设置哪些项目总是可见，哪些只在菜单展开时可见，哪些应该隐藏。</target>
+        <target state="translated">自定义应用程序菜单内容 - 设置哪些项目始终可见，哪些只在菜单展开时可见，哪些应该隐藏。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cut" xml:space="preserve">
@@ -2072,6 +2091,11 @@ The process does not work for the built-in display (reboot needed). The operatio
         <target state="translated">您想继续吗?</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Dock" xml:space="preserve">
+        <source>Dock</source>
+        <target state="translated">程序坞</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Does not apply to hardware-only brightness control." xml:space="preserve">
         <source>Does not apply to hardware-only brightness control.</source>
         <target state="translated">不适用于仅硬件的亮度控制。</target>
@@ -2372,6 +2396,11 @@ The process does not work for the built-in display (reboot needed). The operatio
         <target state="translated">强制支持色表操作</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Force-enable underscan slider" xml:space="preserve">
+        <source>Force-enable underscan slider</source>
+        <target state="translated">强制启用欠扫描滑块</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Forget" xml:space="preserve">
         <source>Forget</source>
         <target state="translated">忘记</target>
@@ -2570,6 +2599,11 @@ The process does not work for the built-in display (reboot needed). The operatio
       <trans-unit id="Identifiers" xml:space="preserve">
         <source>Identifiers</source>
         <target state="translated">标识符</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="If Dock visibility is set to `Never`, the Edit menu and Copy/Paste keyboard shortcut keys will not be available in Settings." xml:space="preserve">
+        <source>If Dock visibility is set to `Never`, the Edit menu and Copy/Paste keyboard shortcut keys will not be available in Settings.</source>
+        <target state="translated">程序坞可见性设为“永不”时 编辑 菜单和 复制/粘贴键盘快捷键 在应用程序设置中不可用。</target>
         <note/>
       </trans-unit>
       <trans-unit id="If keyboard control is set to the display that matches the current audio device name (set this up under Keyboard settings), this value will be used for audio device matching instead of the display name." xml:space="preserve">
@@ -3204,6 +3238,11 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Neutral (default) value" xml:space="preserve">
         <source>Neutral (default) value</source>
         <target state="translated">中间（默认）值</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Never" xml:space="preserve">
+        <source>Never</source>
+        <target state="translated">永不</target>
         <note/>
       </trans-unit>
       <trans-unit id="New Virtual Screen Configuration" xml:space="preserve">
@@ -4031,6 +4070,11 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target state="translated">序列号</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Serves as a confirmation that the app has launched and adds the app to recent items in the Dock (if the app is installed in the Applications folder)." xml:space="preserve">
+        <source>Serves as a confirmation that the app has launched and adds the app to recent items in the Dock (if the app is installed in the Applications folder).</source>
+        <target state="translated">用于确认应用程序已启动并将应用程序添加到程序坞的最近项目（如果此应用程序安装在 /Applications 应用程序文件夹中)。</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Service Information" xml:space="preserve">
         <source>Service Information</source>
         <target state="translated">服务信息</target>
@@ -4136,6 +4180,11 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target state="translated">此应用程序所做设置受到保护。</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Show BetterDisplay in the macOS Dock" xml:space="preserve">
+        <source>Show BetterDisplay in the macOS Dock</source>
+        <target state="translated">在 macOS 程序坞中显示 BetterDisplay</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Show Mouse Pointer" xml:space="preserve">
         <source>Show Mouse Pointer</source>
         <target state="translated">显示鼠标指针</target>
@@ -4214,6 +4263,11 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Show macOS volume OSD with keyboard control" xml:space="preserve">
         <source>Show macOS volume OSD with keyboard control</source>
         <target state="translated">键盘控制时显示 macOS 音量调整浮窗 (OSD)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show native underscan slider in the Image Adjustments menu even if this capability is not detected. The force-enabled slider might not work or can cause system issues or crash the application." xml:space="preserve">
+        <source>Show native underscan slider in the Image Adjustments menu even if this capability is not detected. The force-enabled slider might not work or can cause system issues or crash the application.</source>
+        <target state="translated">即使未检测到此功能也在 图像调整 菜单中显示原生欠扫描滑块。强制启用的滑块可能无法生效或可导致系统问题或应用程序崩溃。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show on/off (power) switch in headers" xml:space="preserve">
@@ -4518,11 +4572,6 @@ Virtual screens are not connected automatically, brightness and other adjustment
       <trans-unit id="The app can automatically connect and disconnect a virtual screen based on the availability of the display(s) it is associated with. It can also auto-start mirroring or streaming or follow the associated display's orientation." xml:space="preserve">
         <source>The app can automatically connect and disconnect a virtual screen based on the availability of the display(s) it is associated with. It can also auto-start mirroring or streaming or follow the associated display's orientation.</source>
         <target state="translated">此应用程序可根据关联显示器可用性自动连接和断开虚拟屏幕，还可自启动镜像或串流，或使其跟随关联显示器的方向。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="The app is already running…" xml:space="preserve">
-        <source>The app is already running…</source>
-        <target state="translated">应用程序正在运行...</target>
         <note/>
       </trans-unit>
       <trans-unit id="The app menu icon will reflect the icon of the current main display. Enable if you don't like the default icon…" xml:space="preserve">
@@ -4840,24 +4889,6 @@ You can dismiss this notification - in this case the changes will be applied whe
         <target state="translated">要让 Apple 键盘的亮度和音量键控制外接显示器，请您在将应用程序添加到 **系统设置 &gt; 隐私与安全性 &gt; 辅助功能** ！后必须重启应用程序。或者您也可在 "设置" 中禁用原生键盘控制功能。</target>
         <note/>
       </trans-unit>
-      <trans-unit id="To use the app, use the menu bar icon in the macOS menu bar!&#10;&#10;If the menu bar icon is not visible (obstructed), you can rearrange the menu bar layout or increase resolution to allow for more space in the menu bar." xml:space="preserve">
-        <source>To use the app, use the menu bar icon in the macOS menu bar!
-
-If the menu bar icon is not visible (obstructed), you can rearrange the menu bar layout or increase resolution to allow for more space in the menu bar.</source>
-        <target state="translated">通过 macOS 菜单栏中的应用程序图标使用！
-
-如果菜单栏图标不可见（被阻止），您可以重新排列菜单栏布局或提高分辨率以扩展更多菜单栏空间。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="To use the app, use the menu bar icon in the macOS menu bar!&#10;&#10;The menu bar icon was hidden but it is now set to visible. You can hide it again in Settings." xml:space="preserve">
-        <source>To use the app, use the menu bar icon in the macOS menu bar!
-
-The menu bar icon was hidden but it is now set to visible. You can hide it again in Settings.</source>
-        <target state="translated">通过 macOS 菜单栏中的应用程序图标使用！
-
-菜单栏图标是隐藏的，但现已设为可见。您可在设置中再次隐藏它。</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Toggle Dark Mode" xml:space="preserve">
         <source>Toggle Dark Mode</source>
         <target state="translated">切换深色模式</target>
@@ -5043,9 +5074,13 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
         <target state="translated">不可用</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Under construction" xml:space="preserve">
+        <source>Under construction</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Underscan" xml:space="preserve">
         <source>Underscan</source>
-        <target state="translated">正在扫描</target>
+        <target state="translated">欠扫描</target>
         <note/>
       </trans-unit>
       <trans-unit id="Undo" xml:space="preserve">
@@ -5308,6 +5343,11 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
         <target state="translated">启用 HDR 提升且禁用硬件亮度控制时，此应用程序在 0 和校准最大提升值之间采用连续亮度单位。因此，中间设置（100%亮度，当屏幕上的HDR内容未受影响时）可能无法恰好落在调整浮窗 (OSD) 方格的边界，从而难以通过快捷键实现。应用程序在 100%亮度下插入了一个额外的中间补充以保证解决此问题。</target>
         <note/>
       </trans-unit>
+      <trans-unit id="When Settings is Open" xml:space="preserve">
+        <source>When Settings is Open</source>
+        <target state="translated">打开应用程序设置时</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="When expanding a menu item, automatically hide other items under the given device / menu block. This helps keep the menu smaller." xml:space="preserve">
         <source>When expanding a menu item, automatically hide other items under the given device / menu block. This helps keep the menu smaller.</source>
         <target state="translated">展开菜单项时自动隐藏给定设备/菜单块下的其他项目来缩小菜单。</target>
@@ -5351,6 +5391,10 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
       <trans-unit id="Write last used values to display" xml:space="preserve">
         <source>Write last used values to display</source>
         <target state="translated">向显示写入最后一次应用的值</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="XDR Preset" xml:space="preserve">
+        <source>XDR Preset</source>
         <note/>
       </trans-unit>
       <trans-unit id="XDR/HDR upscaling compatible" xml:space="preserve">
@@ -5537,7 +5581,7 @@ The menu bar icon was hidden but it is now set to visible. You can hide it again
   </file>
   <file original="BetterDisplayHelper/InfoPlist.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0.1" build-num="15A507"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">

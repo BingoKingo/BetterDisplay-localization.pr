@@ -345,6 +345,9 @@
     "Already Have a License?" : {
 
     },
+    "Always" : {
+
+    },
     "Always show both low (non-HiDPI) and high (HiDPI) resolutions" : {
 
     },
@@ -364,6 +367,9 @@
 
     },
     "Another app repeatedly altered screen colors or brightness - this clashes with what BetterDisplay is doing.\n\nYou should exit the other app or disable `Allow color adjustments` under Settings/Displays to fix this!" : {
+
+    },
+    "App Menu" : {
 
     },
     "App settings" : {
@@ -558,6 +564,9 @@
     "Briefly show an upward (XDR/HDR upscaling) or downward (software dimming) pointing icon in the OSD when extra dimming or brightness upscaling is happening via color table adjustment." : {
 
     },
+    "Briefly show Dock icon on startup" : {
+
+    },
     "Brightness" : {
 
     },
@@ -643,6 +652,9 @@
 
     },
     "Color Depth" : {
+
+    },
+    "Color Profile" : {
 
     },
     "Color Table Adjustments, XDR/HDR Upscaling" : {
@@ -1296,6 +1308,9 @@
     "Do you want to proceed?" : {
 
     },
+    "Dock" : {
+
+    },
     "Does not apply to hardware-only brightness control." : {
 
     },
@@ -1476,6 +1491,9 @@
     "Force support for color table manipulation" : {
 
     },
+    "Force-enable underscan slider" : {
+
+    },
     "Forget" : {
 
     },
@@ -1597,6 +1615,9 @@
 
     },
     "Identifiers" : {
+
+    },
+    "If Dock visibility is set to `Never`, the Edit menu and Copy/Paste keyboard shortcut keys will not be available in Settings." : {
 
     },
     "If keyboard control is set to the display that matches the current audio device name (set this up under Keyboard settings), this value will be used for audio device matching instead of the display name." : {
@@ -1981,6 +2002,9 @@
 
     },
     "Neutral (default) value" : {
+
+    },
+    "Never" : {
 
     },
     "New Virtual Screen Configuration" : {
@@ -2475,6 +2499,9 @@
     "Serial number" : {
 
     },
+    "Serves as a confirmation that the app has launched and adds the app to recent items in the Dock (if the app is installed in the Applications folder)." : {
+
+    },
     "Service Information" : {
 
     },
@@ -2547,6 +2574,9 @@
     "Show app icon in the menu bar" : {
 
     },
+    "Show BetterDisplay in the macOS Dock" : {
+
+    },
     "Show connect/disconnect in menu even if header has it as switch" : {
 
     },
@@ -2581,6 +2611,9 @@
 
     },
     "Show Mouse Pointer" : {
+
+    },
+    "Show native underscan slider in the Image Adjustments menu even if this capability is not detected. The force-enabled slider might not work or can cause system issues or crash the application." : {
 
     },
     "Show on/off (power) switch in headers" : {
@@ -2763,9 +2796,6 @@
     "The app can automatically connect and disconnect a virtual screen based on the availability of the display(s) it is associated with. It can also auto-start mirroring or streaming or follow the associated display's orientation." : {
 
     },
-    "The app is already running…" : {
-
-    },
     "The app menu icon will reflect the icon of the current main display. Enable if you don't like the default icon…" : {
 
     },
@@ -2928,12 +2958,6 @@
     "To make your Apple keyboard's brightness and volume keys control your external display, please add the app to **System Settings > Privacy & Security > Accessibility**! After this, you'll have to restart the app. Alternatively, you can disable native keyboard control in Settings." : {
 
     },
-    "To use the app, use the menu bar icon in the macOS menu bar!\n\nIf the menu bar icon is not visible (obstructed), you can rearrange the menu bar layout or increase resolution to allow for more space in the menu bar." : {
-
-    },
-    "To use the app, use the menu bar icon in the macOS menu bar!\n\nThe menu bar icon was hidden but it is now set to visible. You can hide it again in Settings." : {
-
-    },
     "Toggle cropping" : {
 
     },
@@ -3040,6 +3064,9 @@
 
     },
     "Unavailable" : {
+
+    },
+    "Under construction" : {
 
     },
     "Underscan" : {
@@ -3207,6 +3234,9 @@
     "When HDR upscaling is enabled while hardware brightness control is disabled, the app uses a continuous brightness scale between zero and the calibrated max upscale value. Due to this the neutral setting (100% brightness, when on-screen HDR content is unclipped) might not fall to an OSD chiclet boundary which makes it difficult to attain via the shortcut keys. To fix this an additional mid-chiclet step at 100% brightness is inserted." : {
 
     },
+    "When Settings is Open" : {
+
+    },
     "When volume reaches 0%…" : {
 
     },
@@ -3232,6 +3262,9 @@
 
     },
     "x" : {
+
+    },
+    "XDR Preset" : {
 
     },
     "XDR/HDR upscaling compatible" : {
