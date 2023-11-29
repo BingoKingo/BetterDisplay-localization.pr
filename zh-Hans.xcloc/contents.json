@@ -3,10 +3,10 @@
   "project" : "BetterDisplay.xcodeproj",
   "targetLocale" : "zh-Hans",
   "toolInfo" : {
-    "toolBuildNumber" : "15A507",
+    "toolBuildNumber" : "15C5059c",
     "toolID" : "com.apple.dt.xcode",
     "toolName" : "Xcode",
-    "toolVersion" : "15.0.1"
+    "toolVersion" : "15.1"
   },
   "version" : "1.0"
 }

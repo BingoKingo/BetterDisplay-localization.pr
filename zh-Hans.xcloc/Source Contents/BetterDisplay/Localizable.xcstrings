@@ -132,6 +132,9 @@
     "⚠️ For best results stick close to the display aspect ratio!" : {
 
     },
+    "⚠️ For this XDR display it best to set calibration to Default - Auto Calibrate so the app can automatically adapt upscaling to the currently selected XDR preset and environmental factors. For manual calibration set the brightness slider as high as possible while also making sure you still see the smiling face!" : {
+
+    },
     "⚠️ Full screen streaming is unavailable as it requires Screen Recording permissions. You can grant this under System Settings > Privacy & Security > Screen Recording!" : {
 
     },
@@ -282,6 +285,12 @@
     "Advanced virtual screen settings" : {
 
     },
+    "After discarding a virtual screen, it is recommended to remove it's unused factory color profile as well.\n\nYou can do this in System Settings or the app can do it for you (administrator credentials needed)." : {
+
+    },
+    "After discarding the virtual screen, it is recommended to remove it's unused factory color profile in System Settings." : {
+
+    },
     "Aggressive disconnect" : {
 
     },
@@ -370,6 +379,12 @@
 
     },
     "App Menu" : {
+
+    },
+    "App menu icon bounce animation on activity" : {
+
+    },
+    "App menu transition animation speed" : {
 
     },
     "App settings" : {
@@ -531,7 +546,13 @@
     "Base64 encoded string" : {
 
     },
+    "Basic (match vendor, model, serial)" : {
+
+    },
     "Basic + extended + location" : {
+
+    },
+    "Basic + extended identifiers" : {
 
     },
     "Basic Display Information" : {
@@ -618,7 +639,7 @@
     "Calibrate (Requires Enabled HDR)…" : {
 
     },
-    "Calibrate HDR Upscaling…" : {
+    "Calibrate Upscaling…" : {
 
     },
     "Cancel" : {
@@ -655,6 +676,9 @@
 
     },
     "Color Profile" : {
+
+    },
+    "Color Profile Configuration" : {
 
     },
     "Color Table Adjustments, XDR/HDR Upscaling" : {
@@ -1119,6 +1143,9 @@
     "Discard" : {
 
     },
+    "Discard & Remove Color Profile" : {
+
+    },
     "Discard All" : {
 
     },
@@ -1554,6 +1581,9 @@
     "Have fun by creating an endless mirror from your desktop!" : {
 
     },
+    "HDR Color Profile%@" : {
+
+    },
     "HDR Off" : {
 
     },
@@ -1636,10 +1666,10 @@
 
     },
     "If you would like to use a virtual screen later, use disconnect instead so macOS display configuration data is preserved." : {
-
+      "extractionState" : "stale"
     },
     "If you would like to use a virtual screen later, you should disconnect the virtual screen instead to preserve macOS display configuration data." : {
-
+      "extractionState" : "stale"
     },
     "If you would like to use the virtual screens later, it is better to use disconnect so macOS display configuration data is preserved." : {
 
@@ -1821,6 +1851,9 @@
     "MacOS can mute digital streams natively - if mute does not work properly with your display, you should enable this feature." : {
 
     },
+    "Main app menu popup animation" : {
+
+    },
     "Main Status" : {
 
     },
@@ -1858,12 +1891,21 @@
 
     },
     "Match basic + extended identifiers" : {
-
+      "extractionState" : "stale"
     },
     "Match basic identifiers" : {
-
+      "extractionState" : "stale"
     },
     "Match menu icon with main display icon" : {
+
+    },
+    "Match name only" : {
+
+    },
+    "Match vendor, model" : {
+
+    },
+    "Match vendor, model, name" : {
 
     },
     "Matches default resolution" : {
@@ -2019,6 +2061,9 @@
     "No" : {
 
     },
+    "No color profiles found." : {
+
+    },
     "No display is selected" : {
 
     },
@@ -2035,6 +2080,9 @@
 
     },
     "No Stream Targets Available" : {
+
+    },
+    "No XDR Presets Found." : {
 
     },
     "Non-natively connected display" : {
@@ -2271,6 +2319,9 @@
     "Registry path" : {
 
     },
+    "Reinitialize external displays" : {
+
+    },
     "Reinitialize External Displays" : {
 
     },
@@ -2281,6 +2332,12 @@
 
     },
     "Remember unknown displays for at least" : {
+
+    },
+    "Remove Color Profiles" : {
+
+    },
+    "Remove Factory Color Profiles?" : {
 
     },
     "Remove from Favorite %lld" : {
@@ -2485,6 +2542,12 @@
 
     },
     "Screen with the window in focus" : {
+
+    },
+    "SDR Color Profile%@" : {
+
+    },
+    "seconds" : {
 
     },
     "Select a common aspect ratio for the virtual screen. The app creates a flexible resolution list based on this." : {
@@ -2746,6 +2809,9 @@
 
     },
     "Supports variable refresh rate" : {
+
+    },
+    "Supports XDR presets" : {
 
     },
     "Swap identical displays" : {
@@ -3066,9 +3132,6 @@
     "Unavailable" : {
 
     },
-    "Under construction" : {
-
-    },
     "Underscan" : {
 
     },
@@ -3121,6 +3184,9 @@
 
     },
     "Use mute/unmute methods" : {
+
+    },
+    "Use zero to disable transition animation." : {
 
     },
     "Useful for DisplayLink attached monitors using newer driver versions with color-temperature support enabled." : {
@@ -3262,6 +3328,9 @@
 
     },
     "x" : {
+
+    },
+    "XDR Configuration" : {
 
     },
     "XDR Preset" : {

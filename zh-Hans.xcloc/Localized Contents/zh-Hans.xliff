@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="BetterDisplay/InfoPlist.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0.1" build-num="15A507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.1" build-num="15C5059c"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -25,7 +25,7 @@
   </file>
   <file original="BetterDisplay/Localizable.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0.1" build-num="15A507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.1" build-num="15C5059c"/>
     </header>
     <body>
       <trans-unit id="" xml:space="preserve">
@@ -285,7 +285,7 @@
       </trans-unit>
       <trans-unit id="Add and remove favorite resolutions via long press" xml:space="preserve">
         <source>Add and remove favorite resolutions via long press</source>
-        <target state="translated">长按添加或删除收藏</target>
+        <target state="translated">长按添加或移出收藏</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add near-native HiDPI resolution with smooth scaling" xml:space="preserve">
@@ -355,7 +355,7 @@
       </trans-unit>
       <trans-unit id="Advanced color table and upscaling settings" xml:space="preserve">
         <source>Advanced color table and upscaling settings</source>
-        <target state="translated">高级颜色表和提升设置</target>
+        <target state="translated">高级色表和提升设置</target>
         <note/>
       </trans-unit>
       <trans-unit id="Advanced control settings" xml:space="preserve">
@@ -376,6 +376,20 @@
       <trans-unit id="Advanced virtual screen settings" xml:space="preserve">
         <source>Advanced virtual screen settings</source>
         <target state="translated">高级虚拟屏幕设置</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="After discarding a virtual screen, it is recommended to remove it's unused factory color profile as well.&#10;&#10;You can do this in System Settings or the app can do it for you (administrator credentials needed)." xml:space="preserve">
+        <source>After discarding a virtual screen, it is recommended to remove it's unused factory color profile as well.
+
+You can do this in System Settings or the app can do it for you (administrator credentials needed).</source>
+        <target state="translated">推荐虚拟屏幕弃用后在 系统设置 中一并移除其未使用的出厂颜色描述文件。
+
+您可在 系统设置 中操作或者允许应用程序为您进行此操作（需要管理员权限）。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="After discarding the virtual screen, it is recommended to remove it's unused factory color profile in System Settings." xml:space="preserve">
+        <source>After discarding the virtual screen, it is recommended to remove it's unused factory color profile in System Settings.</source>
+        <target state="translated">推荐虚拟屏幕弃用后在 系统设置 中移除其未使用的出厂颜色描述文件。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Aggressive disconnect" xml:space="preserve">
@@ -536,6 +550,16 @@ You should exit the other app or disable `Allow color adjustments` under Setting
         <target state="translated">应用程序菜单</target>
         <note/>
       </trans-unit>
+      <trans-unit id="App menu icon bounce animation on activity" xml:space="preserve">
+        <source>App menu icon bounce animation on activity</source>
+        <target state="translated">应用程序菜单图标活动时的弹跳动画</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="App menu transition animation speed" xml:space="preserve">
+        <source>App menu transition animation speed</source>
+        <target state="translated">应用程序菜单过渡动画速度</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="App settings" xml:space="preserve">
         <source>App settings</source>
         <target state="translated">应用程序设置</target>
@@ -605,7 +629,7 @@ AliPay available in China.</source>
       </trans-unit>
       <trans-unit id="Apply EDID override on startup or when the display is next connected. A modified EDID allows you to alter display capabilities perceived by your Mac." xml:space="preserve">
         <source>Apply EDID override on startup or when the display is next connected. A modified EDID allows you to alter display capabilities perceived by your Mac.</source>
-        <target state="translated">在启动或下次连接显示器时覆盖 EDID。修改后的 EDID 允许您更改 Mac 的感知显示功能。</target>
+        <target state="translated">在启动或下次连接显示器时覆盖 EDID。更改后的 EDID 允许您更改 Mac 的感知显示功能。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Apply Filter" xml:space="preserve">
@@ -640,7 +664,7 @@ AliPay available in China.</source>
       </trans-unit>
       <trans-unit id="Are sure you want to reset (forget) all settings related to this display? Reset does not affect system configuration settings like smooth scaling, custom resolutions." xml:space="preserve">
         <source>Are sure you want to reset (forget) all settings related to this display? Reset does not affect system configuration settings like smooth scaling, custom resolutions.</source>
-        <target state="translated">确定要重置（忘记）此显示器的所有相关设置吗？重置不影响系统配置项，如平滑缩放、自定义分辨率。</target>
+        <target state="translated">确定要重置（忽略）此显示器的所有相关设置吗？重置不影响系统配置项，如平滑缩放、自定义分辨率。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are sure you want to reset app settings?" xml:space="preserve">
@@ -785,7 +809,7 @@ AliPay available in China.</source>
       </trans-unit>
       <trans-unit id="Automatically remove stored configuration details for displays that have not been connected for a while." xml:space="preserve">
         <source>Automatically remove stored configuration details for displays that have not been connected for a while.</source>
-        <target state="translated">自动删除一段时间未连接的显示器详细配置信息。</target>
+        <target state="translated">自动移除一段时间未连接的显示器详细配置信息。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Automatically stream the virtual screen's content to the associated display. If multiple associated displays are connected, only one will be stream target." xml:space="preserve">
@@ -803,9 +827,19 @@ AliPay available in China.</source>
         <target state="translated">Base64 编码的字符串</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Basic (match vendor, model, serial)" xml:space="preserve">
+        <source>Basic (match vendor, model, serial)</source>
+        <target state="translated">基本（匹配供应商，型号，序列号）</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Basic + extended + location" xml:space="preserve">
         <source>Basic + extended + location</source>
         <target state="translated">基本 + 扩展 + 位置</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Basic + extended identifiers" xml:space="preserve">
+        <source>Basic + extended identifiers</source>
+        <target state="translated">基本 + 扩展标识符</target>
         <note/>
       </trans-unit>
       <trans-unit id="Basic Display Information" xml:space="preserve">
@@ -948,9 +982,9 @@ AliPay available in China.</source>
         <target state="translated">校准（需启用 HDR）...</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Calibrate HDR Upscaling…" xml:space="preserve">
-        <source>Calibrate HDR Upscaling…</source>
-        <target state="translated">校准 HDR 升级...</target>
+      <trans-unit id="Calibrate Upscaling…" xml:space="preserve">
+        <source>Calibrate Upscaling…</source>
+        <target state="translated">校准提升...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
@@ -1000,6 +1034,12 @@ AliPay available in China.</source>
       </trans-unit>
       <trans-unit id="Color Profile" xml:space="preserve">
         <source>Color Profile</source>
+        <target state="translated">颜色描述文件</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Color Profile Configuration" xml:space="preserve">
+        <source>Color Profile Configuration</source>
+        <target state="translated">颜色描述文件配置</target>
         <note/>
       </trans-unit>
       <trans-unit id="Color Table Adjustments, XDR/HDR Upscaling" xml:space="preserve">
@@ -1019,7 +1059,7 @@ AliPay available in China.</source>
       </trans-unit>
       <trans-unit id="Color table alteration capable" xml:space="preserve">
         <source>Color table alteration capable</source>
-        <target state="translated">可修改色表</target>
+        <target state="translated">可更改色表</target>
         <note/>
       </trans-unit>
       <trans-unit id="Color temperature cooler" xml:space="preserve">
@@ -1772,6 +1812,11 @@ AliPay available in China.</source>
         <target state="translated">弃用</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Discard &amp; Remove Color Profile" xml:space="preserve">
+        <source>Discard &amp; Remove Color Profile</source>
+        <target state="translated">弃用并移除颜色描述文件</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Discard All" xml:space="preserve">
         <source>Discard All</source>
         <target state="translated">全部弃用</target>
@@ -1889,7 +1934,7 @@ AliPay available in China.</source>
       </trans-unit>
       <trans-unit id="Disconnecting a non-natively connected or virtual screen works in a sense that it is removed from the display layout - but usually it does not mean the screen is really disconnected." xml:space="preserve">
         <source>Disconnecting a non-natively connected or virtual screen works in a sense that it is removed from the display layout - but usually it does not mean the screen is really disconnected.</source>
-        <target state="translated">断开非本机连接或虚拟屏幕的连接实际上是将其从显示布局中删除 - 但通常并不意味着屏幕真正断开。</target>
+        <target state="translated">断开非本机连接或虚拟屏幕的连接实际上是将其从显示布局中移除 - 但通常并不意味着屏幕真正断开。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disconnecting all displays might prevent you from interacting with your Mac!" xml:space="preserve">
@@ -2293,7 +2338,7 @@ The process does not work for the built-in display (reboot needed). The operatio
       </trans-unit>
       <trans-unit id="Enable smooth scaling, create custom scaled resolutions, modify native and default resolutions, change display name and role%@. Please note that all displays with the same vendor and model number are affected by the changes!" xml:space="preserve">
         <source>Enable smooth scaling, create custom scaled resolutions, modify native and default resolutions, change display name and role%@. Please note that all displays with the same vendor and model number are affected by the changes!</source>
-        <target state="translated">启用平滑缩放、创建自定义缩放分辨率、修改原生和默认分辨率、更改显示器名称和角色 %@。请注意所有相同供应商和型号的显示器都会受这些更改的影响！</target>
+        <target state="translated">启用平滑缩放、创建自定义缩放分辨率、更改原生和默认分辨率、更改显示器名称和角色 %@。请注意所有相同供应商和型号的显示器都会受这些更改的影响！</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable software-based video adjustments" xml:space="preserve">
@@ -2378,7 +2423,7 @@ The process does not work for the built-in display (reboot needed). The operatio
       </trans-unit>
       <trans-unit id="First added" xml:space="preserve">
         <source>First added</source>
-        <target state="translated">首次添加</target>
+        <target state="translated">首次添加时间</target>
         <note/>
       </trans-unit>
       <trans-unit id="Flip" xml:space="preserve">
@@ -2403,22 +2448,22 @@ The process does not work for the built-in display (reboot needed). The operatio
       </trans-unit>
       <trans-unit id="Forget" xml:space="preserve">
         <source>Forget</source>
-        <target state="translated">忘记</target>
+        <target state="translated">忽略</target>
         <note/>
       </trans-unit>
       <trans-unit id="Forget All DDC Stored Values" xml:space="preserve">
         <source>Forget All DDC Stored Values</source>
-        <target state="translated">忘记所有已存储的 DDC 值</target>
+        <target state="translated">忽略所有已存储的 DDC 值</target>
         <note/>
       </trans-unit>
       <trans-unit id="Forget Display" xml:space="preserve">
         <source>Forget Display</source>
-        <target state="translated">忘记显示器</target>
+        <target state="translated">忽略显示器</target>
         <note/>
       </trans-unit>
       <trans-unit id="Forget displays after a while" xml:space="preserve">
         <source>Forget displays after a while</source>
-        <target state="translated">一段时间后忘记显示器</target>
+        <target state="translated">一段时间后忽略显示器</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free Aspect Ratio" xml:space="preserve">
@@ -2484,6 +2529,11 @@ The process does not work for the built-in display (reboot needed). The operatio
       <trans-unit id="Green Gain (DDC)" xml:space="preserve">
         <source>Green Gain (DDC)</source>
         <target state="translated">绿色增益 (DDC)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="HDR Color Profile%@" xml:space="preserve">
+        <source>HDR Color Profile%@</source>
+        <target state="translated">HDR 颜色描述文件 %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="HDR Off" xml:space="preserve">
@@ -2802,12 +2852,12 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Last detected" xml:space="preserve">
         <source>Last detected</source>
-        <target state="translated">最近检测</target>
+        <target state="translated">最近连接时间</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last undetected" xml:space="preserve">
         <source>Last undetected</source>
-        <target state="translated">最近未检测</target>
+        <target state="translated">最近断开时间</target>
         <note/>
       </trans-unit>
       <trans-unit id="Leave mute key under OS control" xml:space="preserve">
@@ -2852,7 +2902,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Let the virtual screen follow the orientation of the associated display when it is rotated." xml:space="preserve">
         <source>Let the virtual screen follow the orientation of the associated display when it is rotated.</source>
-        <target state="translated">让虚拟屏幕在旋转时跟随关联显示器的方向。</target>
+        <target state="translated">让虚拟屏幕旋转时跟随关联显示器方向。</target>
         <note/>
       </trans-unit>
       <trans-unit id="License management allows Pro features, purchasing, license activation and free trial. If you disable this, you can only use free features. License management requires communication with the payment and licensing provider Paddle ([paddle.com/privacy](https://paddle.com/privacy))." xml:space="preserve">
@@ -2917,7 +2967,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Load an EDID binary image exported by BetterDisplay (or other tools). You can also use an EDID binary created/modified by an EDID editor like AW EDID Editor. If you have a Base64 text representation of an EDID image, use the 'Paste Base64' button to load it." xml:space="preserve">
         <source>Load an EDID binary image exported by BetterDisplay (or other tools). You can also use an EDID binary created/modified by an EDID editor like AW EDID Editor. If you have a Base64 text representation of an EDID image, use the 'Paste Base64' button to load it.</source>
-        <target state="translated">加载由 BetterDisplay（或其他工具）导出的 EDID 二进制文件。您也可使用由 EDID 编辑器（如AW EDID Editor）创建/修改的EDID 二进制文件。如果您有个 Base64 文本表示的 EDID文件，使用 "粘贴 Base64 文本" 按钮来加载它。</target>
+        <target state="translated">加载由 BetterDisplay（或其他工具）导出的 EDID 二进制文件。您也可使用由 EDID 编辑器（如AW EDID Editor）创建/更改的EDID 二进制文件。如果您有 EDID 图像的 Base64 字符串标识，使用 "粘贴 Base64 文本" 按钮来加载它。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Loaded EDID Data" xml:space="preserve">
@@ -2943,6 +2993,11 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Main Status" xml:space="preserve">
         <source>Main Status</source>
         <target state="translated">主显示屏状态</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Main app menu popup animation" xml:space="preserve">
+        <source>Main app menu popup animation</source>
+        <target state="translated">应用程序主菜单弹出动画</target>
         <note/>
       </trans-unit>
       <trans-unit id="Make Tools menu collapsible instead of closable" xml:space="preserve">
@@ -3013,6 +3068,21 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Match menu icon with main display icon" xml:space="preserve">
         <source>Match menu icon with main display icon</source>
         <target state="translated">在菜单栏匹配主显示屏图标</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Match name only" xml:space="preserve">
+        <source>Match name only</source>
+        <target state="translated">仅匹配名称</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Match vendor, model" xml:space="preserve">
+        <source>Match vendor, model</source>
+        <target state="translated">匹配供应商，型号</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Match vendor, model, name" xml:space="preserve">
+        <source>Match vendor, model, name</source>
+        <target state="translated">匹配供应商，型号，名称</target>
         <note/>
       </trans-unit>
       <trans-unit id="Matches default resolution" xml:space="preserve">
@@ -3280,6 +3350,16 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target state="translated">无可用串流目标</target>
         <note/>
       </trans-unit>
+      <trans-unit id="No XDR Presets Found." xml:space="preserve">
+        <source>No XDR Presets Found.</source>
+        <target state="translated">未找到 XDR 预设。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No color profiles found." xml:space="preserve">
+        <source>No color profiles found.</source>
+        <target state="translated">未找到颜色描述文件。</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="No display is selected" xml:space="preserve">
         <source>No display is selected</source>
         <target state="translated">无已选显示器</target>
@@ -3482,7 +3562,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Potentially DDC compatible" xml:space="preserve">
         <source>Potentially DDC compatible</source>
-        <target state="translated">可能与 DDC 兼容</target>
+        <target state="translated">可兼容 DDC</target>
         <note/>
       </trans-unit>
       <trans-unit id="Powering off the main display" xml:space="preserve">
@@ -3690,6 +3770,11 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target state="translated">重新初始化外部显示器</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Reinitialize external displays" xml:space="preserve">
+        <source>Reinitialize external displays</source>
+        <target state="translated">重新初始化外部显示器</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Reinitialize external displays with smooth scaling enabled if needed" xml:space="preserve">
         <source>Reinitialize external displays with smooth scaling enabled if needed</source>
         <target state="translated">启用平滑缩放时按需重新初始化外部显示器</target>
@@ -3703,6 +3788,16 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Remember unknown displays for at least" xml:space="preserve">
         <source>Remember unknown displays for at least</source>
         <target state="translated">至少记住未知显示器</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Remove Color Profiles" xml:space="preserve">
+        <source>Remove Color Profiles</source>
+        <target state="translated">移除颜色描述文件</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Remove Factory Color Profiles?" xml:space="preserve">
+        <source>Remove Factory Color Profiles?</source>
+        <target state="translated">移除出厂颜色描述文件？</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove from Favorite %lld" xml:space="preserve">
@@ -4003,6 +4098,11 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       <trans-unit id="Rotation%@" xml:space="preserve">
         <source>Rotation%@</source>
         <target state="translated">%@ 旋转</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="SDR Color Profile%@" xml:space="preserve">
+        <source>SDR Color Profile%@</source>
+        <target state="translated">SDR 颜色描述文件 %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="SOURCE" xml:space="preserve">
@@ -4465,19 +4565,24 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target state="translated">由此显示器支持</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Supports XDR presets" xml:space="preserve">
+        <source>Supports XDR presets</source>
+        <target state="translated">XDR 预设支持</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Supports changing orientation" xml:space="preserve">
         <source>Supports changing orientation</source>
-        <target state="translated">支持改变方向</target>
+        <target state="translated">屏幕旋转支持</target>
         <note/>
       </trans-unit>
       <trans-unit id="Supports proper HiDPI" xml:space="preserve">
         <source>Supports proper HiDPI</source>
-        <target state="translated">支持适当的 HiDPI</target>
+        <target state="translated">适当 HiDPI 支持</target>
         <note/>
       </trans-unit>
       <trans-unit id="Supports variable refresh rate" xml:space="preserve">
         <source>Supports variable refresh rate</source>
-        <target state="translated">支持可变刷新率</target>
+        <target state="translated">可变刷新率支持</target>
         <note/>
       </trans-unit>
       <trans-unit id="Swap identical displays" xml:space="preserve">
@@ -4607,7 +4712,7 @@ Please open the app in native mode - to achieve this, unselect "Open using Roset
         <source>The app will forget all stored DDC values and treat all controls and untouched. Sliders will revert to default neutral values.
 
 This operation does not reset the display itself.</source>
-        <target state="translated">应用程序将忘记所有已存储的 DDC 值，并使所有控制项保持不变。滑块将恢复为默认中间值。
+        <target state="translated">应用程序将忽略所有已存储的 DDC 值，并使所有控制项保持不变。滑块将恢复为默认中间值。
 
 此操作不会重置显示器本身。</target>
         <note/>
@@ -4798,7 +4903,7 @@ Please try again once the permissions are granted!</source>
 Please note that previously stored custom display configurations won't be removed from the system!</source>
         <target state="translated">这将恢复默认设置并重启应用程序。
 
-请注意，以前存储的自定义显示配置不会从系统中删除！</target>
+请注意，以前存储的自定义显示配置不会从系统中移除！</target>
         <note/>
       </trans-unit>
       <trans-unit id="This setting applies to screens/displays that are scalable (virtual screens, real displays with native smooth scaling enabled). Default resolution is 100%." xml:space="preserve">
@@ -4843,7 +4948,7 @@ If you can't turn the display back on using the app, try reconnecting the displa
 Please note that on Intel Macs (such as this Mac) the feature might not work as expected!
 
 IMPORTANT: While the display is in a disconnected state (via the app), physically turning the display off, removing the cable or (for a built-in display) closing the lid may result in an inability to turn any displays back on (until a reboot)!</source>
-        <target state="translated">这将从显示屏布局中删除显示器。
+        <target state="translated">这将从显示屏布局中移除显示器。
 
 请注意在 Intel Macs（如此 Mac）上，此功能可能无效！
 
@@ -5074,10 +5179,6 @@ You can dismiss this notification - in this case the changes will be applied whe
         <target state="translated">不可用</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Under construction" xml:space="preserve">
-        <source>Under construction</source>
-        <note/>
-      </trans-unit>
       <trans-unit id="Underscan" xml:space="preserve">
         <source>Underscan</source>
         <target state="translated">欠扫描</target>
@@ -5166,6 +5267,11 @@ You can dismiss this notification - in this case the changes will be applied whe
       <trans-unit id="Use mute/unmute methods" xml:space="preserve">
         <source>Use mute/unmute methods</source>
         <target state="translated">采用静音/非静音方式</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Use zero to disable transition animation." xml:space="preserve">
+        <source>Use zero to disable transition animation.</source>
+        <target state="translated">采用 0 值禁用过渡动画。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Useful for DisplayLink attached monitors using newer driver versions with color-temperature support enabled." xml:space="preserve">
@@ -5393,8 +5499,14 @@ You can dismiss this notification - in this case the changes will be applied whe
         <target state="translated">向显示写入最后一次应用的值</target>
         <note/>
       </trans-unit>
+      <trans-unit id="XDR Configuration" xml:space="preserve">
+        <source>XDR Configuration</source>
+        <target state="translated">XDR 配置</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="XDR Preset" xml:space="preserve">
         <source>XDR Preset</source>
+        <target state="translated">XDR 预设</target>
         <note/>
       </trans-unit>
       <trans-unit id="XDR/HDR upscaling compatible" xml:space="preserve">
@@ -5502,6 +5614,11 @@ You can dismiss this notification - in this case the changes will be applied whe
         <target state="translated">毫秒</target>
         <note/>
       </trans-unit>
+      <trans-unit id="seconds" xml:space="preserve">
+        <source>seconds</source>
+        <target state="translated">秒</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="times" xml:space="preserve">
         <source>times</source>
         <target state="translated">次数</target>
@@ -5547,6 +5664,11 @@ You can dismiss this notification - in this case the changes will be applied whe
         <target state="translated">⚠️ 请接近显示宽高比以获得最佳效果！</target>
         <note/>
       </trans-unit>
+      <trans-unit id="⚠️ For this XDR display it best to set calibration to Default - Auto Calibrate so the app can automatically adapt upscaling to the currently selected XDR preset and environmental factors. For manual calibration set the brightness slider as high as possible while also making sure you still see the smiling face!" xml:space="preserve">
+        <source>⚠️ For this XDR display it best to set calibration to Default - Auto Calibrate so the app can automatically adapt upscaling to the currently selected XDR preset and environmental factors. For manual calibration set the brightness slider as high as possible while also making sure you still see the smiling face!</source>
+        <target state="translated">⚠️ 最好将此 XDR 显示器校准设为默认值 - 自动校准以使此应用程序自动适应当前选定的 XDR 预设和环境因素。手动校准时请确保您在仍能看到笑脸下将亮度滑块设置得尽可能高！</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="⚠️ Full screen streaming is unavailable as it requires Screen Recording permissions. You can grant this under System Settings &gt; Privacy &amp; Security &gt; Screen Recording!" xml:space="preserve">
         <source>⚠️ Full screen streaming is unavailable as it requires Screen Recording permissions. You can grant this under System Settings &gt; Privacy &amp; Security &gt; Screen Recording!</source>
         <target state="translated">⚠️ 全屏串流不可用，此设置需要屏幕录制权限。您可在 系统设置 &gt; 隐私与安全性 &gt; 屏幕录制 下授予权限！</target>
@@ -5581,7 +5703,7 @@ You can dismiss this notification - in this case the changes will be applied whe
   </file>
   <file original="BetterDisplayHelper/InfoPlist.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0.1" build-num="15A507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.1" build-num="15C5059c"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
