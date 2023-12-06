@@ -339,7 +339,16 @@
     "Allow using F14/F15 as alternative brightness keys" : {
 
     },
+    "Allows access to app functionality via HTTP requests when enabled." : {
+
+    },
     "Allows only one device to show more options via the more options chevron. This helps with menu bloating when several displays are present." : {
+
+    },
+    "Allows restoring zero software brightness levels and combined brightness levels with the hardware brightness component being lower than the current reported brightness level for Apple displays (these might be invalid restore values saved during a dark wake period)." : {
+
+    },
+    "Allows systemwide URLs (see [documentation](https://betterdisplay.pro/integration)) to reach various app features. This allows integration with other apps and scripted access to app functionality." : {
 
     },
     "Alpha" : {
@@ -376,6 +385,9 @@
 
     },
     "Another app repeatedly altered screen colors or brightness - this clashes with what BetterDisplay is doing.\n\nYou should exit the other app or disable `Allow color adjustments` under Settings/Displays to fix this!" : {
+
+    },
+    "App Integration" : {
 
     },
     "App Menu" : {
@@ -579,6 +591,15 @@
     "Blue Gain (DDC)" : {
 
     },
+    "Blue Gamma" : {
+
+    },
+    "Blue Hardware Black Level" : {
+
+    },
+    "Blue Hardware Gain" : {
+
+    },
     "Both turned off by HDR toggle" : {
 
     },
@@ -702,6 +723,9 @@
     "Combined brightness" : {
 
     },
+    "Combined Brightness" : {
+
+    },
     "Combined brightness - minimum allowed hardware brightness level" : {
 
     },
@@ -802,6 +826,9 @@
 
     },
     "Contrast (DDC)" : {
+
+    },
+    "Control" : {
 
     },
     "Copy" : {
@@ -1080,6 +1107,9 @@
     "Defines the diagonal size the system percieves the display. If used for mirroring/streaming, it might optionally be matched to the target screen. Safe to leave empty as default. With custom resolution list of varying aspect ratios the actual reported size may be different." : {
 
     },
+    "Defines the TCP port the built-in HTTP server listens to." : {
+
+    },
     "Delay between commands" : {
 
     },
@@ -1281,16 +1311,10 @@
     "Display status" : {
 
     },
-    "Display tag ID" : {
-
-    },
     "Display to match" : {
 
     },
     "Display type" : {
-
-    },
-    "Display UUID" : {
 
     },
     "Display with the same name as current audio device" : {
@@ -1315,6 +1339,9 @@
 
     },
     "Do not restore combined brightness and software adjustments" : {
+
+    },
+    "Do Nothing" : {
 
     },
     "Do you want to deactivate the license?" : {
@@ -1416,6 +1443,9 @@
     "Enable Cropping" : {
 
     },
+    "Enable custom URL schema access" : {
+
+    },
     "Enable Dark Mode" : {
 
     },
@@ -1432,6 +1462,9 @@
 
     },
     "Enable HiDPI resolutions" : {
+
+    },
+    "Enable integrated HTTP server" : {
 
     },
     "Enable lower than 720p resolutions" : {
@@ -1572,6 +1605,21 @@
     "Green Gain (DDC)" : {
 
     },
+    "Green Gamma" : {
+
+    },
+    "Green Hardware Black Level" : {
+
+    },
+    "Green Hardware Gain" : {
+
+    },
+    "Hardware Brightness" : {
+
+    },
+    "Hardware Contrast" : {
+
+    },
     "Hardware Control" : {
 
     },
@@ -1638,6 +1686,9 @@
     "Horizontal" : {
 
     },
+    "HTTP server is currently running and listening for commands on port %@." : {
+
+    },
     "Hz" : {
 
     },
@@ -1645,6 +1696,9 @@
 
     },
     "Identifiers" : {
+
+    },
+    "If configured, the token must be specified in the URL (see [documentation](https://betterdisplay.pro/integration)). This prevents external links to perform unwanted actions." : {
 
     },
     "If Dock visibility is set to `Never`, the Edit menu and Copy/Paste keyboard shortcut keys will not be available in Settings." : {
@@ -1664,12 +1718,6 @@
     },
     "If the updated EDID contains new display identity (serial number, model ID, vendor ID), macOS will treat the display as a separate display. With this option enabled, BetterDisplay preserves continuity between the old and new identity during the current app session." : {
 
-    },
-    "If you would like to use a virtual screen later, use disconnect instead so macOS display configuration data is preserved." : {
-      "extractionState" : "stale"
-    },
-    "If you would like to use a virtual screen later, you should disconnect the virtual screen instead to preserve macOS display configuration data." : {
-      "extractionState" : "stale"
     },
     "If you would like to use the virtual screens later, it is better to use disconnect so macOS display configuration data is preserved." : {
 
@@ -1723,6 +1771,9 @@
 
     },
     "Insert intermediate keyboard/OSD step at neutral 100% for HDR upscaling" : {
+
+    },
+    "Integration settings" : {
 
     },
     "Intel" : {
@@ -1824,6 +1875,9 @@
     "Listen to native audio keys" : {
 
     },
+    "Listening HTTP port" : {
+
+    },
     "Load an EDID binary image exported by BetterDisplay (or other tools). You can also use an EDID binary created/modified by an EDID editor like AW EDID Editor. If you have a Base64 text representation of an EDID image, use the 'Paste Base64' button to load it." : {
 
     },
@@ -1889,12 +1943,6 @@
     },
     "Match aspect ratio of and associate to a display" : {
 
-    },
-    "Match basic + extended identifiers" : {
-      "extractionState" : "stale"
-    },
-    "Match basic identifiers" : {
-      "extractionState" : "stale"
     },
     "Match menu icon with main display icon" : {
 
@@ -2050,6 +2098,9 @@
 
     },
     "New Virtual Screen Configuration" : {
+
+    },
+    "Night Shift" : {
 
     },
     "Night Shift Intensity" : {
@@ -2304,6 +2355,15 @@
     "Red Gain (DDC)" : {
 
     },
+    "Red Gamma" : {
+
+    },
+    "Red Hardware Black Level" : {
+
+    },
+    "Red Hardware Gain" : {
+
+    },
     "Redetect Displays" : {
 
     },
@@ -2448,6 +2508,9 @@
     "Restore display layout after connecting virtual screen for the first time or when mirroring is engaged via the app menu." : {
 
     },
+    "Restore excessive dimming for Apple displays" : {
+
+    },
     "Restore factory EDID on quit" : {
 
     },
@@ -2548,6 +2611,9 @@
 
     },
     "seconds" : {
+
+    },
+    "Security token" : {
 
     },
     "Select a common aspect ratio for the virtual screen. The app creates a flexible resolution list based on this." : {
@@ -2727,6 +2793,9 @@
     "Smooth transitions" : {
 
     },
+    "Software Brightness" : {
+
+    },
     "Software control" : {
 
     },
@@ -2854,6 +2923,9 @@
 
     },
     "Television" : {
+
+    },
+    "Temperature" : {
 
     },
     "The app automatically attempts to reconnect all displays when no connected display is present." : {
@@ -3229,9 +3301,6 @@
 
     },
     "Virtual screen follows display orientation" : {
-
-    },
-    "Virtual screen identifiers" : {
 
     },
     "Virtual Screen Management" : {
